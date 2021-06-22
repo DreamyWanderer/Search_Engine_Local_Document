@@ -1,0 +1,144 @@
+(1) Đọc lên được dữ liệu UTF16-LE
+ (đọc từ file binary)
+(2) Tách 1 string thành các token (từ/ tiếng)
+
+index.txt
+tên của các file mà mình cần quản lý
+
+metadata.dat
+do ứng dụng sinh ra và quản lý
+
+đọc dữ liệu (gốc) khi sinh ra metadata (create/update)
+
+Menu:
+(1) Chọn danh sách ban đầu (load file index.txt)
+(2) Bổ sung 1 file txt mới (chưa có trong index.txt)
+(3) Loại bỏ 1 file txt (đã có trước đó)
+(4) Build metadata 
+(5) Truy vấn 
+
+
+
+- chuyển toàn bộ chữ từ hoa thành thường (lower case)
+- Xóa các khoảng trắng thừa ("  " ==> " ") lặp nhiều lần
+Hãy đặt ra hàm xóa stopword
+- Loại bỏ stop word (tùy)
+  ==> for tuần tự từng vị trí bắt đầu trong 1 string, dò thử đoạn đang xét có phải là stop word ==> xóa
+
+
+string XoaStopword(string s)
+{
+	return GiaiPhap1(s); // adapter
+}
+
+float	DanhGia(string[] keyphrases, int docID) // 0-->1
+{
+	
+}
+
+
+tìm kiếm trên các word (token)
+
+đại học
+khoa học
+tự
+nhiên
+
+Phuong án 1: // monogram
+- tìm theo từng token (tiếng)
+
+
+"đại học" +"khoa học" +tự +nhiên
+
+Phương án 2: // digram
+- hỗ trợ tra cứu với keyphrase tối đa là 2 token
+
+Phương án 3: // trigram 
+- hỗ trợ tra cứu với keyphrase tối đa là 3 token
+
+- 
+
+
+(B) Loại bỏ những token hay gặp mà ko quan trọng (stopword)
+Cho 1 mảng token, trả về 1 mảng đã loại bỏ các token không quan trọng
+(B1) cho 1 token, đánh giá nó quan trọng hay ko
+divide and conquer
+
+bool isImportant(string token)
+{
+	// load từ đầu chương trình 1 mảng các token KO QUAN TRỌNG
+	// kiểm tra
+	return true;
+}
+
+
+
+
+
+
+
+vector<string> RemoveTamThuongToken(vector<string)
+{
+}
+
+
+(A) Cho 1 string UTF-16 LE, hãy tạo ra 1 mảng các string (token), mỗi token là 1 word, được phân cách bằng bằng ' ', .,;/'
+(deliminator)
+khoảng trắng, dấu câu, dấu trích dẫn.
+
+vector<string> X1(string s, string delim)
+{
+}
+
+
+
+
+
+
+
+Xác định tập từ quan trọng  của 1  văn bản
+(xóa khoảng trắng thừa, lowercase, xóa stopword)
+
+chuyển 1 string S thành mảng string (token) T
+
+for (int i=0; i<T.len; i++)
+{
+	for (int len = 1; len< 100; len++)
+	{
+		x = Count(T[i..i+len-1], T);			
+		if (x / T.len > alpha)
+			đưa T[i..i+len-1] vào ds từ khóa quan trọng của tài liệu S đã cho
+	}
+}
+
+
+
+
+
+metadata.dat
+12300
+tên tập tin
+5 
+đại học
+khoa học
+đại học khoa học tự nhiên
+kw4
+kw5
+ten tap tin
+3
+
+
+Truy vấn
+
+s1 = u'ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝàáâãèéêìíòóôõùúýĂăĐđĨĩŨũƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹ'
+s0 = u'AAAAEEEIIOOOOUUYaaaaeeeiioooouuyAaDdIiUuOoUuAaAaAaAaAaAaAaAaAaAaAaAaEeEeEeEeEeEeEeEeIiIiOoOoOoOoOoOoOoOoOoOoOoOoUuUuUuUuUuUuUuYyYyYyYy'
+
+int a[] = { 97, 224, 225, 7843, 227, 7841, 259, 7857, 7855, 7859, 7861, 7863, 226, 7847, 7845, 7849, 7851, 7853, 192, 193, 7842, 195, 7840, 258, 7856, 7854, 7858, 7860, 7862, 194, 7846, 7844, 7848, 7850, 7852 };
+int d[] = { 100, 273, 272 };
+int e[] = { 101, 232, 233, 7867, 7869, 7865, 234, 7873, 7871, 7875, 7877, 7879, 200, 201, 7866, 7868, 7864, 202, 7872, 7870, 7874, 7876, 7878 };
+int i[] = { 105, 236, 237, 7881, 297, 7883, 204, 205, 7880, 296, 7882 };
+int o[] = { 111, 242, 243, 7887, 245, 7885, 244, 7891, 7889, 7893, 7895, 7897, 417, 7901, 7899, 7903, 7905, 7907, 210, 211, 7886, 213, 7884, 212, 7890, 7888, 7892, 7894, 7896, 416, 7900, 7898, 7902, 7904, 7906 };
+int u[] = { 117, 249, 250, 7911, 361, 7909, 432, 7915, 7913, 7917, 7919, 7921, 217, 218, 7910, 360, 7908, 431, 7914, 7912, 7916, 7918, 7920 };
+int y[] = { 121, 7923, 253, 7927, 7929, 7925, 7922, 221, 7926, 7928, 7924 };
+
+
