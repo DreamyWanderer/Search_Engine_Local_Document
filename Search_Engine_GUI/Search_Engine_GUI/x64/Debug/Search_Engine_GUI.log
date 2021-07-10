@@ -1,12 +1,4 @@
-﻿  'WHERE' is not recognized as an internal or external command,
-  operable program or batch file.
-  Reading Qt configuration (C:/Qt/6.1.1/msvc2019_64/bin/qmake)
-  uic Search_Engine_GUI.ui
-  rcc Search_Engine_GUI.qrc
-  moc Search_Engine_GUI.h
-   RCC: Warning: No resources in 'D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Search_Engine_GUI.qrc'.
-  Search_Engine_GUI.cpp
+﻿  Search_Engine_GUI.cpp
   main.cpp
-  qrc_Search_Engine_GUI.cpp
   moc_Search_Engine_GUI.cpp
   Search_Engine_GUI.vcxproj -> D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\x64\Debug\Search_Engine_GUI.exe

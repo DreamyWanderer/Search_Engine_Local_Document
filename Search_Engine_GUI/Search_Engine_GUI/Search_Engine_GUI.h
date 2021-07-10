@@ -6,6 +6,8 @@
 #include <QFile>
 #include <QTreeView>
 #include <QListView>
+#include <QStringList>
+#include <QStringListModel>
 #include "ui_Search_Engine_GUI.h"
 
 class Search_Engine_GUI : public QMainWindow
@@ -20,10 +22,16 @@ private slots:
     void on_LoadDir_clicked();
     void on_listView_doubleClicked(const QModelIndex& index);
     void on_LoadFile_clicked();
+    void on_listView_2_doubleClicked(const QModelIndex& index);
+    void on_DelFile_clicked();
+    void on_AddFile_clicked();
+    void displayFiles(const QString& mPath);
 
 private:
     Ui::Search_Engine_GUIClass ui;
 
-    QFileSystemModel *dirModel;
-    QFileSystemModel *fileModel;
+    QFileSystemModel* dirModel;
+    QStringListModel* listFileQueryModel, * listFileModel;
+    QStringList listFileQuery;
+    QString pathCur;
 };

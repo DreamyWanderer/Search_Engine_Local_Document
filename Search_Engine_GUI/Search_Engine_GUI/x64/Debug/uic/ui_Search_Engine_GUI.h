@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtGui/QAction>
+#include <QtGui/QIcon>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QHeaderView>
@@ -23,10 +24,12 @@
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QSplitter>
 #include <QtWidgets/QStatusBar>
+#include <QtWidgets/QTabWidget>
 #include <QtWidgets/QTextBrowser>
 #include <QtWidgets/QToolBar>
 #include <QtWidgets/QToolButton>
 #include <QtWidgets/QTreeView>
+#include <QtWidgets/QTreeWidget>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
@@ -36,7 +39,7 @@ class Ui_Search_Engine_GUIClass
 {
 public:
     QWidget *centralWidget;
-    QHBoxLayout *horizontalLayout_8;
+    QVBoxLayout *verticalLayout_4;
     QSplitter *splitter;
     QWidget *layoutWidget;
     QHBoxLayout *horizontalLayout_7;
@@ -46,20 +49,29 @@ public:
     QHBoxLayout *horizontalLayout_4;
     QPushButton *LoadDir;
     QVBoxLayout *verticalLayout_2;
-    QLabel *label_2;
+    QTabWidget *tabWidget;
+    QWidget *tab;
+    QHBoxLayout *horizontalLayout_2;
     QListView *listView;
+    QWidget *tab_2;
+    QHBoxLayout *horizontalLayout_3;
+    QListView *listView_2;
     QHBoxLayout *horizontalLayout;
     QPushButton *LoadFile;
     QPushButton *AddFile;
     QPushButton *DelFile;
-    QToolButton *MetaData;
     QWidget *verticalLayoutWidget;
     QVBoxLayout *verticalLayout;
     QHBoxLayout *horizontalLayout_5;
     QLineEdit *lineEdit;
     QToolButton *toolButton_2;
-    QLabel *label_3;
+    QTabWidget *tabWidget_2;
+    QWidget *tab_3;
+    QVBoxLayout *verticalLayout_5;
     QTextBrowser *textBrowser;
+    QWidget *tab_4;
+    QVBoxLayout *verticalLayout_6;
+    QTreeWidget *treeWidget;
     QHBoxLayout *horizontalLayout_6;
     QPushButton *ShowResult;
     QPushButton *Setting;
@@ -75,13 +87,13 @@ public:
     {
         if (Search_Engine_GUIClass->objectName().isEmpty())
             Search_Engine_GUIClass->setObjectName(QString::fromUtf8("Search_Engine_GUIClass"));
-        Search_Engine_GUIClass->resize(920, 588);
+        Search_Engine_GUIClass->resize(1117, 602);
         centralWidget = new QWidget(Search_Engine_GUIClass);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
-        horizontalLayout_8 = new QHBoxLayout(centralWidget);
-        horizontalLayout_8->setSpacing(6);
-        horizontalLayout_8->setContentsMargins(11, 11, 11, 11);
-        horizontalLayout_8->setObjectName(QString::fromUtf8("horizontalLayout_8"));
+        verticalLayout_4 = new QVBoxLayout(centralWidget);
+        verticalLayout_4->setSpacing(6);
+        verticalLayout_4->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_4->setObjectName(QString::fromUtf8("verticalLayout_4"));
         splitter = new QSplitter(centralWidget);
         splitter->setObjectName(QString::fromUtf8("splitter"));
         splitter->setOrientation(Qt::Horizontal);
@@ -110,6 +122,10 @@ public:
         horizontalLayout_4->setObjectName(QString::fromUtf8("horizontalLayout_4"));
         LoadDir = new QPushButton(layoutWidget);
         LoadDir->setObjectName(QString::fromUtf8("LoadDir"));
+        LoadDir->setAutoFillBackground(false);
+        QIcon icon;
+        icon.addFile(QString::fromUtf8("."), QSize(), QIcon::Normal, QIcon::Off);
+        LoadDir->setIcon(icon);
 
         horizontalLayout_4->addWidget(LoadDir);
 
@@ -122,15 +138,34 @@ public:
         verticalLayout_2 = new QVBoxLayout();
         verticalLayout_2->setSpacing(6);
         verticalLayout_2->setObjectName(QString::fromUtf8("verticalLayout_2"));
-        label_2 = new QLabel(layoutWidget);
-        label_2->setObjectName(QString::fromUtf8("label_2"));
-
-        verticalLayout_2->addWidget(label_2);
-
-        listView = new QListView(layoutWidget);
+        tabWidget = new QTabWidget(layoutWidget);
+        tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
+        tab = new QWidget();
+        tab->setObjectName(QString::fromUtf8("tab"));
+        horizontalLayout_2 = new QHBoxLayout(tab);
+        horizontalLayout_2->setSpacing(6);
+        horizontalLayout_2->setContentsMargins(11, 11, 11, 11);
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+        listView = new QListView(tab);
         listView->setObjectName(QString::fromUtf8("listView"));
 
-        verticalLayout_2->addWidget(listView);
+        horizontalLayout_2->addWidget(listView);
+
+        tabWidget->addTab(tab, QString());
+        tab_2 = new QWidget();
+        tab_2->setObjectName(QString::fromUtf8("tab_2"));
+        horizontalLayout_3 = new QHBoxLayout(tab_2);
+        horizontalLayout_3->setSpacing(6);
+        horizontalLayout_3->setContentsMargins(11, 11, 11, 11);
+        horizontalLayout_3->setObjectName(QString::fromUtf8("horizontalLayout_3"));
+        listView_2 = new QListView(tab_2);
+        listView_2->setObjectName(QString::fromUtf8("listView_2"));
+
+        horizontalLayout_3->addWidget(listView_2);
+
+        tabWidget->addTab(tab_2, QString());
+
+        verticalLayout_2->addWidget(tabWidget);
 
         horizontalLayout = new QHBoxLayout();
         horizontalLayout->setSpacing(6);
@@ -149,11 +184,6 @@ public:
         DelFile->setObjectName(QString::fromUtf8("DelFile"));
 
         horizontalLayout->addWidget(DelFile);
-
-        MetaData = new QToolButton(layoutWidget);
-        MetaData->setObjectName(QString::fromUtf8("MetaData"));
-
-        horizontalLayout->addWidget(MetaData);
 
 
         verticalLayout_2->addLayout(horizontalLayout);
@@ -185,15 +215,37 @@ public:
 
         verticalLayout->addLayout(horizontalLayout_5);
 
-        label_3 = new QLabel(verticalLayoutWidget);
-        label_3->setObjectName(QString::fromUtf8("label_3"));
-
-        verticalLayout->addWidget(label_3);
-
-        textBrowser = new QTextBrowser(verticalLayoutWidget);
+        tabWidget_2 = new QTabWidget(verticalLayoutWidget);
+        tabWidget_2->setObjectName(QString::fromUtf8("tabWidget_2"));
+        tab_3 = new QWidget();
+        tab_3->setObjectName(QString::fromUtf8("tab_3"));
+        verticalLayout_5 = new QVBoxLayout(tab_3);
+        verticalLayout_5->setSpacing(6);
+        verticalLayout_5->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_5->setObjectName(QString::fromUtf8("verticalLayout_5"));
+        textBrowser = new QTextBrowser(tab_3);
         textBrowser->setObjectName(QString::fromUtf8("textBrowser"));
 
-        verticalLayout->addWidget(textBrowser);
+        verticalLayout_5->addWidget(textBrowser);
+
+        tabWidget_2->addTab(tab_3, QString());
+        tab_4 = new QWidget();
+        tab_4->setObjectName(QString::fromUtf8("tab_4"));
+        verticalLayout_6 = new QVBoxLayout(tab_4);
+        verticalLayout_6->setSpacing(6);
+        verticalLayout_6->setContentsMargins(11, 11, 11, 11);
+        verticalLayout_6->setObjectName(QString::fromUtf8("verticalLayout_6"));
+        treeWidget = new QTreeWidget(tab_4);
+        QTreeWidgetItem *__qtreewidgetitem = new QTreeWidgetItem();
+        __qtreewidgetitem->setText(0, QString::fromUtf8("1"));
+        treeWidget->setHeaderItem(__qtreewidgetitem);
+        treeWidget->setObjectName(QString::fromUtf8("treeWidget"));
+
+        verticalLayout_6->addWidget(treeWidget);
+
+        tabWidget_2->addTab(tab_4, QString());
+
+        verticalLayout->addWidget(tabWidget_2);
 
         horizontalLayout_6 = new QHBoxLayout();
         horizontalLayout_6->setSpacing(6);
@@ -213,12 +265,12 @@ public:
 
         splitter->addWidget(verticalLayoutWidget);
 
-        horizontalLayout_8->addWidget(splitter);
+        verticalLayout_4->addWidget(splitter);
 
         Search_Engine_GUIClass->setCentralWidget(centralWidget);
         menuBar = new QMenuBar(Search_Engine_GUIClass);
         menuBar->setObjectName(QString::fromUtf8("menuBar"));
-        menuBar->setGeometry(QRect(0, 0, 920, 22));
+        menuBar->setGeometry(QRect(0, 0, 1117, 22));
         menuFile = new QMenu(menuBar);
         menuFile->setObjectName(QString::fromUtf8("menuFile"));
         menuSetting = new QMenu(menuBar);
@@ -242,6 +294,10 @@ public:
 
         retranslateUi(Search_Engine_GUIClass);
 
+        tabWidget->setCurrentIndex(1);
+        tabWidget_2->setCurrentIndex(0);
+
+
         QMetaObject::connectSlotsByName(Search_Engine_GUIClass);
     } // setupUi
 
@@ -252,30 +308,31 @@ public:
 #if QT_CONFIG(tooltip)
         LoadDir->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Hi\341\273\203n th\341\273\213 danh s\303\241ch c\303\241c v\304\203n b\341\272\243n b\303\252n trong th\306\260 m\341\273\245c c\341\272\247n truy xu\341\272\245t</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        LoadDir->setText(QCoreApplication::translate("Search_Engine_GUIClass", "T\341\272\243i th\306\260 m\341\273\245c", nullptr));
-        label_2->setText(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p align=\"center\"><span style=\" font-weight:700;\">Danh s\303\241ch v\304\203n b\341\272\243n</span></p></body></html>", nullptr));
+        LoadDir->setText(QString());
+#if QT_CONFIG(shortcut)
+        LoadDir->setShortcut(QString());
+#endif // QT_CONFIG(shortcut)
+        tabWidget->setTabText(tabWidget->indexOf(tab), QCoreApplication::translate("Search_Engine_GUIClass", "Danh s\303\241ch v\304\203n b\341\272\243n", nullptr));
+        tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("Search_Engine_GUIClass", "Danh s\303\241ch v\304\203n b\341\272\243n truy v\341\272\245n", nullptr));
 #if QT_CONFIG(tooltip)
         LoadFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Hi\341\273\203n th\341\273\213 n\341\273\231i dung v\304\203n b\341\272\243n</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        LoadFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "\304\220\341\273\215c file", nullptr));
+        LoadFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "\304\220\341\273\215c", nullptr));
 #if QT_CONFIG(tooltip)
         AddFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Th\303\252m v\304\203n b\341\272\243n v\303\240o danh s\303\241ch c\341\272\247n truy v\341\272\245n [Imcomplete]</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        AddFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "Th\303\252m file", nullptr));
+        AddFile->setText(QString());
 #if QT_CONFIG(tooltip)
         DelFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Xo\303\241 t\341\273\207p v\304\203n b\341\272\243n \304\221\303\243 ch\341\273\215n [Imcomplete]</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        DelFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "Xo\303\241 file", nullptr));
-#if QT_CONFIG(tooltip)
-        MetaData->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Tr\303\255ch xu\341\272\245t t\341\273\207p si\303\252u d\341\273\257 li\341\273\207u</p></body></html>", nullptr));
-#endif // QT_CONFIG(tooltip)
-        MetaData->setText(QString());
+        DelFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "Xo\303\241", nullptr));
         lineEdit->setText(QCoreApplication::translate("Search_Engine_GUIClass", "Nh\341\272\255p t\341\273\253 kho\303\241", nullptr));
 #if QT_CONFIG(tooltip)
         toolButton_2->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>T\303\254m ki\341\272\277m [Imcomplete]</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
         toolButton_2->setText(QString());
-        label_3->setText(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p align=\"center\"><span style=\" font-weight:700;\">K\341\272\277t qu\341\272\243 / N\341\273\231i dung v\304\203n b\341\272\243n</span></p></body></html>", nullptr));
+        tabWidget_2->setTabText(tabWidget_2->indexOf(tab_3), QCoreApplication::translate("Search_Engine_GUIClass", "N\341\273\231i dung v\304\203n b\341\272\243n", nullptr));
+        tabWidget_2->setTabText(tabWidget_2->indexOf(tab_4), QCoreApplication::translate("Search_Engine_GUIClass", "K\341\272\277t qu\341\272\243", nullptr));
 #if QT_CONFIG(tooltip)
         ShowResult->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Chuy\341\273\203n qua l\341\272\241i gi\341\273\257a hi\341\273\203n th\341\273\213 n\341\273\231i dung v\304\203n b\341\272\243n v\303\240 k\341\272\277t qu\341\272\243 t\303\254m ki\341\272\277m [Imcomplete]</p><p><br/></p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
