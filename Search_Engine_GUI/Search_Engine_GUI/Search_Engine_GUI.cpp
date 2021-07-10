@@ -107,7 +107,7 @@ void Search_Engine_GUI::on_AddFile_clicked()
     QFile file("index.txt");
     QString path;
     QDir dir(QDir::current());
-    path = dir.relativeFilePath(pathCur);
+    QString prefix = dir.relativeFilePath(pathCur);
 
     file.open(QIODevice::Append);
 
@@ -115,10 +115,13 @@ void Search_Engine_GUI::on_AddFile_clicked()
 
     foreach(const QModelIndex & index, listSelected)
     {
-        path = path + '/' + index.data().toString();
+        path = prefix + '/' + index.data().toString();
         in << path << '\n';
+        listFileQuery.append(path);
     }
 
+    listFileQueryModel->setStringList(listFileQuery);
+    ui.listView_2->setModel(listFileQueryModel);
 }
 
 /*
