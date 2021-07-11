@@ -132,14 +132,14 @@
         <item>
          <layout class="QHBoxLayout" name="horizontalLayout_5">
           <item>
-           <widget class="QLineEdit" name="lineEdit">
+           <widget class="QLineEdit" name="searchBox">
             <property name="text">
-             <string>Nhập từ khoá</string>
+             <string/>
             </property>
            </widget>
           </item>
           <item>
-           <widget class="QToolButton" name="toolButton_2">
+           <widget class="QToolButton" name="searchButton">
             <property name="toolTip">
              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tìm kiếm [Imcomplete]&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
             </property>

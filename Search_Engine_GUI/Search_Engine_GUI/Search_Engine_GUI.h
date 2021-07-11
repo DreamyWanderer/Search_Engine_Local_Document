@@ -9,6 +9,12 @@
 #include <QStringList>
 #include <QStringListModel>
 #include "ui_Search_Engine_GUI.h"
+#include "lib.h"
+#include "PreprocessFIle.h"
+#include "QuickSort.h"
+#include "SLL.h"
+#include "Query.h"
+#include "TextNormalizationOperators.h"
 
 class Search_Engine_GUI : public QMainWindow
 {
@@ -28,6 +34,7 @@ private slots:
     void displayFiles(const QString& mPath);
     void addResult(QString rank, QString name, QString score);
     void on_ShowResult_clicked();
+    void on_searchButton_clicked();
 
 private:
     Ui::Search_Engine_GUIClass ui;

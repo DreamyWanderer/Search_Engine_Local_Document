@@ -94,11 +94,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SLL.cpp" />
+    <ClCompile Include="TextNormalizationOperators.cpp" />
     <QtRcc Include="Search_Engine_GUI.qrc" />
     <QtUic Include="Search_Engine_GUI.ui" />
     <QtMoc Include="Search_Engine_GUI.h" />
+    <ClCompile Include="PreprocessFile.cpp" />
+    <ClCompile Include="Query.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="Search_Engine_GUI.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h" />
+    <ClInclude Include="PreprocessFIle.h" />
+    <ClInclude Include="Query.h" />
+    <ClInclude Include="QuickSort.h" />
+    <ClInclude Include="SLL.h" />
+    <ClInclude Include="TextNormalizationOperators.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

@@ -1,2 +1,3 @@
-﻿  Search_Engine_GUI.cpp
+﻿  SLL.cpp
+D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\SLL.cpp(79): warning C4715: 'removePath': not all control paths return a value
   Search_Engine_GUI.vcxproj -> D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\x64\Release\Search_Engine_GUI.exe

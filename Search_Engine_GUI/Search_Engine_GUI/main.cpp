@@ -1,6 +1,14 @@
 #include "Search_Engine_GUI.h"
 #include <QtWidgets/QApplication>
 
+wstring discards[1942];
+int nStopwords = 1942;
+int convert[1 << 16];
+wstring tokens = L"`~!@#$%^&*()–-_=+[]{}\\|;:'\",<.>/?“”•";
+const float eps = 0.005;
+
+SLL curList;
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);

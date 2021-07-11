@@ -1,11 +1,17 @@
 ﻿#include "Search_Engine_GUI.h"
 #include "ui_Search_Engine_GUI.h"
-#include <string>
+
+extern SLL curList;
 
 Search_Engine_GUI::Search_Engine_GUI(QWidget *parent)
     : QMainWindow(parent)
 {
     ui.setupUi(this);
+
+    //Preprocessing
+    InitList(curList);
+    loadFileMeta(curList);
+    prepare();
 
     //Load button
     ui.LoadDir->setIcon(QIcon("add"));
@@ -86,7 +92,7 @@ void Search_Engine_GUI::on_LoadDir_clicked()
     mPath = dir.relativeFilePath(mPath);
 
     //Xuất đường dẫn của tất cả các file .txt thuộc đối tượng được chọn vào file index.txt
-    QFile file("index.txt");
+    QFile file("Crawl/index.txt");
     file.open(QIODevice::Append);
     QDirIterator it(mPath, {"*.txt"}, QDir::Files, QDirIterator::Subdirectories);
     QTextStream out(&file);
@@ -110,7 +116,7 @@ void Search_Engine_GUI::on_LoadDir_clicked()
 void Search_Engine_GUI::on_AddFile_clicked()
 {
     QModelIndexList listSelected = ui.listView->selectionModel()->selectedIndexes();
-    QFile file("index.txt");
+    QFile file("Crawl/index.txt");
     QString path;
     QDir dir(QDir::current());
     QString prefix = dir.relativeFilePath(pathCur);
@@ -122,12 +128,17 @@ void Search_Engine_GUI::on_AddFile_clicked()
     foreach(const QModelIndex & index, listSelected)
     {
         path = prefix + '/' + index.data().toString();
-        in << path << '\n';
+        wstring newPath = path.toStdWString();
+        addFIle(newPath);
+        //addFIle(std::path.toLocal8Bit().constData());
+        //in << path << '\n';
         listFileQuery.append(path);
     }
 
     listFileQueryModel->setStringList(listFileQuery);
     ui.listView_2->setModel(listFileQueryModel);
+
+    file.close();
 }
 
 /*
@@ -201,7 +212,8 @@ void Search_Engine_GUI::on_DelFile_clicked()
     foreach(const QModelIndex & index, listSelected)
     {
         index.data().toString();
-        out << index.data().toString() << '\n';
+        removeFile(index.data().toString().toStdWString());
+        //out << index.data().toString() << '\n';
     }
 
     file.close();
@@ -220,4 +232,11 @@ void Search_Engine_GUI::on_ShowResult_clicked()
 {
     addResult("1", "H.txt", "10.2");
     addResult("2", "T.txt", "10.02");
+}
+
+void Search_Engine_GUI::on_searchButton_clicked()
+{
+    QString searchText = ui.searchBox->text();
+    searchData(curList, searchText.toStdWString());
+
 }
