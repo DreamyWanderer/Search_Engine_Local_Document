@@ -295,7 +295,7 @@ public:
         retranslateUi(Search_Engine_GUIClass);
 
         tabWidget->setCurrentIndex(1);
-        tabWidget_2->setCurrentIndex(0);
+        tabWidget_2->setCurrentIndex(1);
 
 
         QMetaObject::connectSlotsByName(Search_Engine_GUIClass);

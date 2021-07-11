@@ -1,5 +1,6 @@
 ﻿#include "Search_Engine_GUI.h"
 #include "ui_Search_Engine_GUI.h"
+#include <string>
 
 Search_Engine_GUI::Search_Engine_GUI(QWidget *parent)
     : QMainWindow(parent)
@@ -33,6 +34,11 @@ Search_Engine_GUI::Search_Engine_GUI(QWidget *parent)
 
     //For list file Query
     listFileQueryModel = new QStringListModel(this);
+
+    //For list result
+    ui.treeWidget->setColumnCount(3);
+    ui.treeWidget->setHeaderLabels(QStringList() << "Rank" << "Document" << "Score");
+    ui.treeWidget->sortItems(3, Qt::DescendingOrder);
 }
 
 /*
@@ -47,7 +53,7 @@ void Search_Engine_GUI::displayFiles(const QString& mPath)
     {
         it.next();
         listFile.append(it.fileName());
-        QString name = it.fileName();
+        //QString name = it.fileName();
     }
 
     if (!listFile.isEmpty())
@@ -199,4 +205,19 @@ void Search_Engine_GUI::on_DelFile_clicked()
     }
 
     file.close();
+}
+
+void Search_Engine_GUI::addResult(QString rank, QString name, QString score)
+{
+    QTreeWidgetItem* treeItem = new QTreeWidgetItem(ui.treeWidget);
+
+    treeItem->setText(0, rank);
+    treeItem->setText(1, name);
+    treeItem->setText(2, score);
+}
+
+void Search_Engine_GUI::on_ShowResult_clicked()
+{
+    addResult("1", "H.txt", "10.2");
+    addResult("2", "T.txt", "10.02");
 }

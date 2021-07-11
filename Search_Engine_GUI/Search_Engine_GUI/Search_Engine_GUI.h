@@ -26,6 +26,8 @@ private slots:
     void on_DelFile_clicked();
     void on_AddFile_clicked();
     void displayFiles(const QString& mPath);
+    void addResult(QString rank, QString name, QString score);
+    void on_ShowResult_clicked();
 
 private:
     Ui::Search_Engine_GUIClass ui;
