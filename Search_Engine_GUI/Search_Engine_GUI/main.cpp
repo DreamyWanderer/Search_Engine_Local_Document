@@ -16,5 +16,11 @@ int main(int argc, char *argv[])
     w.setWindowTitle("SEngine Local Paper");
     w.setWindowIcon(QIcon("icon.png"));
     w.show();
-    return a.exec();
+    InitList(curList);
+    loadFileMeta(curList);
+    prepare();
+    w.DestroyWaiting();
+    int ret = a.exec();
+    eraseList(curList);
+    return ret;
 }

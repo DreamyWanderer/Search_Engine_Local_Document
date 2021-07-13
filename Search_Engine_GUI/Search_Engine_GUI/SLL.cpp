@@ -35,7 +35,7 @@ Node* createNode(const wstring path){
 
 void InitList(SLL &curList){
     curList.head = NULL;
-    curList.len = 0;
+    //curList.len = 0;
 }
 
 bool isEmpty(SLL &curList){
@@ -55,6 +55,17 @@ void addData(const wstring path, SLL &curList){
 void eraseNode(Node* &cur){
     delete[] cur->listWord;
     delete cur; cur = NULL;
+}
+
+void eraseList(SLL& curlist)
+{
+    Node* cur = curlist.head;
+    while (cur != NULL)
+    {
+        curlist.head = cur->nxt;
+        eraseNode(cur);
+        cur = curlist.head;
+    }
 }
 
 bool removePath(const wstring path, SLL& curList){

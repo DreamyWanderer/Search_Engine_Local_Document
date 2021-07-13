@@ -13,7 +13,7 @@ struct Node {
 
 struct SLL {
     Node* head;
-    int len;
+    //int len;
 }; 
 
 wstring magicString(wstring cur);
@@ -22,6 +22,7 @@ void InitList(SLL &curList);
 bool isEmpty(SLL &curList);
 void addData(const wstring path, SLL &curList);
 void eraseNode(Node* &cur);
+void eraseList(SLL& curlist);
 bool removePath(const wstring path, SLL &curList);
 void printList(SLL &curList);
 

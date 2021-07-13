@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1117</width>
+    <width>966</width>
     <height>602</height>
    </rect>
   </property>
@@ -139,10 +139,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QToolButton" name="searchButton">
-            <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tìm kiếm [Imcomplete]&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-            </property>
+           <widget class="QPushButton" name="searchButton">
             <property name="text">
              <string/>
             </property>
@@ -153,7 +150,7 @@
         <item>
          <widget class="QTabWidget" name="tabWidget_2">
           <property name="currentIndex">
-           <number>1</number>
+           <number>0</number>
           </property>
           <widget class="QWidget" name="tab_3">
            <attribute name="title">
@@ -171,41 +168,21 @@
            </attribute>
            <layout class="QVBoxLayout" name="verticalLayout_6">
             <item>
-             <widget class="QTreeWidget" name="treeWidget">
-              <column>
-               <property name="text">
-                <string notr="true">1</string>
-               </property>
-              </column>
-             </widget>
+             <widget class="QTableWidget" name="tableWidget"/>
             </item>
            </layout>
           </widget>
          </widget>
         </item>
         <item>
-         <layout class="QHBoxLayout" name="horizontalLayout_6">
-          <item>
-           <widget class="QPushButton" name="ShowResult">
-            <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Chuyển qua lại giữa hiển thị nội dung văn bản và kết quả tìm kiếm [Imcomplete]&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-            </property>
-            <property name="text">
-             <string>Hiện kết quả truy vấn</string>
-            </property>
-           </widget>
-          </item>
-          <item>
-           <widget class="QPushButton" name="Setting">
-            <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tuỳ chỉnh yêu cầu tìm kiếm [Imcomplete]&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-            </property>
-            <property name="text">
-             <string>Thiết lập cài đặt</string>
-            </property>
-           </widget>
-          </item>
-         </layout>
+         <widget class="QLabel" name="resultInfo">
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_6"/>
         </item>
        </layout>
       </widget>
@@ -218,20 +195,10 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1117</width>
+     <width>966</width>
      <height>22</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuFile">
-    <property name="title">
-     <string>File</string>
-    </property>
-   </widget>
-   <widget class="QMenu" name="menuSetting">
-    <property name="title">
-     <string>Setting</string>
-    </property>
-   </widget>
    <widget class="QMenu" name="menuHelp">
     <property name="title">
      <string>Help</string>
@@ -242,8 +209,6 @@
      <string>About</string>
     </property>
    </widget>
-   <addaction name="menuFile"/>
-   <addaction name="menuSetting"/>
    <addaction name="menuHelp"/>
    <addaction name="menuAbout"/>
   </widget>

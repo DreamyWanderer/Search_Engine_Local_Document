@@ -5,10 +5,6 @@
 #include "QuickSort.h"
 using namespace std;
 
-/*extern wstring discards[1942];
-extern int nStopwords;
-extern int convert[1 << 16];
-extern wstring tokens = L"`~!@#$%^&*()–-_=+[]{}\\|;:'\",<.>/?“”•";*/
 const float eps = 0.005;
 
 extern SLL curList;
@@ -137,7 +133,7 @@ void searchData(SLL &curList, wstring s){
                 //wcout << cur->path << L' ' << totalWeight << L'\n';
             }
         }
-        if (totalWeight != 0.0) fwprintf(ans, L"%s %f\n", cur->path.c_str(), totalWeight);
+        if (totalWeight != 0.0) fwprintf(ans, L"%s*%f\n", cur->path.c_str(), totalWeight);
         cur = cur->nxt;
     }
 

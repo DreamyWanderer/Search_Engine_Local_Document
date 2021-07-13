@@ -8,14 +8,10 @@ Search_Engine_GUI::Search_Engine_GUI(QWidget *parent)
 {
     ui.setupUi(this);
 
-    //Preprocessing
-    InitList(curList);
-    loadFileMeta(curList);
-    prepare();
-
     //Load button
     ui.LoadDir->setIcon(QIcon("add"));
     ui.AddFile->setIcon(QIcon("add"));
+    ui.searchButton->setIcon(QIcon("icon"));
 
     //For Drive Access
     QString mPath = "C:/";
@@ -42,9 +38,14 @@ Search_Engine_GUI::Search_Engine_GUI(QWidget *parent)
     listFileQueryModel = new QStringListModel(this);
 
     //For list result
-    ui.treeWidget->setColumnCount(3);
-    ui.treeWidget->setHeaderLabels(QStringList() << "Rank" << "Document" << "Score");
-    ui.treeWidget->sortItems(3, Qt::DescendingOrder);
+    ui.tableWidget->setColumnCount(2);
+    ui.tableWidget->setHorizontalHeaderLabels(QStringList() << "Document" << "Score");
+    ui.tableWidget->setEditTriggers(QAbstractItemView::NoEditTriggers);
+    ui.tableWidget->sortByColumn(1, Qt::DescendingOrder);
+
+    ui.resultInfo->setText("");
+
+    ShowWaiting();
 }
 
 /*
@@ -90,24 +91,27 @@ void Search_Engine_GUI::on_LoadDir_clicked()
     QString mPath = dirModel->fileInfo(index).absoluteFilePath();
     QDir dir(QDir::current());
     mPath = dir.relativeFilePath(mPath);
+    int cnt = 0;
 
-    //Xuất đường dẫn của tất cả các file .txt thuộc đối tượng được chọn vào file index.txt
-    QFile file("Crawl/index.txt");
-    file.open(QIODevice::Append);
     QDirIterator it(mPath, {"*.txt"}, QDir::Files, QDirIterator::Subdirectories);
-    QTextStream out(&file);
 
     while (it.hasNext())
     {
-        out << it.next() << '\n';
+        cnt++;
+        QString test = it.next();
+        if (cnt > 100)
+        {
+            ShowWarning();
+            break;
+        }
+        addFIle(it.filePath().toStdWString());
+        //out << it.next() << '\n';
         listFileQuery.append(it.filePath());
+        numFileQuery++;
     }
 
     listFileQueryModel->setStringList(listFileQuery);
-
     ui.listView_2->setModel(listFileQueryModel);
-
-    file.close();
 }
 
 /*
@@ -116,29 +120,30 @@ void Search_Engine_GUI::on_LoadDir_clicked()
 void Search_Engine_GUI::on_AddFile_clicked()
 {
     QModelIndexList listSelected = ui.listView->selectionModel()->selectedIndexes();
-    QFile file("Crawl/index.txt");
     QString path;
     QDir dir(QDir::current());
     QString prefix = dir.relativeFilePath(pathCur);
-
-    file.open(QIODevice::Append);
-
-    QTextStream in(&file);
+    int cnt = 0;
 
     foreach(const QModelIndex & index, listSelected)
     {
+        cnt++;
+        if (cnt > 100)
+        {
+            ShowWarning();
+            break;
+        }
         path = prefix + '/' + index.data().toString();
         wstring newPath = path.toStdWString();
         addFIle(newPath);
         //addFIle(std::path.toLocal8Bit().constData());
         //in << path << '\n';
         listFileQuery.append(path);
+        numFileQuery++;
     }
 
     listFileQueryModel->setStringList(listFileQuery);
     ui.listView_2->setModel(listFileQueryModel);
-
-    file.close();
 }
 
 /*
@@ -147,6 +152,7 @@ void Search_Engine_GUI::on_AddFile_clicked()
 void Search_Engine_GUI::on_listView_doubleClicked(const QModelIndex& index)
 {
     QString mPath = pathCur + '/' + index.data().toString();
+
     QFile file(mPath);
 
     file.open(QIODevice::ReadOnly);
@@ -165,12 +171,12 @@ void Search_Engine_GUI::on_listView_doubleClicked(const QModelIndex& index)
 }
 
 /*
-* Nhấn vào nút Đọc nội dung file .txt
+* Nhấn double-click vào một tệp .txt bên danh sách truy vấn
 */
-void Search_Engine_GUI::on_LoadFile_clicked()
+void Search_Engine_GUI::on_listView_2_doubleClicked(const QModelIndex& index)
 {
-    QModelIndex index = ui.listView->currentIndex();
-    QString mPath = dirModel->fileInfo(index).absoluteFilePath();
+    QString mPath = index.data().toString();
+
     QFile file(mPath);
 
     file.open(QIODevice::ReadOnly);
@@ -188,15 +194,70 @@ void Search_Engine_GUI::on_LoadFile_clicked()
     }
 }
 
-void Search_Engine_GUI :: on_listView_2_doubleClicked(const QModelIndex& index)
+void Search_Engine_GUI::on_tableWidget_cellDoubleClicked(int r, int c)
 {
-    QString path = listFileQueryModel->data(index).toString();
-    QFile file("removeItem.txt");
-    file.open(QIODevice::Append);
-    QTextStream out(&file);
-    out << path << '\n';
+    QTableWidgetItem *item = ui.tableWidget->item(r, 0);
+    QString mPath = item->data(0).toString();
+
+    QFile file(mPath);
+
+    file.open(QIODevice::ReadOnly);
+
+    QTextStream in(&file);
+    QString displayLine;
+
+    ui.textBrowser->clear();
+
+    while (!in.atEnd())
+    {
+        displayLine = in.readLine();
+        if (displayLine != nullptr)
+            ui.textBrowser->append(displayLine);
+    }
 
     file.close();
+}
+
+/*
+* Nhấn vào nút Đọc nội dung file .txt
+*/
+void Search_Engine_GUI::on_LoadFile_clicked()
+{
+    QModelIndex index;
+    QString mPath;
+    if (tabChose == 0)
+    {
+        index = ui.listView->currentIndex();
+        mPath = pathCur + '/' + index.data().toString();
+    }
+    else
+    {
+        index = ui.listView_2->currentIndex();
+        mPath = index.data().toString();
+    }
+    QFile file(mPath);
+
+    file.open(QIODevice::ReadOnly);
+
+    QTextStream in(&file);
+    QString displayLine;
+
+    ui.textBrowser->clear();
+
+    while (!in.atEnd())
+    {
+        displayLine = in.readLine();
+        if (displayLine != nullptr)
+            ui.textBrowser->append(displayLine);
+    }
+
+    file.close();
+}
+
+void Search_Engine_GUI::on_tabWidget_tabBarClicked(int index)
+{
+    tabChose = index;
+    if (index == 0) ui.DelFile->hide(); else ui.DelFile->show();
 }
 
 /*
@@ -205,38 +266,89 @@ void Search_Engine_GUI :: on_listView_2_doubleClicked(const QModelIndex& index)
 void Search_Engine_GUI::on_DelFile_clicked()
 {
     QModelIndexList listSelected = ui.listView_2->selectionModel()->selectedIndexes();
-    QFile file("removeItem.txt");
-    file.open(QIODevice::Append);
-    QTextStream out(&file);
 
     foreach(const QModelIndex & index, listSelected)
     {
         index.data().toString();
         removeFile(index.data().toString().toStdWString());
-        //out << index.data().toString() << '\n';
+        numFileQuery--;
     }
 
+    QStringList tmpListFileQuery;
+    QFile file("Crawl/index.txt");
+    file.open(QIODevice::ReadOnly);
+    int cnt = 0;
+    while (cnt < numFileQuery)
+    {
+        cnt++;
+        tmpListFileQuery.append(file.readLine().simplified());
+    }
+    listFileQuery = tmpListFileQuery;
+    listFileQueryModel->setStringList(listFileQuery);
+    ui.listView_2->setModel(listFileQueryModel);
     file.close();
 }
 
-void Search_Engine_GUI::addResult(QString rank, QString name, QString score)
+void Search_Engine_GUI::addResult(QString name, QString score, int cnt)
 {
-    QTreeWidgetItem* treeItem = new QTreeWidgetItem(ui.treeWidget);
-
-    treeItem->setText(0, rank);
-    treeItem->setText(1, name);
-    treeItem->setText(2, score);
+    ui.tableWidget->insertRow(cnt);
+    ui.tableWidget->setItem(cnt, 1, new CustomTableWidgetItem(score));
+    ui.tableWidget->setItem(cnt, 0, new CustomTableWidgetItem(name));
 }
 
-void Search_Engine_GUI::on_ShowResult_clicked()
+void Search_Engine_GUI::on_searchBox_returnPressed()
 {
-    addResult("1", "H.txt", "10.2");
-    addResult("2", "T.txt", "10.02");
+    QString searchText = ui.searchBox->text();
+    Searching(searchText);
 }
 
 void Search_Engine_GUI::on_searchButton_clicked()
 {
     QString searchText = ui.searchBox->text();
-    searchData(curList, searchText.toStdWString());
+    Searching(searchText);
+}
 
+void Search_Engine_GUI::Searching(QString searchText)
+{
+    QElapsedTimer timer;
+    timer.start();
+    searchData(curList, searchText.toStdWString());
+    double timeUsed = timer.elapsed();
+
+    ui.tableWidget->clearContents();
+    ui.tableWidget->setRowCount(0);
+    ui.tableWidget->setSortingEnabled(false);
+    QFile file("out.txt");
+    file.open(QIODevice::ReadOnly);
+    QTextStream in(&file);
+    int cnt(0);
+    while (!in.atEnd())
+    {
+        QStringList list = in.readLine().split(QLatin1Char('*'), Qt::SkipEmptyParts);
+        if (!list.isEmpty()) addResult(list.at(0), list.at(1), cnt++);
+    }
+
+    ui.tableWidget->setSortingEnabled(true);
+
+    ui.resultInfo->setText(QString::fromWCharArray(L"Tìm thấy %1 kết quả trong %2 giây").arg(cnt).arg(timeUsed / 1000, 0, 'g', 4));
+
+    file.close();
+}
+
+void Search_Engine_GUI::ShowWarning()
+{
+    WarningDialog warning;
+    warning.setModal(true);
+    warning.exec();
+}
+
+void Search_Engine_GUI::ShowWaiting()
+{
+    waiting = new WaitingDialog(this);
+    waiting->show();
+}
+
+void Search_Engine_GUI::DestroyWaiting()
+{
+    waiting->reject();
 }

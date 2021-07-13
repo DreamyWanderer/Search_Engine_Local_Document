@@ -26,9 +26,6 @@
     <QtRcc Include="Search_Engine_GUI.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
-    <QtUic Include="Search_Engine_GUI.ui">
-      <Filter>Form Files</Filter>
-    </QtUic>
     <QtMoc Include="Search_Engine_GUI.h">
       <Filter>Header Files</Filter>
     </QtMoc>
@@ -55,6 +52,12 @@
     <ClCompile Include="TextNormalizationOperators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="WarningDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WaitingDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib.h">
@@ -75,5 +78,24 @@
     <ClInclude Include="Query.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Search_Engine_GUI.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="WarningDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="WaitingDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="WarningDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="WaitingDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
   </ItemGroup>
 </Project>
