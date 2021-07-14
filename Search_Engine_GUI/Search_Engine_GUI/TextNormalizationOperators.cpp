@@ -6,10 +6,7 @@ extern wstring discards[1942];
 extern int convert[1 << 16];
 extern wstring stupidChar;
 
-const float eps = 0.01;
-
-
-
+const float eps[] = { 0.01, 0.0075, 0.005 };
 
 int countNeedWords(string*& cur, int n, int total) {
     if (n == 0) return 0;
@@ -17,11 +14,15 @@ int countNeedWords(string*& cur, int n, int total) {
     for (int i = 1; i < n; i++) {
         if (cur[i] == cur[i - 1]) cnt++;
         else {
-            if (1.00 * cnt * countInitialWords(cur[i - 1]) / total >= eps) ans++;
+            int len = countInitialWords(cur[i - 1]);
+            float weight = 1.00 * cnt / total;
+            if (weight >= eps[len - 1]) ans++;
             cnt = 1;
         }
     }
-    if (1.00 * cnt * countInitialWords(cur[n - 1]) / total >= eps) ans++;
+    int len = countInitialWords(cur[n - 1]);
+    float weight = 1.00 * cnt / total;
+    if (weight >= eps[len - 1]) ans++;
     return ans;
 }
 

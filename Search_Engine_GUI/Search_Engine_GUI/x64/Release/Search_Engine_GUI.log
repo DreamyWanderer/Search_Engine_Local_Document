@@ -1,11 +1,24 @@
-﻿  moc Search_Engine_GUI.h
+﻿  Reading Qt configuration (C:/Qt/6.1.1/msvc2019_64/bin/qmake)
+  uic SavePath.ui
+  uic Search_Engine_GUI.ui
+  uic Setting.ui
+  uic WaitingDialog.ui
+  uic WarningDialog.ui
+  rcc Search_Engine_GUI.qrc
+  moc Search_Engine_GUI.h
+  moc SavePath.h
+  moc Setting.h
+  moc WaitingDialog.h
+  moc WarningDialog.h
+   RCC: Warning: No resources in 'D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Search_Engine_GUI.qrc'.
   PreprocessFile.cpp
   Query.cpp
   QuickSort.cpp
+  SavePath.cpp
+  Setting.cpp
   SLL.cpp
-  Search_Engine_GUI.cpp
   TextNormalizationOperators.cpp
-  main.cpp
+  WaitingDialog.cpp
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(2575,23): warning C4244: 'argument': conversion from 'const wchar_t' to 'const _Elem', possible loss of data
           with
           [
@@ -31,14 +44,14 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           [
               _Iter=const wchar_t *
           ] (compiling source file Query.cpp)
-D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(16): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(29): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
-D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(16): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(29): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
@@ -70,19 +83,27 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           [
               _Iter=wchar_t *
           ] (compiling source file Query.cpp)
-D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(28): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(48): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
-D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(28): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\Search_Engine_GUI\Query.cpp(48): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
+  WarningDialog.cpp
+  Search_Engine_GUI.cpp
+  main.cpp
+  qrc_Search_Engine_GUI.cpp
   moc_Search_Engine_GUI.cpp
+  moc_SavePath.cpp
+  moc_Setting.cpp
+  moc_WaitingDialog.cpp
+  moc_WarningDialog.cpp
   Search_Engine_GUI.vcxproj -> D:\SourceCode\University\TH_KTLT\Do_an_CK\Search_Engine_GUI\x64\Release\Search_Engine_GUI.exe

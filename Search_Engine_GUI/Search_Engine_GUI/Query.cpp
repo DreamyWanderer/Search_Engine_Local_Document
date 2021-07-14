@@ -5,15 +5,35 @@
 #include "QuickSort.h"
 using namespace std;
 
-const float eps = 0.01;
+const float eps[] = { 0.01, 0.0075, 0.005 };
 
 extern SLL curList;
 
+bool isAdded(string& path) {
+    FILE* index = fopen("Crawl\\index.txt", "r");
+    char buffer[1000];
+    while (fgets(buffer, 1000, index)) {
+        string s = string(buffer);
+        if (s[s.length() - 1] == '\n') s.erase(s.length() - 1, 1);
+        if (s == path) {
+            fclose(index);
+            return true;
+        }
+    }
+    fclose(index);
+    return false;
+}
 
-
-void addFile(const wstring path) {
+bool addFile(const wstring path, SLL& curList) {
     FILE* curFile = _wfopen(path.c_str(), L"r,ccs=UTF-8");
     string p = string(path.begin(), path.end());
+
+    if (isAdded(p))
+    {
+        fclose(curFile);
+        return false;
+    }
+
     FILE* index = fopen("Crawl\\index.txt", "a");
     fprintf(index, "%s\n", p.c_str()); fclose(index);
     wstring s = L"";
@@ -28,7 +48,7 @@ void addFile(const wstring path) {
     string t = string(s.begin(), s.end());
     int total = countInitialWords(t);
     string* tmp = new string[total];
-    string* words = new string[total * 2];
+    string* words = new string[total * 3];
     wstring x = L""; s += L' ';
     int cur = 0;
     for (int i = 0; i < s.length(); i++) {
@@ -47,51 +67,59 @@ void addFile(const wstring path) {
         if (i + 1 < cur) {
             words[numWords++] = tmp[i] + " " + tmp[i + 1];
         }
+        if (i + 2 < cur) {
+            words[numWords++] = tmp[i] + " " + tmp[i + 1] + " " + tmp[i + 2];
+        }
     }
     quickSort(words, 0, numWords - 1);
+    Node* add = new Node;
     int distincs = countNeedWords(words, numWords, total);
-    int cnt = 1;
-    string metaPath = "Crawl\\metadata\\" + magicString(p);
-    FILE* meta = fopen(metaPath.c_str(), "w");
-    fprintf(meta, "%d\n", distincs);
+    int cnt = 1; add->nWords = 0; add->path = p;
+    add->listWord = new pack[distincs];
     for (int i = 1; i < numWords; i++) {
         if (words[i] == words[i - 1]) cnt++;
         else {
-            float weight = 1.00 * cnt * countInitialWords(words[i - 1]) / total;
-            if (weight >= eps) {
-                fprintf(meta, "%.5f %s\n", weight, words[i - 1].c_str());
+            int len = countInitialWords(words[i - 1]);
+            float weight = 1.00 * cnt / total;
+            if (weight >= eps[len - 1]) {
+                add->listWord[add->nWords++] = pack(words[i - 1], weight);
             }
             cnt = 1;
         }
     }
-    float weight = 1.00 * cnt * countInitialWords(words[numWords - 1]) / total;
-    if (weight >= eps) {
-        fprintf(meta, "%.5f %s\n", weight, words[numWords - 1].c_str());
+    int len = countInitialWords(words[numWords - 1]);
+    float weight = 1.00 * cnt / total;
+    if (weight >= eps[len - 1]) {
+        add->listWord[add->nWords++] = pack(words[numWords - 1], weight);
     }
+    add->nxt = NULL;
     delete[] tmp, words;
-    fclose(meta); fclose(curFile);
-    addData(p, curList);
+    addData(curList, add);
+    fclose(curFile);
+
+    return true;
 }
 
+
 void removeFile(const string path) {
-    string p = "Crawl\\metadata\\" + magicString(path);
     if (removePath(path, curList)) {
 
         FILE* index = fopen("Crawl\\index.txt", "w");
         
         Node* cur = curList.head;
         while (cur != NULL) {
-            fprintf(index, "%s\n", cur->path.c_str());
+            if (cur->path.length() > 4) {
+                string prefix = "";
+                for (int i = 0; i < min(6,cur->path.size()); i++) prefix += cur->path[i];
+                if (prefix != "train\\") {
+                    fprintf(index, "%s\n", cur->path.c_str());
+                }
+            }
             cur = cur->nxt;
         }
         fclose(index);
-        int status = remove(p.c_str());
-        if (status == 0) {
-            cerr << "Remove successfully !!!\n";
-        }
     }
 }
-
 
 int binSearch(pack* a, int lo, int hi, string &key){
     int pos = -1;
@@ -125,7 +153,6 @@ void searchData(SLL &curList, wstring s){
         }
         else curWord += s[i];
     }
- 
 
     FILE* ans = fopen("out.txt", "w");
     Node* cur = curList.head;
@@ -142,6 +169,13 @@ void searchData(SLL &curList, wstring s){
             string key = words[i] + " " + words[i + 1];
             int id = binSearch(cur->listWord, 0, cur->nWords - 1, key);
             if (id != -1) {
+                totalWeight += cur->listWord[id].weight * 5;
+            }
+        }
+        for (int i = 0; i + 2 < cntWords; i++) {
+            string key = words[i] + " " + words[i + 1] + " " + words[i + 2];
+            int id = binSearch(cur->listWord, 0, cur->nWords - 1, key);
+            if (id != -1) {
                 totalWeight += cur->listWord[id].weight * 10;
             }
         }
@@ -152,23 +186,44 @@ void searchData(SLL &curList, wstring s){
 
 }
 
-
-void loadFileMeta(SLL &cur){
-    FILE* fileIndex = fopen("Crawl\\index.txt", "r");
-    if (fileIndex == nullptr) return;
-    char buffer[1000];
-    int cnt = 0;
-    while (fgets(buffer, 1000, fileIndex)){
-        string path(buffer);
-        if (path[path.size() - 1] == '\n')
-        {
-            path.erase(path.size() - 1, 1);
+void loadFileMeta(SLL& cur) {
+    FILE* meta = fopen("Crawl\\metadata.txt", "r");
+    int n; float weight; char buf[101];
+    while (fscanf(meta, "%d", &n)) {
+        if (n == -1) break;
+        Node* add = new Node;
+        char buffer[1000]; // path
+        fgetc(meta);  fgets(buffer, 1000, meta);
+        string path = string(buffer);
+        if (path[path.length() - 1] == '\n') path.erase(path.length() - 1, 1);
+        add->nWords = n; add->path = path;
+        add->listWord = new pack[n];
+        for (int i = 0; i < n; i++) {
+            fscanf(meta, "%f", &weight);  fgets(buf, 101, meta);
+            string word = string(buf);
+            if (word[word.length() - 1] == '\n') word.erase(word.length() - 1, 1);
+            word.erase(0, 1);
+            add->listWord[i] = pack(word, weight);
         }
-        cnt++;
-        if (path.length() <= 4) continue; // ".txt" 
-        addData(path, curList);
+        add->nxt = NULL;
+        addData(curList, add);
     }
-    fclose(fileIndex);
+
+    fclose(meta);
+}
+
+void updateMetadata(SLL& curList) {
+    FILE* meta = fopen("Crawl\\metadata.txt", "w");
+    Node* cur = curList.head;
+    while (cur != NULL) {
+        fprintf(meta, "%d\n%s\n", cur->nWords, cur->path.c_str());
+        for (int i = 0; i < cur->nWords; i++) {
+            fprintf(meta, "%f %s\n", cur->listWord[i].weight, cur->listWord[i].word.c_str());
+        }
+        cur = cur->nxt;
+    }
+    fprintf(meta, "-1");
+    fclose(meta);
 }
 
 /*int main()

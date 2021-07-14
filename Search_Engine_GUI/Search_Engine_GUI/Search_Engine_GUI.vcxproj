@@ -97,6 +97,8 @@
     <ClCompile Include="PreprocessFile.cpp" />
     <ClCompile Include="Query.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="SavePath.cpp" />
+    <ClCompile Include="Setting.cpp" />
     <ClCompile Include="SLL.cpp" />
     <ClCompile Include="TextNormalizationOperators.cpp" />
     <ClCompile Include="WaitingDialog.cpp" />
@@ -105,7 +107,9 @@
     <QtMoc Include="Search_Engine_GUI.h" />
     <ClCompile Include="Search_Engine_GUI.cpp" />
     <ClCompile Include="main.cpp" />
+    <QtUic Include="SavePath.ui" />
     <QtUic Include="Search_Engine_GUI.ui" />
+    <QtUic Include="Setting.ui" />
     <QtUic Include="WaitingDialog.ui" />
     <QtUic Include="WarningDialog.ui" />
   </ItemGroup>
@@ -114,6 +118,8 @@
     <ClInclude Include="PreprocessFIle.h" />
     <ClInclude Include="Query.h" />
     <ClInclude Include="QuickSort.h" />
+    <QtMoc Include="SavePath.h" />
+    <QtMoc Include="Setting.h" />
     <ClInclude Include="SLL.h" />
     <ClInclude Include="TextNormalizationOperators.h" />
     <QtMoc Include="WaitingDialog.h" />

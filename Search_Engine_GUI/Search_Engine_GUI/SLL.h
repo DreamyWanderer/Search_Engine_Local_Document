@@ -19,7 +19,7 @@ string magicString(string cur);
 Node* createNode(const string path);
 void InitList(SLL &curList);
 bool isEmpty(SLL &curList);
-void addData(const string path, SLL &curList);
+void addData(SLL& curList, Node*& add);
 void eraseNode(Node* &cur);
 void eraseList(SLL& curlist);
 bool removePath(const string path, SLL &curList);

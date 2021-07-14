@@ -10,6 +10,7 @@
 #define UI_WARNINGDIALOG_H
 
 #include <QtCore/QVariant>
+#include <QtGui/QIcon>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QDialog>
 #include <QtWidgets/QLabel>
@@ -29,8 +30,10 @@ public:
     {
         if (WarningDialog->objectName().isEmpty())
             WarningDialog->setObjectName(QString::fromUtf8("WarningDialog"));
-        WarningDialog->resize(384, 103);
+        WarningDialog->resize(384, 96);
         WarningDialog->setContextMenuPolicy(Qt::NoContextMenu);
+        QIcon icon(QIcon::fromTheme(QString::fromUtf8("warning")));
+        WarningDialog->setWindowIcon(icon);
         verticalLayout = new QVBoxLayout(WarningDialog);
         verticalLayout->setSpacing(6);
         verticalLayout->setContentsMargins(11, 11, 11, 11);

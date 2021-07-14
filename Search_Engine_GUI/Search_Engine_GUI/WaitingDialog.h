@@ -10,7 +10,5 @@ class WaitingDialog : public QDialog
 public:
 	WaitingDialog(QWidget *parent = Q_NULLPTR);
 	~WaitingDialog();
-
-private:
 	Ui::WaitingDialog ui;
 };

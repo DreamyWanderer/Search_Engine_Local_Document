@@ -28,6 +28,7 @@
 #include <QtWidgets/QTableWidget>
 #include <QtWidgets/QTextBrowser>
 #include <QtWidgets/QToolBar>
+#include <QtWidgets/QToolButton>
 #include <QtWidgets/QTreeView>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
@@ -64,6 +65,7 @@ public:
     QHBoxLayout *horizontalLayout_5;
     QLineEdit *searchBox;
     QPushButton *searchButton;
+    QToolButton *setting;
     QTabWidget *tabWidget_2;
     QWidget *tab_3;
     QVBoxLayout *verticalLayout_5;
@@ -208,6 +210,11 @@ public:
 
         horizontalLayout_5->addWidget(searchButton);
 
+        setting = new QToolButton(verticalLayoutWidget);
+        setting->setObjectName(QString::fromUtf8("setting"));
+
+        horizontalLayout_5->addWidget(setting);
+
 
         verticalLayout->addLayout(horizontalLayout_5);
 
@@ -277,7 +284,7 @@ public:
         retranslateUi(Search_Engine_GUIClass);
 
         tabWidget->setCurrentIndex(1);
-        tabWidget_2->setCurrentIndex(0);
+        tabWidget_2->setCurrentIndex(1);
 
 
         QMetaObject::connectSlotsByName(Search_Engine_GUIClass);
@@ -286,7 +293,7 @@ public:
     void retranslateUi(QMainWindow *Search_Engine_GUIClass)
     {
         Search_Engine_GUIClass->setWindowTitle(QCoreApplication::translate("Search_Engine_GUIClass", "Search_Engine_GUI", nullptr));
-        label->setText(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p align=\"center\"><span style=\" font-weight:700;\">C\303\242y th\306\260 m\341\273\245c</span></p></body></html>", nullptr));
+        label->setText(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p align=\"center\">C\303\242y th\306\260 m\341\273\245c</p></body></html>", nullptr));
 #if QT_CONFIG(tooltip)
         LoadDir->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Hi\341\273\203n th\341\273\213 danh s\303\241ch c\303\241c v\304\203n b\341\272\243n b\303\252n trong th\306\260 m\341\273\245c c\341\272\247n truy xu\341\272\245t</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
@@ -299,7 +306,7 @@ public:
 #if QT_CONFIG(tooltip)
         LoadFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Hi\341\273\203n th\341\273\213 n\341\273\231i dung v\304\203n b\341\272\243n</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        LoadFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "\304\220\341\273\215c", nullptr));
+        LoadFile->setText(QString());
 #if QT_CONFIG(tooltip)
         AddFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Th\303\252m v\304\203n b\341\272\243n v\303\240o danh s\303\241ch c\341\272\247n truy v\341\272\245n [Imcomplete]</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
@@ -307,9 +314,10 @@ public:
 #if QT_CONFIG(tooltip)
         DelFile->setToolTip(QCoreApplication::translate("Search_Engine_GUIClass", "<html><head/><body><p>Xo\303\241 t\341\273\207p v\304\203n b\341\272\243n \304\221\303\243 ch\341\273\215n [Imcomplete]</p></body></html>", nullptr));
 #endif // QT_CONFIG(tooltip)
-        DelFile->setText(QCoreApplication::translate("Search_Engine_GUIClass", "Xo\303\241", nullptr));
+        DelFile->setText(QString());
         searchBox->setText(QString());
         searchButton->setText(QString());
+        setting->setText(QString());
         tabWidget_2->setTabText(tabWidget_2->indexOf(tab_3), QCoreApplication::translate("Search_Engine_GUIClass", "N\341\273\231i dung v\304\203n b\341\272\243n", nullptr));
         tabWidget_2->setTabText(tabWidget_2->indexOf(tab_4), QCoreApplication::translate("Search_Engine_GUIClass", "K\341\272\277t qu\341\272\243", nullptr));
         resultInfo->setText(QCoreApplication::translate("Search_Engine_GUIClass", "TextLabel", nullptr));

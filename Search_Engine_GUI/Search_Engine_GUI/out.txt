@@ -1,3 +1,25 @@
+../../Test/Am nhac/AN_VNE_T_ (136).txt*0.014388
+../../Test/Am nhac/AN_VNE_T_ (13).txt*0.010309
+../../Test/Am nhac/AN_VNE_T_ (129).txt*0.011848
+../../Test/Am nhac/AN_VNE_T_ (119).txt*0.026316
+../../Test/Am nhac/AN_VNE_T_ (118).txt*0.014141
+../../Test/Am nhac/AN_VNE_T_ (117).txt*0.020619
+../../Test/Am nhac/AN_VNE_T_ (114).txt*0.012987
+../../Test/Am nhac/AN_VNE_T_ (112).txt*0.010811
+../../Test/Am nhac/AN_VNE_T_ (108).txt*0.014151
+../../Test/Am nhac/AN_VNE_T_ (103).txt*0.010909
+../../Test/Am nhac/AN_VNE_T_ (101).txt*0.010526
+../../Test/Am nhac/AN_VNE_T_ (1).txt*0.011299
+../../Test/Am nhac/AN_TT_T_ (812).txt*0.011364
+../../Test/Am nhac/AN_TT_T_ (805).txt*0.021277
+../../Test/Am nhac/AN_TN_T_ (804).txt*0.012658
+../../Test/Am nhac/AN_TN_T_ (797).txt*0.034722
+../../Test/Am nhac/AN_TN_T_ (794).txt*0.014085
+../../Test/Am nhac/AN_TN_T_ (785).txt*0.012371
+../../Test/Am nhac/AN_TN_T_ (781).txt*0.012658
+../../Test/Am nhac/AN_TN_T_ (775).txt*0.017647
+../../Test/Am nhac/AN_TN_T_ (761).txt*0.039216
+../../Test/Am nhac/AN_NLD_T_ (759).txt*0.060526
 train\new train\Thoi trang\TT_VNE_ (97).txt*0.035710
 train\new train\Thoi trang\TT_VNE_ (89).txt*0.015000
 train\new train\Thoi trang\TT_VNE_ (88).txt*0.017390

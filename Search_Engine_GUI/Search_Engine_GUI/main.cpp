@@ -8,19 +8,33 @@ wstring stupidChar = L"`~!@#$%^&*()–-_=+[]{}\\|;:'\",<.>/?“”•";
 const float eps = 0.01;
 
 SLL curList;
+bool includeTrain = true;
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Search_Engine_GUI w;
-    w.setWindowTitle("SEngine Local Paper");
-    w.setWindowIcon(QIcon("icon.png"));
+    w.setWindowTitle("Index Magical Searching");
+    w.setWindowIcon(QIcon("icon/icon.png"));
+    w.setWindowState(Qt::WindowMaximized);
     w.show();
+    w.loadIndex();
+
+    FILE *file = fopen("Crawl\\index.txt", "a");
+    fclose(file);
+
     InitList(curList);
     loadFileMeta(curList);
     prepare();
+
     w.DestroyWaiting();
+
     int ret = a.exec();
+
+    SavePath dialogSave;
+    dialogSave.ShowSaveDialog();
+
     eraseList(curList);
+
     return ret;
 }

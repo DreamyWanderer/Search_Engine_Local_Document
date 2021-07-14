@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>384</width>
-    <height>103</height>
+    <height>96</height>
    </rect>
   </property>
   <property name="contextMenuPolicy">
@@ -15,6 +15,9 @@
   </property>
   <property name="windowTitle">
    <string>Vượt giới hạn thêm truy vấn</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme="warning"/>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>

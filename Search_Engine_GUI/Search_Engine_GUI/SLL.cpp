@@ -45,14 +45,12 @@ bool isEmpty(SLL &curList){
     return (curList.head == NULL);
 }
 
-
-void addData(const string path, SLL &curList){
-    Node* add = createNode(path);
+void addData(SLL& curList, Node*& add) {
     if (isEmpty(curList)) curList.head = add;
-    else{
+    else {
         add->nxt = curList.head;
         curList.head = add;
-    } 
+    }
 }
 
 void eraseNode(Node* &cur){
