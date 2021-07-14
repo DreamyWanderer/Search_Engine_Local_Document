@@ -5,7 +5,7 @@ using namespace std;
 #define _SLL_H_
 
 struct Node {
-    wstring path;
+    string path;
     int nWords;
     pack* listWord;  
     Node* nxt;
@@ -13,17 +13,16 @@ struct Node {
 
 struct SLL {
     Node* head;
-    //int len;
 }; 
 
-wstring magicString(wstring cur);
-Node* createNode(const wstring path);
+string magicString(string cur);
+Node* createNode(const string path);
 void InitList(SLL &curList);
 bool isEmpty(SLL &curList);
-void addData(const wstring path, SLL &curList);
+void addData(const string path, SLL &curList);
 void eraseNode(Node* &cur);
 void eraseList(SLL& curlist);
-bool removePath(const wstring path, SLL &curList);
-void printList(SLL &curList);
+bool removePath(const string path, SLL &curList);
+
 
 #endif

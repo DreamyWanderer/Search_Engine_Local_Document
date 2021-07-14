@@ -1,35 +1,38 @@
 #include "lib.h"
 #include "SLL.h"
 
-wstring magicString(wstring cur){
-    wstring ans = cur;
-    for (int i = 0; i < cur.length(); i++){
-        if (ans[i] == L'\\' || ans[i] == L'/') {
-            ans[i] = L'_';
+string magicString(string cur){
+    string ans = cur;
+    for (int i = 0; i < ans.length(); i++){
+        if (ans[i] == '\\' || ans[i] == '/') {
+            ans[i] = '_';
         }
-        if (ans[i] == L' '){
-            ans[i] = L'@';
+        if (ans[i] == ' '){
+            ans[i] = '@';
         }
     }
     return ans;
 }
 
-Node* createNode(const wstring path){
+Node* createNode(const string path){
     Node* cur = new Node;
     
-    wstring pathMeta = L"Crawl\\metadata\\" + magicString(path);
-    FILE* fileMeta = _wfopen(pathMeta.c_str(), L"r,ccs=UTF-8");
+    string pathMeta = "Crawl\\metadata\\" + magicString(path);
+    FILE* fileMeta = fopen(pathMeta.c_str(), "r");
     cur->path = path;
-    fwscanf(fileMeta, L"%d", &cur->nWords);
+    fscanf(fileMeta, "%d", &cur->nWords);
     cur->listWord = new pack[cur->nWords];
     for (int i = 0; i < cur->nWords; i++){
-        wchar_t buffer[51]; float w;
-        fwscanf(fileMeta, L"%s%f", buffer, &w);
-        cur->listWord[i] = pack(wstring(buffer), w);
+        char buffer[101]; float w;
+        fscanf(fileMeta, "%f", &w); fgets(buffer, 101, fileMeta);
+        string s = string(buffer);
+        s.erase(0, 1);
+        if (s[s.length() - 1] == '\n') s.erase(s.length() - 1, 1);
+        cur->listWord[i] = pack(s, w);
     }
     fclose(fileMeta);
     cur->nxt = NULL;
-    
+
     return cur;
 }
 
@@ -43,7 +46,7 @@ bool isEmpty(SLL &curList){
 }
 
 
-void addData(const wstring path, SLL &curList){
+void addData(const string path, SLL &curList){
     Node* add = createNode(path);
     if (isEmpty(curList)) curList.head = add;
     else{
@@ -68,7 +71,7 @@ void eraseList(SLL& curlist)
     }
 }
 
-bool removePath(const wstring path, SLL& curList){
+bool removePath(const string path, SLL& curList){
     Node* cur = curList.head;
     Node* prev = NULL;
     while (cur != NULL){
@@ -92,6 +95,7 @@ bool removePath(const wstring path, SLL& curList){
     return false;
 }
 
+/*
 void printList(SLL &curList){
     Node* cur = curList.head;
     wcout << 1234 << '\n';
@@ -102,4 +106,4 @@ void printList(SLL &curList){
         }
         cur = cur->nxt;
     }
-}
+}*/

@@ -17,7 +17,7 @@ template<class T> int myPartition(T arr[], int lo, int hi){
     return (p + 1);
 }
 
-void quickSort(wstring* arr, int lo, int hi){
+void quickSort(string* arr, int lo, int hi){
     if (lo < hi){
         int pos = myPartition(arr, lo, hi);
         quickSort(arr, lo, pos - 1); 

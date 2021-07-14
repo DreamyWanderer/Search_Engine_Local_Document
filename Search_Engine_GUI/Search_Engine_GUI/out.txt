@@ -1,1 +1,2485 @@
-﻿
+train\new train\Thoi trang\TT_VNE_ (97).txt*0.035710
+train\new train\Thoi trang\TT_VNE_ (89).txt*0.015000
+train\new train\Thoi trang\TT_VNE_ (88).txt*0.017390
+train\new train\Thoi trang\TT_VNE_ (84).txt*0.017990
+train\new train\Thoi trang\TT_VNE_ (83).txt*0.023900
+train\new train\Thoi trang\TT_VNE_ (79).txt*0.020360
+train\new train\Thoi trang\TT_VNE_ (78).txt*0.012300
+train\new train\Thoi trang\TT_VNE_ (77).txt*0.021070
+train\new train\Thoi trang\TT_VNE_ (75).txt*0.027440
+train\new train\Thoi trang\TT_VNE_ (73).txt*0.012230
+train\new train\Thoi trang\TT_VNE_ (71).txt*0.014290
+train\new train\Thoi trang\TT_VNE_ (69).txt*0.015260
+train\new train\Thoi trang\TT_VNE_ (68).txt*0.016430
+train\new train\Thoi trang\TT_VNE_ (67).txt*0.022830
+train\new train\Thoi trang\TT_VNE_ (66).txt*0.013030
+train\new train\Thoi trang\TT_VNE_ (63).txt*0.012580
+train\new train\Thoi trang\TT_VNE_ (62).txt*0.014440
+train\new train\Thoi trang\TT_VNE_ (61).txt*0.010150
+train\new train\Thoi trang\TT_VNE_ (59).txt*0.010430
+train\new train\Thoi trang\TT_VNE_ (55).txt*0.020200
+train\new train\Thoi trang\TT_VNE_ (51).txt*0.010420
+train\new train\Thoi trang\TT_VNE_ (5).txt*0.018870
+train\new train\Thoi trang\TT_VNE_ (47).txt*0.011410
+train\new train\Thoi trang\TT_VNE_ (45).txt*0.016390
+train\new train\Thoi trang\TT_VNE_ (44).txt*0.040680
+train\new train\Thoi trang\TT_VNE_ (41).txt*0.011140
+train\new train\Thoi trang\TT_VNE_ (39).txt*0.015240
+train\new train\Thoi trang\TT_VNE_ (37).txt*0.013370
+train\new train\Thoi trang\TT_VNE_ (349).txt*0.012850
+train\new train\Thoi trang\TT_VNE_ (347).txt*0.012990
+train\new train\Thoi trang\TT_VNE_ (346).txt*0.019230
+train\new train\Thoi trang\TT_VNE_ (343).txt*0.018180
+train\new train\Thoi trang\TT_VNE_ (342).txt*0.012670
+train\new train\Thoi trang\TT_VNE_ (339).txt*0.012920
+train\new train\Thoi trang\TT_VNE_ (334).txt*0.011550
+train\new train\Thoi trang\TT_VNE_ (333).txt*0.014550
+train\new train\Thoi trang\TT_VNE_ (33).txt*0.020130
+train\new train\Thoi trang\TT_VNE_ (324).txt*0.018130
+train\new train\Thoi trang\TT_VNE_ (323).txt*0.012590
+train\new train\Thoi trang\TT_VNE_ (32).txt*0.014490
+train\new train\Thoi trang\TT_VNE_ (318).txt*0.013910
+train\new train\Thoi trang\TT_VNE_ (316).txt*0.024500
+train\new train\Thoi trang\TT_VNE_ (314).txt*0.011810
+train\new train\Thoi trang\TT_VNE_ (312).txt*0.016480
+train\new train\Thoi trang\TT_VNE_ (311).txt*0.011320
+train\new train\Thoi trang\TT_VNE_ (301).txt*0.015870
+train\new train\Thoi trang\TT_VNE_ (300).txt*0.010860
+train\new train\Thoi trang\TT_VNE_ (30).txt*0.020830
+train\new train\Thoi trang\TT_VNE_ (3).txt*0.032570
+train\new train\Thoi trang\TT_VNE_ (299).txt*0.025970
+train\new train\Thoi trang\TT_VNE_ (293).txt*0.048780
+train\new train\Thoi trang\TT_VNE_ (291).txt*0.010510
+train\new train\Thoi trang\TT_VNE_ (282).txt*0.012200
+train\new train\Thoi trang\TT_VNE_ (280).txt*0.017860
+train\new train\Thoi trang\TT_VNE_ (276).txt*0.033030
+train\new train\Thoi trang\TT_VNE_ (274).txt*0.026320
+train\new train\Thoi trang\TT_VNE_ (270).txt*0.013820
+train\new train\Thoi trang\TT_VNE_ (269).txt*0.016530
+train\new train\Thoi trang\TT_VNE_ (266).txt*0.021550
+train\new train\Thoi trang\TT_VNE_ (264).txt*0.017780
+train\new train\Thoi trang\TT_VNE_ (260).txt*0.046360
+train\new train\Thoi trang\TT_VNE_ (258).txt*0.017390
+train\new train\Thoi trang\TT_VNE_ (255).txt*0.017010
+train\new train\Thoi trang\TT_VNE_ (251).txt*0.017340
+train\new train\Thoi trang\TT_VNE_ (250).txt*0.010550
+train\new train\Thoi trang\TT_VNE_ (246).txt*0.052490
+train\new train\Thoi trang\TT_VNE_ (244).txt*0.017540
+train\new train\Thoi trang\TT_VNE_ (242).txt*0.010150
+train\new train\Thoi trang\TT_VNE_ (240).txt*0.013970
+train\new train\Thoi trang\TT_VNE_ (235).txt*0.013380
+train\new train\Thoi trang\TT_VNE_ (233).txt*0.022350
+train\new train\Thoi trang\TT_VNE_ (230).txt*0.046360
+train\new train\Thoi trang\TT_VNE_ (23).txt*0.018690
+train\new train\Thoi trang\TT_VNE_ (229).txt*0.015670
+train\new train\Thoi trang\TT_VNE_ (228).txt*0.014680
+train\new train\Thoi trang\TT_VNE_ (227).txt*0.065790
+train\new train\Thoi trang\TT_VNE_ (226).txt*0.017300
+train\new train\Thoi trang\TT_VNE_ (225).txt*0.045450
+train\new train\Thoi trang\TT_VNE_ (224).txt*0.011330
+train\new train\Thoi trang\TT_VNE_ (221).txt*0.013720
+train\new train\Thoi trang\TT_VNE_ (212).txt*0.017300
+train\new train\Thoi trang\TT_VNE_ (21).txt*0.021280
+train\new train\Thoi trang\TT_VNE_ (209).txt*0.010490
+train\new train\Thoi trang\TT_VNE_ (206).txt*0.017110
+train\new train\Thoi trang\TT_VNE_ (201).txt*0.017920
+train\new train\Thoi trang\TT_VNE_ (2).txt*0.042740
+train\new train\Thoi trang\TT_VNE_ (198).txt*0.014250
+train\new train\Thoi trang\TT_VNE_ (194).txt*0.026670
+train\new train\Thoi trang\TT_VNE_ (183).txt*0.012210
+train\new train\Thoi trang\TT_VNE_ (182).txt*0.012660
+train\new train\Thoi trang\TT_VNE_ (181).txt*0.010000
+train\new train\Thoi trang\TT_VNE_ (180).txt*0.033330
+train\new train\Thoi trang\TT_VNE_ (172).txt*0.013640
+train\new train\Thoi trang\TT_VNE_ (171).txt*0.016190
+train\new train\Thoi trang\TT_VNE_ (17).txt*0.031250
+train\new train\Thoi trang\TT_VNE_ (167).txt*0.011110
+train\new train\Thoi trang\TT_VNE_ (160).txt*0.013160
+train\new train\Thoi trang\TT_VNE_ (157).txt*0.011810
+train\new train\Thoi trang\TT_VNE_ (152).txt*0.017020
+train\new train\Thoi trang\TT_VNE_ (151).txt*0.013320
+train\new train\Thoi trang\TT_VNE_ (147).txt*0.012450
+train\new train\Thoi trang\TT_VNE_ (14).txt*0.011390
+train\new train\Thoi trang\TT_VNE_ (138).txt*0.010680
+train\new train\Thoi trang\TT_VNE_ (135).txt*0.018600
+train\new train\Thoi trang\TT_VNE_ (133).txt*0.010130
+train\new train\Thoi trang\TT_VNE_ (125).txt*0.031500
+train\new train\Thoi trang\TT_VNE_ (124).txt*0.015380
+train\new train\Thoi trang\TT_VNE_ (121).txt*0.011760
+train\new train\Thoi trang\TT_VNE_ (119).txt*0.010070
+train\new train\Thoi trang\TT_VNE_ (117).txt*0.020940
+train\new train\Thoi trang\TT_VNE_ (115).txt*0.021280
+train\new train\Thoi trang\TT_VNE_ (112).txt*0.012410
+train\new train\Thoi trang\TT_VNE_ (1).txt*0.033520
+train\new train\Thoi trang\TT_TN_ (382).txt*0.013790
+train\new train\Thoi trang\TT_TN_ (378).txt*0.017700
+train\new train\Thoi trang\TT_TN_ (377).txt*0.017390
+train\new train\Thoi trang\TT_TN_ (375).txt*0.013610
+train\new train\Thoi trang\TT_TN_ (374).txt*0.010200
+train\new train\Thoi trang\TT_TN_ (373).txt*0.025210
+train\new train\Thoi trang\TT_TN_ (371).txt*0.027780
+train\new train\Thoi trang\TT_TN_ (368).txt*0.011360
+train\new train\Thoi trang\TT_TN_ (366).txt*0.022730
+train\new train\Thoi trang\TT_TN_ (359).txt*0.010000
+train\new train\Thoi trang\TT_TN_ (357).txt*0.012350
+train\new train\Thoi trang\TT_TN_ (354).txt*0.012200
+train\new train\Thoi trang\TT_TN_ (352).txt*0.011360
+train\new train\Thoi trang\TT_TN_ (351).txt*0.015150
+train\new train\Thoi trang\TT_NLD_ (409).txt*0.015630
+train\new train\Thoi trang\TT_NLD_ (399).txt*0.010640
+train\new train\Thoi trang\TT_NLD_ (392).txt*0.024150
+train\new train\Thoi trang\TT_NLD_ (388).txt*0.014710
+train\new train\The gioi tre\TGT_TT_ (331).txt*0.021740
+train\new train\The gioi tre\TGT_TT_ (330).txt*0.013700
+train\new train\The gioi tre\TGT_TT_ (327).txt*0.011700
+train\new train\The gioi tre\TGT_TT_ (326).txt*0.027030
+train\new train\The gioi tre\TGT_TT_ (309).txt*0.011490
+train\new train\The gioi tre\TGT_TT_ (307).txt*0.012500
+train\new train\The gioi tre\TGT_TT_ (280).txt*0.033600
+train\new train\The gioi tre\TGT_TT_ (272).txt*0.012200
+train\new train\The gioi tre\TGT_TT_ (270).txt*0.012770
+train\new train\The gioi tre\TGT_TT_ (269).txt*0.010440
+train\new train\The gioi tre\TGT_TT_ (226).txt*0.032260
+train\new train\The gioi tre\TGT_TT_ (221).txt*0.015090
+train\new train\The gioi tre\TGT_TT_ (220).txt*0.031750
+train\new train\The gioi tre\TGT_TT_ (218).txt*0.016390
+train\new train\The gioi tre\TGT_TT_ (217).txt*0.018520
+train\new train\The gioi tre\TGT_TT_ (216).txt*0.021280
+train\new train\The gioi tre\TGT_TT_ (208).txt*0.013220
+train\new train\The gioi tre\TGT_TT_ (199).txt*0.010900
+train\new train\The gioi tre\TGT_TT_ (191).txt*0.012990
+train\new train\The gioi tre\TGT_TT_ (190).txt*0.010840
+train\new train\The gioi tre\TGT_TT_ (186).txt*0.012760
+train\new train\The gioi tre\TGT_TT_ (179).txt*0.012400
+train\new train\The gioi tre\TGT_TN_ (84).txt*0.023420
+train\new train\The gioi tre\TGT_TN_ (76).txt*0.010150
+train\new train\The gioi tre\TGT_TN_ (70).txt*0.012740
+train\new train\The gioi tre\TGT_TN_ (63).txt*0.012400
+train\new train\The gioi tre\TGT_TN_ (6).txt*0.011760
+train\new train\The gioi tre\TGT_TN_ (54).txt*0.010310
+train\new train\The gioi tre\TGT_TN_ (49).txt*0.011550
+train\new train\The gioi tre\TGT_TN_ (46).txt*0.012790
+train\new train\The gioi tre\TGT_TN_ (42).txt*0.033330
+train\new train\The gioi tre\TGT_TN_ (166).txt*0.015410
+train\new train\The gioi tre\TGT_TN_ (145).txt*0.012350
+train\new train\The gioi tre\TGT_TN_ (140).txt*0.029150
+train\new train\The gioi tre\TGT_TN_ (131).txt*0.010210
+train\new train\The gioi tre\TGT_TN_ (130).txt*0.016100
+train\new train\The gioi tre\TGT_TN_ (126).txt*0.014650
+train\new train\The gioi tre\TGT_TN_ (125).txt*0.019650
+train\new train\The gioi tre\TGT_TN_ (121).txt*0.040490
+train\new train\The gioi tre\TGT_TN_ (118).txt*0.012820
+train\new train\The gioi tre\TGT_TN_ (111).txt*0.010420
+train\new train\Tennis\T_VNE_ (97).txt*0.014350
+train\new train\Tennis\T_VNE_ (88).txt*0.014840
+train\new train\Tennis\T_VNE_ (71).txt*0.035180
+train\new train\Tennis\T_VNE_ (62).txt*0.013510
+train\new train\Tennis\T_VNE_ (59).txt*0.011800
+train\new train\Tennis\T_VNE_ (564).txt*0.016300
+train\new train\Tennis\T_VNE_ (55).txt*0.017320
+train\new train\Tennis\T_VNE_ (538).txt*0.029410
+train\new train\Tennis\T_VNE_ (527).txt*0.014390
+train\new train\Tennis\T_VNE_ (517).txt*0.011170
+train\new train\Tennis\T_VNE_ (509).txt*0.011630
+train\new train\Tennis\T_VNE_ (508).txt*0.023530
+train\new train\Tennis\T_VNE_ (506).txt*0.024390
+train\new train\Tennis\T_VNE_ (499).txt*0.040490
+train\new train\Tennis\T_VNE_ (484).txt*0.011810
+train\new train\Tennis\T_VNE_ (475).txt*0.010230
+train\new train\Tennis\T_VNE_ (47).txt*0.011550
+train\new train\Tennis\T_VNE_ (460).txt*0.013160
+train\new train\Tennis\T_VNE_ (453).txt*0.010200
+train\new train\Tennis\T_VNE_ (452).txt*0.010870
+train\new train\Tennis\T_VNE_ (451).txt*0.011590
+train\new train\Tennis\T_VNE_ (446).txt*0.012550
+train\new train\Tennis\T_VNE_ (440).txt*0.010770
+train\new train\Tennis\T_VNE_ (411).txt*0.014080
+train\new train\Tennis\T_VNE_ (407).txt*0.010230
+train\new train\Tennis\T_VNE_ (392).txt*0.013860
+train\new train\Tennis\T_VNE_ (385).txt*0.015530
+train\new train\Tennis\T_VNE_ (369).txt*0.011900
+train\new train\Tennis\T_VNE_ (367).txt*0.014230
+train\new train\Tennis\T_VNE_ (364).txt*0.012200
+train\new train\Tennis\T_VNE_ (360).txt*0.017240
+train\new train\Tennis\T_VNE_ (359).txt*0.016190
+train\new train\Tennis\T_VNE_ (357).txt*0.013510
+train\new train\Tennis\T_VNE_ (349).txt*0.010340
+train\new train\Tennis\T_VNE_ (348).txt*0.027030
+train\new train\Tennis\T_VNE_ (343).txt*0.011240
+train\new train\Tennis\T_VNE_ (342).txt*0.012990
+train\new train\Tennis\T_VNE_ (337).txt*0.021190
+train\new train\Tennis\T_VNE_ (336).txt*0.046880
+train\new train\Tennis\T_VNE_ (335).txt*0.014040
+train\new train\Tennis\T_VNE_ (332).txt*0.025970
+train\new train\Tennis\T_VNE_ (314).txt*0.015230
+train\new train\Tennis\T_VNE_ (309).txt*0.012860
+train\new train\Tennis\T_VNE_ (300).txt*0.016950
+train\new train\Tennis\T_VNE_ (288).txt*0.017720
+train\new train\Tennis\T_VNE_ (282).txt*0.025380
+train\new train\Tennis\T_VNE_ (280).txt*0.010820
+train\new train\Tennis\T_VNE_ (279).txt*0.013610
+train\new train\Tennis\T_VNE_ (274).txt*0.011600
+train\new train\Tennis\T_VNE_ (273).txt*0.010730
+train\new train\Tennis\T_VNE_ (270).txt*0.010680
+train\new train\Tennis\T_VNE_ (262).txt*0.014930
+train\new train\Tennis\T_VNE_ (216).txt*0.012380
+train\new train\Tennis\T_VNE_ (206).txt*0.010200
+train\new train\Tennis\T_VNE_ (205).txt*0.010310
+train\new train\Tennis\T_VNE_ (2).txt*0.017240
+train\new train\Tennis\T_VNE_ (196).txt*0.013940
+train\new train\Tennis\T_VNE_ (19).txt*0.010330
+train\new train\Tennis\T_VNE_ (189).txt*0.019230
+train\new train\Tennis\T_VNE_ (184).txt*0.016950
+train\new train\Tennis\T_VNE_ (183).txt*0.014930
+train\new train\Tennis\T_VNE_ (18).txt*0.013700
+train\new train\Tennis\T_VNE_ (177).txt*0.017470
+train\new train\Tennis\T_VNE_ (168).txt*0.010530
+train\new train\Tennis\T_VNE_ (165).txt*0.015040
+train\new train\Tennis\T_VNE_ (154).txt*0.010150
+train\new train\Tennis\T_VNE_ (151).txt*0.011830
+train\new train\Tennis\T_VNE_ (142).txt*0.014930
+train\new train\Tennis\T_VNE_ (141).txt*0.012270
+train\new train\Tennis\T_VNE_ (136).txt*0.010910
+train\new train\Tennis\T_VNE_ (132).txt*0.013890
+train\new train\Tennis\T_VNE_ (130).txt*0.011670
+train\new train\Tennis\T_VNE_ (126).txt*0.010420
+train\new train\Tennis\T_VNE_ (113).txt*0.014790
+train\new train\Tennis\T_TT_ (579).txt*0.010870
+train\new train\Tennis\T_TT_ (572).txt*0.016480
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (95).txt*0.010870
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (94).txt*0.029630
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (92).txt*0.034480
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (90).txt*0.015790
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (86).txt*0.019510
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (83).txt*0.010100
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (82).txt*0.027860
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (80).txt*0.038760
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (77).txt*0.019230
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (75).txt*0.031670
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (72).txt*0.029850
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (7).txt*0.024240
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (67).txt*0.016530
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (669).txt*0.034830
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (662).txt*0.043100
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (66).txt*0.020200
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (659).txt*0.056740
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (654).txt*0.030770
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (647).txt*0.011400
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (646).txt*0.028090
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (645).txt*0.010150
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (629).txt*0.031370
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (628).txt*0.010000
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (627).txt*0.025140
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (624).txt*0.010200
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (623).txt*0.050000
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (621).txt*0.010260
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (617).txt*0.020550
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (601).txt*0.019480
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (590).txt*0.017700
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (59).txt*0.014290
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (589).txt*0.035350
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (586).txt*0.030300
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (581).txt*0.041860
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (576).txt*0.025000
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (571).txt*0.019930
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (565).txt*0.013820
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (559).txt*0.023390
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (553).txt*0.049690
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (551).txt*0.013760
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (549).txt*0.045450
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (533).txt*0.036140
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (531).txt*0.054790
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (529).txt*0.010270
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (526).txt*0.023810
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (525).txt*0.012120
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (522).txt*0.015380
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (52).txt*0.039840
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (516).txt*0.015230
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (515).txt*0.011290
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (503).txt*0.031670
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (50).txt*0.040820
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (490).txt*0.025000
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (488).txt*0.024240
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (485).txt*0.014490
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (481).txt*0.013270
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (467).txt*0.031380
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (458).txt*0.010100
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (449).txt*0.033330
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (447).txt*0.014900
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (442).txt*0.019540
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (439).txt*0.051830
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (438).txt*0.018250
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (437).txt*0.014760
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (429).txt*0.037880
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (42).txt*0.014330
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (418).txt*0.040270
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (416).txt*0.021160
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (411).txt*0.020200
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (406).txt*0.015500
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (397).txt*0.030300
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (392).txt*0.017940
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (385).txt*0.013220
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (383).txt*0.013330
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (374).txt*0.019230
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (368).txt*0.052080
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (366).txt*0.015960
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (365).txt*0.077590
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (36).txt*0.048970
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (345).txt*0.018990
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (342).txt*0.044030
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (340).txt*0.013020
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (333).txt*0.030120
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (33).txt*0.018290
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (328).txt*0.032360
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (325).txt*0.016040
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (324).txt*0.051470
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (315).txt*0.016260
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (313).txt*0.022730
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (307).txt*0.011980
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (300).txt*0.058250
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (3).txt*0.016460
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (297).txt*0.014810
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (291).txt*0.011830
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (283).txt*0.012450
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (281).txt*0.023890
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (278).txt*0.031580
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (276).txt*0.048190
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (26).txt*0.058820
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (25).txt*0.012150
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (24).txt*0.043140
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (239).txt*0.043290
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (233).txt*0.081870
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (220).txt*0.014550
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (218).txt*0.061610
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (212).txt*0.014560
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (21).txt*0.041420
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (207).txt*0.024150
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (206).txt*0.013160
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (200).txt*0.012660
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (2).txt*0.061030
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (198).txt*0.051280
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (195).txt*0.014490
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (189).txt*0.010530
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (188).txt*0.022990
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (164).txt*0.020900
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (161).txt*0.027780
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (156).txt*0.018930
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (154).txt*0.010750
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (140).txt*0.025640
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (137).txt*0.014710
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (135).txt*0.013890
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (128).txt*0.010870
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (127).txt*0.034480
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (115).txt*0.026490
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (11).txt*0.010100
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (108).txt*0.012200
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (107).txt*0.024730
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (105).txt*0.021740
+train\new train\San pham tin hoc moi\SPTHM_VNE_ (10).txt*0.023260
+train\new train\San pham tin hoc moi\SPTHM_TT_ (766).txt*0.028170
+train\new train\San pham tin hoc moi\SPTHM_TT_ (760).txt*0.063830
+train\new train\San pham tin hoc moi\SPTHM_TT_ (756).txt*0.016670
+train\new train\San pham tin hoc moi\SPTHM_TT_ (755).txt*0.014710
+train\new train\San pham tin hoc moi\SPTHM_TT_ (754).txt*0.014560
+train\new train\San pham tin hoc moi\SPTHM_TT_ (748).txt*0.022730
+train\new train\San pham tin hoc moi\SPTHM_TT_ (747).txt*0.024540
+train\new train\San pham tin hoc moi\SPTHM_TT_ (740).txt*0.010640
+train\new train\San pham tin hoc moi\SPTHM_TT_ (735).txt*0.027620
+train\new train\San pham tin hoc moi\SPTHM_TT_ (732).txt*0.030300
+train\new train\San pham tin hoc moi\SPTHM_TT_ (731).txt*0.019050
+train\new train\San pham tin hoc moi\SPTHM_TT_ (729).txt*0.014490
+train\new train\San pham tin hoc moi\SPTHM_TT_ (724).txt*0.011760
+train\new train\San pham tin hoc moi\SPTHM_TT_ (721).txt*0.016220
+train\new train\San pham tin hoc moi\SPTHM_TT_ (711).txt*0.110340
+train\new train\San pham tin hoc moi\SPTHM_TT_ (709).txt*0.023080
+train\new train\San pham tin hoc moi\SPTHM_TT_ (708).txt*0.013260
+train\new train\San pham tin hoc moi\SPTHM_TN_ (695).txt*0.023080
+train\new train\San pham tin hoc moi\SPTHM_TN_ (692).txt*0.093470
+train\new train\San pham tin hoc moi\SPTHM_TN_ (690).txt*0.012770
+train\new train\San pham tin hoc moi\SPTHM_TN_ (681).txt*0.082470
+train\new train\San pham tin hoc moi\SPTHM_TN_ (679).txt*0.015500
+train\new train\San pham tin hoc moi\SPTHM_TN_ (676).txt*0.015380
+train\new train\San pham tin hoc moi\SPTHM_TN_ (674).txt*0.022470
+train\new train\San khau dien anh\SKDA_VNE_ (99).txt*0.015380
+train\new train\San khau dien anh\SKDA_VNE_ (97).txt*0.011280
+train\new train\San khau dien anh\SKDA_VNE_ (94).txt*0.047620
+train\new train\San khau dien anh\SKDA_VNE_ (93).txt*0.011630
+train\new train\San khau dien anh\SKDA_VNE_ (92).txt*0.012630
+train\new train\San khau dien anh\SKDA_VNE_ (916).txt*0.026430
+train\new train\San khau dien anh\SKDA_VNE_ (914).txt*0.015750
+train\new train\San khau dien anh\SKDA_VNE_ (911).txt*0.031250
+train\new train\San khau dien anh\SKDA_VNE_ (910).txt*0.014020
+train\new train\San khau dien anh\SKDA_VNE_ (908).txt*0.047460
+train\new train\San khau dien anh\SKDA_VNE_ (907).txt*0.012390
+train\new train\San khau dien anh\SKDA_VNE_ (906).txt*0.021670
+train\new train\San khau dien anh\SKDA_VNE_ (905).txt*0.012350
+train\new train\San khau dien anh\SKDA_VNE_ (904).txt*0.011630
+train\new train\San khau dien anh\SKDA_VNE_ (902).txt*0.010470
+train\new train\San khau dien anh\SKDA_VNE_ (901).txt*0.011080
+train\new train\San khau dien anh\SKDA_VNE_ (900).txt*0.031070
+train\new train\San khau dien anh\SKDA_VNE_ (90).txt*0.021190
+train\new train\San khau dien anh\SKDA_VNE_ (897).txt*0.014730
+train\new train\San khau dien anh\SKDA_VNE_ (89).txt*0.012560
+train\new train\San khau dien anh\SKDA_VNE_ (889).txt*0.019010
+train\new train\San khau dien anh\SKDA_VNE_ (886).txt*0.049260
+train\new train\San khau dien anh\SKDA_VNE_ (883).txt*0.025890
+train\new train\San khau dien anh\SKDA_VNE_ (880).txt*0.014930
+train\new train\San khau dien anh\SKDA_VNE_ (88).txt*0.020830
+train\new train\San khau dien anh\SKDA_VNE_ (879).txt*0.012550
+train\new train\San khau dien anh\SKDA_VNE_ (878).txt*0.012690
+train\new train\San khau dien anh\SKDA_VNE_ (877).txt*0.015400
+train\new train\San khau dien anh\SKDA_VNE_ (876).txt*0.025000
+train\new train\San khau dien anh\SKDA_VNE_ (875).txt*0.016280
+train\new train\San khau dien anh\SKDA_VNE_ (874).txt*0.014180
+train\new train\San khau dien anh\SKDA_VNE_ (87).txt*0.010750
+train\new train\San khau dien anh\SKDA_VNE_ (867).txt*0.027520
+train\new train\San khau dien anh\SKDA_VNE_ (866).txt*0.010060
+train\new train\San khau dien anh\SKDA_VNE_ (864).txt*0.033060
+train\new train\San khau dien anh\SKDA_VNE_ (863).txt*0.013200
+train\new train\San khau dien anh\SKDA_VNE_ (859).txt*0.017340
+train\new train\San khau dien anh\SKDA_VNE_ (858).txt*0.024040
+train\new train\San khau dien anh\SKDA_VNE_ (852).txt*0.016790
+train\new train\San khau dien anh\SKDA_VNE_ (848).txt*0.014710
+train\new train\San khau dien anh\SKDA_VNE_ (846).txt*0.027670
+train\new train\San khau dien anh\SKDA_VNE_ (844).txt*0.023620
+train\new train\San khau dien anh\SKDA_VNE_ (842).txt*0.023810
+train\new train\San khau dien anh\SKDA_VNE_ (839).txt*0.028990
+train\new train\San khau dien anh\SKDA_VNE_ (838).txt*0.010990
+train\new train\San khau dien anh\SKDA_VNE_ (833).txt*0.012350
+train\new train\San khau dien anh\SKDA_VNE_ (832).txt*0.011760
+train\new train\San khau dien anh\SKDA_VNE_ (831).txt*0.013610
+train\new train\San khau dien anh\SKDA_VNE_ (827).txt*0.016190
+train\new train\San khau dien anh\SKDA_VNE_ (825).txt*0.025160
+train\new train\San khau dien anh\SKDA_VNE_ (820).txt*0.029700
+train\new train\San khau dien anh\SKDA_VNE_ (82).txt*0.027780
+train\new train\San khau dien anh\SKDA_VNE_ (818).txt*0.012230
+train\new train\San khau dien anh\SKDA_VNE_ (817).txt*0.015750
+train\new train\San khau dien anh\SKDA_VNE_ (81).txt*0.026490
+train\new train\San khau dien anh\SKDA_VNE_ (809).txt*0.017860
+train\new train\San khau dien anh\SKDA_VNE_ (806).txt*0.014390
+train\new train\San khau dien anh\SKDA_VNE_ (805).txt*0.023670
+train\new train\San khau dien anh\SKDA_VNE_ (800).txt*0.027030
+train\new train\San khau dien anh\SKDA_VNE_ (80).txt*0.021320
+train\new train\San khau dien anh\SKDA_VNE_ (799).txt*0.025970
+train\new train\San khau dien anh\SKDA_VNE_ (797).txt*0.014330
+train\new train\San khau dien anh\SKDA_VNE_ (793).txt*0.037380
+train\new train\San khau dien anh\SKDA_VNE_ (789).txt*0.010870
+train\new train\San khau dien anh\SKDA_VNE_ (787).txt*0.016850
+train\new train\San khau dien anh\SKDA_VNE_ (786).txt*0.011050
+train\new train\San khau dien anh\SKDA_VNE_ (784).txt*0.022570
+train\new train\San khau dien anh\SKDA_VNE_ (781).txt*0.014810
+train\new train\San khau dien anh\SKDA_VNE_ (78).txt*0.010850
+train\new train\San khau dien anh\SKDA_VNE_ (779).txt*0.012050
+train\new train\San khau dien anh\SKDA_VNE_ (778).txt*0.012990
+train\new train\San khau dien anh\SKDA_VNE_ (776).txt*0.016810
+train\new train\San khau dien anh\SKDA_VNE_ (775).txt*0.012820
+train\new train\San khau dien anh\SKDA_VNE_ (772).txt*0.011360
+train\new train\San khau dien anh\SKDA_VNE_ (768).txt*0.015380
+train\new train\San khau dien anh\SKDA_VNE_ (767).txt*0.010990
+train\new train\San khau dien anh\SKDA_VNE_ (765).txt*0.010810
+train\new train\San khau dien anh\SKDA_VNE_ (764).txt*0.011330
+train\new train\San khau dien anh\SKDA_VNE_ (763).txt*0.018020
+train\new train\San khau dien anh\SKDA_VNE_ (760).txt*0.016220
+train\new train\San khau dien anh\SKDA_VNE_ (759).txt*0.021740
+train\new train\San khau dien anh\SKDA_VNE_ (758).txt*0.021740
+train\new train\San khau dien anh\SKDA_VNE_ (756).txt*0.025250
+train\new train\San khau dien anh\SKDA_VNE_ (755).txt*0.024390
+train\new train\San khau dien anh\SKDA_VNE_ (752).txt*0.021560
+train\new train\San khau dien anh\SKDA_VNE_ (751).txt*0.012300
+train\new train\San khau dien anh\SKDA_VNE_ (750).txt*0.026110
+train\new train\San khau dien anh\SKDA_VNE_ (748).txt*0.012820
+train\new train\San khau dien anh\SKDA_VNE_ (747).txt*0.017960
+train\new train\San khau dien anh\SKDA_VNE_ (746).txt*0.023390
+train\new train\San khau dien anh\SKDA_VNE_ (745).txt*0.039800
+train\new train\San khau dien anh\SKDA_VNE_ (744).txt*0.024830
+train\new train\San khau dien anh\SKDA_VNE_ (742).txt*0.013570
+train\new train\San khau dien anh\SKDA_VNE_ (741).txt*0.010960
+train\new train\San khau dien anh\SKDA_VNE_ (74).txt*0.027110
+train\new train\San khau dien anh\SKDA_VNE_ (736).txt*0.022220
+train\new train\San khau dien anh\SKDA_VNE_ (731).txt*0.016000
+train\new train\San khau dien anh\SKDA_VNE_ (730).txt*0.014930
+train\new train\San khau dien anh\SKDA_VNE_ (73).txt*0.016480
+train\new train\San khau dien anh\SKDA_VNE_ (726).txt*0.011490
+train\new train\San khau dien anh\SKDA_VNE_ (724).txt*0.013560
+train\new train\San khau dien anh\SKDA_VNE_ (721).txt*0.012010
+train\new train\San khau dien anh\SKDA_VNE_ (72).txt*0.014370
+train\new train\San khau dien anh\SKDA_VNE_ (718).txt*0.020510
+train\new train\San khau dien anh\SKDA_VNE_ (717).txt*0.043960
+train\new train\San khau dien anh\SKDA_VNE_ (711).txt*0.025250
+train\new train\San khau dien anh\SKDA_VNE_ (708).txt*0.029600
+train\new train\San khau dien anh\SKDA_VNE_ (705).txt*0.041240
+train\new train\San khau dien anh\SKDA_VNE_ (704).txt*0.016130
+train\new train\San khau dien anh\SKDA_VNE_ (702).txt*0.022220
+train\new train\San khau dien anh\SKDA_VNE_ (700).txt*0.030300
+train\new train\San khau dien anh\SKDA_VNE_ (699).txt*0.011630
+train\new train\San khau dien anh\SKDA_VNE_ (696).txt*0.029660
+train\new train\San khau dien anh\SKDA_VNE_ (694).txt*0.043800
+train\new train\San khau dien anh\SKDA_VNE_ (692).txt*0.016810
+train\new train\San khau dien anh\SKDA_VNE_ (688).txt*0.013990
+train\new train\San khau dien anh\SKDA_VNE_ (687).txt*0.010200
+train\new train\San khau dien anh\SKDA_VNE_ (683).txt*0.012500
+train\new train\San khau dien anh\SKDA_VNE_ (681).txt*0.012880
+train\new train\San khau dien anh\SKDA_VNE_ (680).txt*0.028740
+train\new train\San khau dien anh\SKDA_VNE_ (679).txt*0.015060
+train\new train\San khau dien anh\SKDA_VNE_ (678).txt*0.014810
+train\new train\San khau dien anh\SKDA_VNE_ (677).txt*0.013270
+train\new train\San khau dien anh\SKDA_VNE_ (675).txt*0.036500
+train\new train\San khau dien anh\SKDA_VNE_ (674).txt*0.027210
+train\new train\San khau dien anh\SKDA_VNE_ (668).txt*0.014600
+train\new train\San khau dien anh\SKDA_VNE_ (663).txt*0.011630
+train\new train\San khau dien anh\SKDA_VNE_ (66).txt*0.025360
+train\new train\San khau dien anh\SKDA_VNE_ (659).txt*0.013510
+train\new train\San khau dien anh\SKDA_VNE_ (656).txt*0.019160
+train\new train\San khau dien anh\SKDA_VNE_ (65).txt*0.014250
+train\new train\San khau dien anh\SKDA_VNE_ (642).txt*0.011360
+train\new train\San khau dien anh\SKDA_VNE_ (641).txt*0.012440
+train\new train\San khau dien anh\SKDA_VNE_ (64).txt*0.017920
+train\new train\San khau dien anh\SKDA_VNE_ (638).txt*0.025640
+train\new train\San khau dien anh\SKDA_VNE_ (637).txt*0.036700
+train\new train\San khau dien anh\SKDA_VNE_ (636).txt*0.012500
+train\new train\San khau dien anh\SKDA_VNE_ (635).txt*0.010870
+train\new train\San khau dien anh\SKDA_VNE_ (634).txt*0.010930
+train\new train\San khau dien anh\SKDA_VNE_ (632).txt*0.023810
+train\new train\San khau dien anh\SKDA_VNE_ (631).txt*0.018870
+train\new train\San khau dien anh\SKDA_VNE_ (630).txt*0.019670
+train\new train\San khau dien anh\SKDA_VNE_ (626).txt*0.013160
+train\new train\San khau dien anh\SKDA_VNE_ (625).txt*0.016810
+train\new train\San khau dien anh\SKDA_VNE_ (620).txt*0.014370
+train\new train\San khau dien anh\SKDA_VNE_ (619).txt*0.012810
+train\new train\San khau dien anh\SKDA_VNE_ (618).txt*0.017390
+train\new train\San khau dien anh\SKDA_VNE_ (617).txt*0.013950
+train\new train\San khau dien anh\SKDA_VNE_ (616).txt*0.022360
+train\new train\San khau dien anh\SKDA_VNE_ (611).txt*0.020620
+train\new train\San khau dien anh\SKDA_VNE_ (61).txt*0.010580
+train\new train\San khau dien anh\SKDA_VNE_ (607).txt*0.010600
+train\new train\San khau dien anh\SKDA_VNE_ (606).txt*0.012200
+train\new train\San khau dien anh\SKDA_VNE_ (603).txt*0.015830
+train\new train\San khau dien anh\SKDA_VNE_ (601).txt*0.042740
+train\new train\San khau dien anh\SKDA_VNE_ (599).txt*0.016920
+train\new train\San khau dien anh\SKDA_VNE_ (598).txt*0.017860
+train\new train\San khau dien anh\SKDA_VNE_ (593).txt*0.017430
+train\new train\San khau dien anh\SKDA_VNE_ (59).txt*0.010240
+train\new train\San khau dien anh\SKDA_VNE_ (589).txt*0.016740
+train\new train\San khau dien anh\SKDA_VNE_ (584).txt*0.022970
+train\new train\San khau dien anh\SKDA_VNE_ (583).txt*0.012930
+train\new train\San khau dien anh\SKDA_VNE_ (582).txt*0.010480
+train\new train\San khau dien anh\SKDA_VNE_ (576).txt*0.017900
+train\new train\San khau dien anh\SKDA_VNE_ (573).txt*0.012390
+train\new train\San khau dien anh\SKDA_VNE_ (572).txt*0.014250
+train\new train\San khau dien anh\SKDA_VNE_ (571).txt*0.016130
+train\new train\San khau dien anh\SKDA_VNE_ (569).txt*0.018180
+train\new train\San khau dien anh\SKDA_VNE_ (567).txt*0.021580
+train\new train\San khau dien anh\SKDA_VNE_ (566).txt*0.016130
+train\new train\San khau dien anh\SKDA_VNE_ (565).txt*0.019610
+train\new train\San khau dien anh\SKDA_VNE_ (562).txt*0.012720
+train\new train\San khau dien anh\SKDA_VNE_ (560).txt*0.013510
+train\new train\San khau dien anh\SKDA_VNE_ (559).txt*0.019940
+train\new train\San khau dien anh\SKDA_VNE_ (552).txt*0.014080
+train\new train\San khau dien anh\SKDA_VNE_ (549).txt*0.012400
+train\new train\San khau dien anh\SKDA_VNE_ (545).txt*0.031040
+train\new train\San khau dien anh\SKDA_VNE_ (539).txt*0.015320
+train\new train\San khau dien anh\SKDA_VNE_ (538).txt*0.030960
+train\new train\San khau dien anh\SKDA_VNE_ (536).txt*0.022510
+train\new train\San khau dien anh\SKDA_VNE_ (534).txt*0.012220
+train\new train\San khau dien anh\SKDA_VNE_ (531).txt*0.014490
+train\new train\San khau dien anh\SKDA_VNE_ (530).txt*0.037660
+train\new train\San khau dien anh\SKDA_VNE_ (526).txt*0.013820
+train\new train\San khau dien anh\SKDA_VNE_ (524).txt*0.010830
+train\new train\San khau dien anh\SKDA_VNE_ (523).txt*0.019020
+train\new train\San khau dien anh\SKDA_VNE_ (517).txt*0.015690
+train\new train\San khau dien anh\SKDA_VNE_ (514).txt*0.013200
+train\new train\San khau dien anh\SKDA_VNE_ (513).txt*0.034970
+train\new train\San khau dien anh\SKDA_VNE_ (511).txt*0.012120
+train\new train\San khau dien anh\SKDA_VNE_ (510).txt*0.012440
+train\new train\San khau dien anh\SKDA_VNE_ (509).txt*0.014080
+train\new train\San khau dien anh\SKDA_VNE_ (507).txt*0.012050
+train\new train\San khau dien anh\SKDA_VNE_ (506).txt*0.010100
+train\new train\San khau dien anh\SKDA_VNE_ (504).txt*0.013100
+train\new train\San khau dien anh\SKDA_VNE_ (502).txt*0.014570
+train\new train\San khau dien anh\SKDA_VNE_ (501).txt*0.028990
+train\new train\San khau dien anh\SKDA_VNE_ (5).txt*0.011360
+train\new train\San khau dien anh\SKDA_VNE_ (499).txt*0.019400
+train\new train\San khau dien anh\SKDA_VNE_ (497).txt*0.023760
+train\new train\San khau dien anh\SKDA_VNE_ (495).txt*0.010530
+train\new train\San khau dien anh\SKDA_VNE_ (494).txt*0.010310
+train\new train\San khau dien anh\SKDA_VNE_ (493).txt*0.019610
+train\new train\San khau dien anh\SKDA_VNE_ (489).txt*0.017860
+train\new train\San khau dien anh\SKDA_VNE_ (487).txt*0.010680
+train\new train\San khau dien anh\SKDA_VNE_ (481).txt*0.040230
+train\new train\San khau dien anh\SKDA_VNE_ (48).txt*0.013100
+train\new train\San khau dien anh\SKDA_VNE_ (479).txt*0.036230
+train\new train\San khau dien anh\SKDA_VNE_ (478).txt*0.022140
+train\new train\San khau dien anh\SKDA_VNE_ (477).txt*0.018180
+train\new train\San khau dien anh\SKDA_VNE_ (473).txt*0.011530
+train\new train\San khau dien anh\SKDA_VNE_ (470).txt*0.044440
+train\new train\San khau dien anh\SKDA_VNE_ (469).txt*0.023120
+train\new train\San khau dien anh\SKDA_VNE_ (467).txt*0.018690
+train\new train\San khau dien anh\SKDA_VNE_ (465).txt*0.017660
+train\new train\San khau dien anh\SKDA_VNE_ (464).txt*0.015230
+train\new train\San khau dien anh\SKDA_VNE_ (463).txt*0.012120
+train\new train\San khau dien anh\SKDA_VNE_ (462).txt*0.011290
+train\new train\San khau dien anh\SKDA_VNE_ (460).txt*0.013330
+train\new train\San khau dien anh\SKDA_VNE_ (46).txt*0.015090
+train\new train\San khau dien anh\SKDA_VNE_ (458).txt*0.014530
+train\new train\San khau dien anh\SKDA_VNE_ (457).txt*0.011490
+train\new train\San khau dien anh\SKDA_VNE_ (455).txt*0.020830
+train\new train\San khau dien anh\SKDA_VNE_ (451).txt*0.011490
+train\new train\San khau dien anh\SKDA_VNE_ (45).txt*0.016350
+train\new train\San khau dien anh\SKDA_VNE_ (447).txt*0.017430
+train\new train\San khau dien anh\SKDA_VNE_ (444).txt*0.017090
+train\new train\San khau dien anh\SKDA_VNE_ (443).txt*0.011190
+train\new train\San khau dien anh\SKDA_VNE_ (442).txt*0.015950
+train\new train\San khau dien anh\SKDA_VNE_ (440).txt*0.014930
+train\new train\San khau dien anh\SKDA_VNE_ (44).txt*0.022940
+train\new train\San khau dien anh\SKDA_VNE_ (438).txt*0.019020
+train\new train\San khau dien anh\SKDA_VNE_ (433).txt*0.017800
+train\new train\San khau dien anh\SKDA_VNE_ (431).txt*0.015130
+train\new train\San khau dien anh\SKDA_VNE_ (428).txt*0.013310
+train\new train\San khau dien anh\SKDA_VNE_ (424).txt*0.015350
+train\new train\San khau dien anh\SKDA_VNE_ (423).txt*0.015550
+train\new train\San khau dien anh\SKDA_VNE_ (422).txt*0.023080
+train\new train\San khau dien anh\SKDA_VNE_ (420).txt*0.016260
+train\new train\San khau dien anh\SKDA_VNE_ (419).txt*0.018180
+train\new train\San khau dien anh\SKDA_VNE_ (418).txt*0.017060
+train\new train\San khau dien anh\SKDA_VNE_ (417).txt*0.017050
+train\new train\San khau dien anh\SKDA_VNE_ (414).txt*0.011430
+train\new train\San khau dien anh\SKDA_VNE_ (413).txt*0.016530
+train\new train\San khau dien anh\SKDA_VNE_ (411).txt*0.018590
+train\new train\San khau dien anh\SKDA_VNE_ (410).txt*0.011970
+train\new train\San khau dien anh\SKDA_VNE_ (407).txt*0.012460
+train\new train\San khau dien anh\SKDA_VNE_ (406).txt*0.019610
+train\new train\San khau dien anh\SKDA_VNE_ (405).txt*0.018800
+train\new train\San khau dien anh\SKDA_VNE_ (402).txt*0.010870
+train\new train\San khau dien anh\SKDA_VNE_ (395).txt*0.015380
+train\new train\San khau dien anh\SKDA_VNE_ (387).txt*0.012940
+train\new train\San khau dien anh\SKDA_VNE_ (385).txt*0.012400
+train\new train\San khau dien anh\SKDA_VNE_ (378).txt*0.018480
+train\new train\San khau dien anh\SKDA_VNE_ (377).txt*0.018250
+train\new train\San khau dien anh\SKDA_VNE_ (376).txt*0.035810
+train\new train\San khau dien anh\SKDA_VNE_ (371).txt*0.013270
+train\new train\San khau dien anh\SKDA_VNE_ (370).txt*0.015000
+train\new train\San khau dien anh\SKDA_VNE_ (37).txt*0.012740
+train\new train\San khau dien anh\SKDA_VNE_ (366).txt*0.012120
+train\new train\San khau dien anh\SKDA_VNE_ (365).txt*0.011520
+train\new train\San khau dien anh\SKDA_VNE_ (364).txt*0.024460
+train\new train\San khau dien anh\SKDA_VNE_ (363).txt*0.011240
+train\new train\San khau dien anh\SKDA_VNE_ (360).txt*0.018690
+train\new train\San khau dien anh\SKDA_VNE_ (359).txt*0.018020
+train\new train\San khau dien anh\SKDA_VNE_ (358).txt*0.013190
+train\new train\San khau dien anh\SKDA_VNE_ (357).txt*0.010640
+train\new train\San khau dien anh\SKDA_VNE_ (350).txt*0.015380
+train\new train\San khau dien anh\SKDA_VNE_ (349).txt*0.010860
+train\new train\San khau dien anh\SKDA_VNE_ (347).txt*0.015120
+train\new train\San khau dien anh\SKDA_VNE_ (346).txt*0.014600
+train\new train\San khau dien anh\SKDA_VNE_ (344).txt*0.010250
+train\new train\San khau dien anh\SKDA_VNE_ (343).txt*0.027210
+train\new train\San khau dien anh\SKDA_VNE_ (342).txt*0.017910
+train\new train\San khau dien anh\SKDA_VNE_ (34).txt*0.019480
+train\new train\San khau dien anh\SKDA_VNE_ (339).txt*0.011240
+train\new train\San khau dien anh\SKDA_VNE_ (334).txt*0.012710
+train\new train\San khau dien anh\SKDA_VNE_ (333).txt*0.010540
+train\new train\San khau dien anh\SKDA_VNE_ (331).txt*0.020200
+train\new train\San khau dien anh\SKDA_VNE_ (327).txt*0.011410
+train\new train\San khau dien anh\SKDA_VNE_ (326).txt*0.010450
+train\new train\San khau dien anh\SKDA_VNE_ (324).txt*0.010950
+train\new train\San khau dien anh\SKDA_VNE_ (323).txt*0.020780
+train\new train\San khau dien anh\SKDA_VNE_ (322).txt*0.032070
+train\new train\San khau dien anh\SKDA_VNE_ (316).txt*0.011980
+train\new train\San khau dien anh\SKDA_VNE_ (315).txt*0.017940
+train\new train\San khau dien anh\SKDA_VNE_ (313).txt*0.013510
+train\new train\San khau dien anh\SKDA_VNE_ (311).txt*0.010420
+train\new train\San khau dien anh\SKDA_VNE_ (31).txt*0.019910
+train\new train\San khau dien anh\SKDA_VNE_ (308).txt*0.014080
+train\new train\San khau dien anh\SKDA_VNE_ (302).txt*0.026650
+train\new train\San khau dien anh\SKDA_VNE_ (301).txt*0.011930
+train\new train\San khau dien anh\SKDA_VNE_ (30).txt*0.014810
+train\new train\San khau dien anh\SKDA_VNE_ (3).txt*0.012920
+train\new train\San khau dien anh\SKDA_VNE_ (299).txt*0.024610
+train\new train\San khau dien anh\SKDA_VNE_ (298).txt*0.019350
+train\new train\San khau dien anh\SKDA_VNE_ (295).txt*0.010570
+train\new train\San khau dien anh\SKDA_VNE_ (293).txt*0.017930
+train\new train\San khau dien anh\SKDA_VNE_ (288).txt*0.012410
+train\new train\San khau dien anh\SKDA_VNE_ (286).txt*0.040550
+train\new train\San khau dien anh\SKDA_VNE_ (285).txt*0.015630
+train\new train\San khau dien anh\SKDA_VNE_ (281).txt*0.014890
+train\new train\San khau dien anh\SKDA_VNE_ (280).txt*0.013030
+train\new train\San khau dien anh\SKDA_VNE_ (279).txt*0.015580
+train\new train\San khau dien anh\SKDA_VNE_ (276).txt*0.016740
+train\new train\San khau dien anh\SKDA_VNE_ (274).txt*0.020490
+train\new train\San khau dien anh\SKDA_VNE_ (271).txt*0.019610
+train\new train\San khau dien anh\SKDA_VNE_ (27).txt*0.031090
+train\new train\San khau dien anh\SKDA_VNE_ (269).txt*0.010790
+train\new train\San khau dien anh\SKDA_VNE_ (267).txt*0.023780
+train\new train\San khau dien anh\SKDA_VNE_ (262).txt*0.019800
+train\new train\San khau dien anh\SKDA_VNE_ (260).txt*0.012010
+train\new train\San khau dien anh\SKDA_VNE_ (26).txt*0.013700
+train\new train\San khau dien anh\SKDA_VNE_ (258).txt*0.015280
+train\new train\San khau dien anh\SKDA_VNE_ (257).txt*0.012660
+train\new train\San khau dien anh\SKDA_VNE_ (256).txt*0.016600
+train\new train\San khau dien anh\SKDA_VNE_ (254).txt*0.023260
+train\new train\San khau dien anh\SKDA_VNE_ (250).txt*0.025140
+train\new train\San khau dien anh\SKDA_VNE_ (25).txt*0.011630
+train\new train\San khau dien anh\SKDA_VNE_ (249).txt*0.019960
+train\new train\San khau dien anh\SKDA_VNE_ (246).txt*0.013700
+train\new train\San khau dien anh\SKDA_VNE_ (245).txt*0.010830
+train\new train\San khau dien anh\SKDA_VNE_ (241).txt*0.018900
+train\new train\San khau dien anh\SKDA_VNE_ (240).txt*0.012100
+train\new train\San khau dien anh\SKDA_VNE_ (239).txt*0.010170
+train\new train\San khau dien anh\SKDA_VNE_ (236).txt*0.010150
+train\new train\San khau dien anh\SKDA_VNE_ (235).txt*0.017940
+train\new train\San khau dien anh\SKDA_VNE_ (234).txt*0.015540
+train\new train\San khau dien anh\SKDA_VNE_ (231).txt*0.015190
+train\new train\San khau dien anh\SKDA_VNE_ (230).txt*0.015080
+train\new train\San khau dien anh\SKDA_VNE_ (229).txt*0.017190
+train\new train\San khau dien anh\SKDA_VNE_ (223).txt*0.015150
+train\new train\San khau dien anh\SKDA_VNE_ (221).txt*0.016990
+train\new train\San khau dien anh\SKDA_VNE_ (218).txt*0.019110
+train\new train\San khau dien anh\SKDA_VNE_ (214).txt*0.011490
+train\new train\San khau dien anh\SKDA_VNE_ (212).txt*0.011270
+train\new train\San khau dien anh\SKDA_VNE_ (211).txt*0.026600
+train\new train\San khau dien anh\SKDA_VNE_ (210).txt*0.020980
+train\new train\San khau dien anh\SKDA_VNE_ (208).txt*0.014020
+train\new train\San khau dien anh\SKDA_VNE_ (207).txt*0.017020
+train\new train\San khau dien anh\SKDA_VNE_ (205).txt*0.014180
+train\new train\San khau dien anh\SKDA_VNE_ (204).txt*0.010870
+train\new train\San khau dien anh\SKDA_VNE_ (203).txt*0.025000
+train\new train\San khau dien anh\SKDA_VNE_ (201).txt*0.021580
+train\new train\San khau dien anh\SKDA_VNE_ (20).txt*0.039770
+train\new train\San khau dien anh\SKDA_VNE_ (195).txt*0.011680
+train\new train\San khau dien anh\SKDA_VNE_ (193).txt*0.010070
+train\new train\San khau dien anh\SKDA_VNE_ (192).txt*0.016190
+train\new train\San khau dien anh\SKDA_VNE_ (191).txt*0.014330
+train\new train\San khau dien anh\SKDA_VNE_ (190).txt*0.025710
+train\new train\San khau dien anh\SKDA_VNE_ (188).txt*0.014290
+train\new train\San khau dien anh\SKDA_VNE_ (186).txt*0.015270
+train\new train\San khau dien anh\SKDA_VNE_ (183).txt*0.026430
+train\new train\San khau dien anh\SKDA_VNE_ (182).txt*0.017390
+train\new train\San khau dien anh\SKDA_VNE_ (179).txt*0.021900
+train\new train\San khau dien anh\SKDA_VNE_ (174).txt*0.018180
+train\new train\San khau dien anh\SKDA_VNE_ (173).txt*0.026550
+train\new train\San khau dien anh\SKDA_VNE_ (171).txt*0.010000
+train\new train\San khau dien anh\SKDA_VNE_ (167).txt*0.038060
+train\new train\San khau dien anh\SKDA_VNE_ (166).txt*0.017700
+train\new train\San khau dien anh\SKDA_VNE_ (164).txt*0.010720
+train\new train\San khau dien anh\SKDA_VNE_ (163).txt*0.010930
+train\new train\San khau dien anh\SKDA_VNE_ (16).txt*0.029410
+train\new train\San khau dien anh\SKDA_VNE_ (156).txt*0.017650
+train\new train\San khau dien anh\SKDA_VNE_ (154).txt*0.014370
+train\new train\San khau dien anh\SKDA_VNE_ (150).txt*0.012820
+train\new train\San khau dien anh\SKDA_VNE_ (149).txt*0.029990
+train\new train\San khau dien anh\SKDA_VNE_ (144).txt*0.013160
+train\new train\San khau dien anh\SKDA_VNE_ (142).txt*0.020590
+train\new train\San khau dien anh\SKDA_VNE_ (141).txt*0.012700
+train\new train\San khau dien anh\SKDA_VNE_ (138).txt*0.015310
+train\new train\San khau dien anh\SKDA_VNE_ (137).txt*0.025320
+train\new train\San khau dien anh\SKDA_VNE_ (135).txt*0.011460
+train\new train\San khau dien anh\SKDA_VNE_ (133).txt*0.019970
+train\new train\San khau dien anh\SKDA_VNE_ (129).txt*0.020650
+train\new train\San khau dien anh\SKDA_VNE_ (128).txt*0.010830
+train\new train\San khau dien anh\SKDA_VNE_ (127).txt*0.017770
+train\new train\San khau dien anh\SKDA_VNE_ (123).txt*0.040000
+train\new train\San khau dien anh\SKDA_VNE_ (122).txt*0.014930
+train\new train\San khau dien anh\SKDA_VNE_ (121).txt*0.022020
+train\new train\San khau dien anh\SKDA_VNE_ (12).txt*0.013260
+train\new train\San khau dien anh\SKDA_VNE_ (119).txt*0.010280
+train\new train\San khau dien anh\SKDA_VNE_ (117).txt*0.012630
+train\new train\San khau dien anh\SKDA_VNE_ (114).txt*0.011070
+train\new train\San khau dien anh\SKDA_VNE_ (113).txt*0.012270
+train\new train\San khau dien anh\SKDA_VNE_ (111).txt*0.014850
+train\new train\San khau dien anh\SKDA_VNE_ (110).txt*0.010870
+train\new train\San khau dien anh\SKDA_VNE_ (11).txt*0.033110
+train\new train\San khau dien anh\SKDA_VNE_ (109).txt*0.028950
+train\new train\San khau dien anh\SKDA_VNE_ (106).txt*0.035560
+train\new train\San khau dien anh\SKDA_VNE_ (104).txt*0.013760
+train\new train\San khau dien anh\SKDA_VNE_ (101).txt*0.035460
+train\new train\San khau dien anh\SKDA_VNE_ (100).txt*0.013920
+train\new train\San khau dien anh\SKDA_VNE_ (1).txt*0.018070
+train\new train\San khau dien anh\SKDA_TT_ (999).txt*0.014490
+train\new train\San khau dien anh\SKDA_TT_ (989).txt*0.010890
+train\new train\San khau dien anh\SKDA_TT_ (987).txt*0.037970
+train\new train\San khau dien anh\SKDA_TT_ (986).txt*0.017940
+train\new train\San khau dien anh\SKDA_TT_ (984).txt*0.020410
+train\new train\San khau dien anh\SKDA_TT_ (980).txt*0.016490
+train\new train\San khau dien anh\SKDA_TT_ (968).txt*0.042110
+train\new train\San khau dien anh\SKDA_TT_ (965).txt*0.023260
+train\new train\San khau dien anh\SKDA_TT_ (963).txt*0.011240
+train\new train\San khau dien anh\SKDA_TT_ (962).txt*0.033060
+train\new train\San khau dien anh\SKDA_TT_ (960).txt*0.020000
+train\new train\San khau dien anh\SKDA_TT_ (958).txt*0.020880
+train\new train\San khau dien anh\SKDA_TT_ (954).txt*0.015220
+train\new train\San khau dien anh\SKDA_TT_ (953).txt*0.012310
+train\new train\San khau dien anh\SKDA_TT_ (952).txt*0.015380
+train\new train\San khau dien anh\SKDA_TT_ (951).txt*0.010990
+train\new train\San khau dien anh\SKDA_TT_ (949).txt*0.010150
+train\new train\San khau dien anh\SKDA_TT_ (945).txt*0.031910
+train\new train\San khau dien anh\SKDA_TT_ (944).txt*0.038390
+train\new train\San khau dien anh\SKDA_TT_ (943).txt*0.013420
+train\new train\San khau dien anh\SKDA_TT_ (942).txt*0.031010
+train\new train\San khau dien anh\SKDA_TT_ (935).txt*0.016570
+train\new train\San khau dien anh\SKDA_TT_ (934).txt*0.012350
+train\new train\San khau dien anh\SKDA_TT_ (931).txt*0.032260
+train\new train\San khau dien anh\SKDA_TT_ (924).txt*0.010870
+train\new train\San khau dien anh\SKDA_TT_ (1021).txt*0.016760
+train\new train\San khau dien anh\SKDA_TT_ (1020).txt*0.017390
+train\new train\San khau dien anh\SKDA_TT_ (1013).txt*0.017440
+train\new train\San khau dien anh\SKDA_TT_ (1012).txt*0.011760
+train\new train\San khau dien anh\SKDA_TT_ (1005).txt*0.019050
+train\new train\San khau dien anh\SKDA_TT_ (1002).txt*0.013160
+train\new train\San khau dien anh\SKDA_TT_ (1000).txt*0.012990
+train\new train\San khau dien anh\SKDA_TN_ (919).txt*0.011760
+train\new train\San khau dien anh\SKDA_NLD_ (1112).txt*0.014600
+train\new train\San khau dien anh\SKDA_NLD_ (1111).txt*0.020830
+train\new train\San khau dien anh\SKDA_NLD_ (1110).txt*0.010750
+train\new train\San khau dien anh\SKDA_NLD_ (1109).txt*0.020940
+train\new train\San khau dien anh\SKDA_NLD_ (1104).txt*0.012240
+train\new train\San khau dien anh\SKDA_NLD_ (1102).txt*0.015670
+train\new train\San khau dien anh\SKDA_NLD_ (1100).txt*0.011030
+train\new train\San khau dien anh\SKDA_NLD_ (1097).txt*0.020000
+train\new train\San khau dien anh\SKDA_NLD_ (1096).txt*0.010190
+train\new train\San khau dien anh\SKDA_NLD_ (1094).txt*0.011710
+train\new train\San khau dien anh\SKDA_NLD_ (1092).txt*0.014930
+train\new train\San khau dien anh\SKDA_NLD_ (1087).txt*0.011730
+train\new train\San khau dien anh\SKDA_NLD_ (1086).txt*0.013160
+train\new train\San khau dien anh\SKDA_NLD_ (1078).txt*0.029890
+train\new train\San khau dien anh\SKDA_NLD_ (1075).txt*0.013510
+train\new train\San khau dien anh\SKDA_NLD_ (1072).txt*0.010360
+train\new train\San khau dien anh\SKDA_NLD_ (1070).txt*0.011080
+train\new train\San khau dien anh\SKDA_NLD_ (1069).txt*0.010530
+train\new train\San khau dien anh\SKDA_NLD_ (1064).txt*0.013120
+train\new train\San khau dien anh\SKDA_NLD_ (1058).txt*0.016070
+train\new train\San khau dien anh\SKDA_NLD_ (1056).txt*0.019800
+train\new train\San khau dien anh\SKDA_NLD_ (1051).txt*0.010870
+train\new train\San khau dien anh\SKDA_NLD_ (1049).txt*0.012200
+train\new train\San khau dien anh\SKDA_NLD_ (1048).txt*0.017060
+train\new train\San khau dien anh\SKDA_NLD_ (1047).txt*0.011030
+train\new train\San khau dien anh\SKDA_NLD_ (1046).txt*0.010430
+train\new train\San khau dien anh\SKDA_NLD_ (1035).txt*0.027030
+train\new train\San khau dien anh\SKDA_NLD_ (1034).txt*0.015670
+train\new train\San khau dien anh\SKDA_NLD_ (1031).txt*0.012270
+train\new train\San khau dien anh\SKDA_NLD_ (1026).txt*0.012940
+train\new train\My thuat\MT_VNE_ (96).txt*0.033420
+train\new train\My thuat\MT_VNE_ (95).txt*0.066500
+train\new train\My thuat\MT_VNE_ (94).txt*0.077410
+train\new train\My thuat\MT_VNE_ (90).txt*0.010590
+train\new train\My thuat\MT_VNE_ (9).txt*0.019510
+train\new train\My thuat\MT_VNE_ (85).txt*0.011650
+train\new train\My thuat\MT_VNE_ (83).txt*0.016570
+train\new train\My thuat\MT_VNE_ (82).txt*0.039220
+train\new train\My thuat\MT_VNE_ (81).txt*0.011440
+train\new train\My thuat\MT_VNE_ (80).txt*0.011140
+train\new train\My thuat\MT_VNE_ (79).txt*0.028300
+train\new train\My thuat\MT_VNE_ (77).txt*0.021830
+train\new train\My thuat\MT_VNE_ (75).txt*0.023920
+train\new train\My thuat\MT_VNE_ (72).txt*0.011930
+train\new train\My thuat\MT_VNE_ (71).txt*0.034170
+train\new train\My thuat\MT_VNE_ (7).txt*0.021510
+train\new train\My thuat\MT_VNE_ (69).txt*0.016950
+train\new train\My thuat\MT_VNE_ (68).txt*0.017200
+train\new train\My thuat\MT_VNE_ (66).txt*0.063430
+train\new train\My thuat\MT_VNE_ (60).txt*0.044390
+train\new train\My thuat\MT_VNE_ (6).txt*0.080950
+train\new train\My thuat\MT_VNE_ (59).txt*0.030810
+train\new train\My thuat\MT_VNE_ (58).txt*0.031010
+train\new train\My thuat\MT_VNE_ (54).txt*0.027210
+train\new train\My thuat\MT_VNE_ (50).txt*0.039680
+train\new train\My thuat\MT_VNE_ (49).txt*0.040000
+train\new train\My thuat\MT_VNE_ (48).txt*0.012050
+train\new train\My thuat\MT_VNE_ (45).txt*0.016950
+train\new train\My thuat\MT_VNE_ (42).txt*0.041180
+train\new train\My thuat\MT_VNE_ (40).txt*0.018520
+train\new train\My thuat\MT_VNE_ (38).txt*0.025200
+train\new train\My thuat\MT_VNE_ (37).txt*0.014710
+train\new train\My thuat\MT_VNE_ (35).txt*0.041920
+train\new train\My thuat\MT_VNE_ (34).txt*0.011830
+train\new train\My thuat\MT_VNE_ (33).txt*0.046430
+train\new train\My thuat\MT_VNE_ (32).txt*0.011210
+train\new train\My thuat\MT_VNE_ (30).txt*0.044780
+train\new train\My thuat\MT_VNE_ (3).txt*0.068180
+train\new train\My thuat\MT_VNE_ (28).txt*0.029490
+train\new train\My thuat\MT_VNE_ (27).txt*0.013890
+train\new train\My thuat\MT_VNE_ (25).txt*0.013110
+train\new train\My thuat\MT_VNE_ (24).txt*0.020550
+train\new train\My thuat\MT_VNE_ (193).txt*0.045450
+train\new train\My thuat\MT_VNE_ (191).txt*0.016390
+train\new train\My thuat\MT_VNE_ (190).txt*0.020260
+train\new train\My thuat\MT_VNE_ (19).txt*0.020830
+train\new train\My thuat\MT_VNE_ (189).txt*0.011540
+train\new train\My thuat\MT_VNE_ (186).txt*0.023810
+train\new train\My thuat\MT_VNE_ (185).txt*0.013610
+train\new train\My thuat\MT_VNE_ (183).txt*0.019280
+train\new train\My thuat\MT_VNE_ (177).txt*0.013700
+train\new train\My thuat\MT_VNE_ (173).txt*0.015080
+train\new train\My thuat\MT_VNE_ (171).txt*0.043480
+train\new train\My thuat\MT_VNE_ (169).txt*0.037040
+train\new train\My thuat\MT_VNE_ (164).txt*0.025710
+train\new train\My thuat\MT_VNE_ (159).txt*0.012940
+train\new train\My thuat\MT_VNE_ (158).txt*0.011240
+train\new train\My thuat\MT_VNE_ (157).txt*0.055560
+train\new train\My thuat\MT_VNE_ (153).txt*0.011560
+train\new train\My thuat\MT_VNE_ (151).txt*0.035370
+train\new train\My thuat\MT_VNE_ (150).txt*0.040650
+train\new train\My thuat\MT_VNE_ (148).txt*0.021280
+train\new train\My thuat\MT_VNE_ (145).txt*0.010680
+train\new train\My thuat\MT_VNE_ (144).txt*0.020410
+train\new train\My thuat\MT_VNE_ (143).txt*0.033390
+train\new train\My thuat\MT_VNE_ (139).txt*0.035710
+train\new train\My thuat\MT_VNE_ (138).txt*0.026040
+train\new train\My thuat\MT_VNE_ (135).txt*0.038100
+train\new train\My thuat\MT_VNE_ (133).txt*0.052490
+train\new train\My thuat\MT_VNE_ (132).txt*0.036810
+train\new train\My thuat\MT_VNE_ (13).txt*0.010870
+train\new train\My thuat\MT_VNE_ (129).txt*0.022730
+train\new train\My thuat\MT_VNE_ (127).txt*0.015240
+train\new train\My thuat\MT_VNE_ (126).txt*0.030770
+train\new train\My thuat\MT_VNE_ (125).txt*0.021800
+train\new train\My thuat\MT_VNE_ (124).txt*0.016760
+train\new train\My thuat\MT_VNE_ (123).txt*0.025130
+train\new train\My thuat\MT_VNE_ (121).txt*0.066250
+train\new train\My thuat\MT_VNE_ (118).txt*0.089170
+train\new train\My thuat\MT_VNE_ (116).txt*0.026010
+train\new train\My thuat\MT_VNE_ (114).txt*0.077400
+train\new train\My thuat\MT_VNE_ (113).txt*0.017860
+train\new train\My thuat\MT_VNE_ (112).txt*0.017240
+train\new train\My thuat\MT_VNE_ (111).txt*0.030770
+train\new train\My thuat\MT_VNE_ (11).txt*0.014710
+train\new train\My thuat\MT_VNE_ (109).txt*0.034130
+train\new train\My thuat\MT_VNE_ (108).txt*0.049550
+train\new train\My thuat\MT_VNE_ (105).txt*0.043890
+train\new train\My thuat\MT_VNE_ (101).txt*0.011660
+train\new train\My thuat\MT_VNE_ (10).txt*0.011760
+train\new train\Mua sam\MS_VNE_ (99).txt*0.028570
+train\new train\Mua sam\MS_VNE_ (96).txt*0.028570
+train\new train\Mua sam\MS_VNE_ (74).txt*0.020410
+train\new train\Mua sam\MS_VNE_ (20).txt*0.013510
+train\new train\Mua sam\MS_VNE_ (158).txt*0.010200
+train\new train\Mua sam\MS_VNE_ (157).txt*0.013330
+train\new train\Mua sam\MS_VNE_ (136).txt*0.018350
+train\new train\Mua sam\MS_VNE_ (132).txt*0.019610
+train\new train\Mua sam\MS_VNE_ (105).txt*0.014610
+train\new train\Mua sam\MS_TN_ (174).txt*0.013510
+train\new train\Mua sam\MS_TN_ (167).txt*0.021130
+train\new train\Loi song\LS_VNE_ (91).txt*0.017570
+train\new train\Loi song\LS_VNE_ (86).txt*0.011450
+train\new train\Loi song\LS_VNE_ (63).txt*0.015110
+train\new train\Loi song\LS_VNE_ (6).txt*0.014680
+train\new train\Loi song\LS_VNE_ (49).txt*0.022560
+train\new train\Loi song\LS_VNE_ (42).txt*0.010750
+train\new train\Loi song\LS_VNE_ (39).txt*0.011010
+train\new train\Loi song\LS_VNE_ (32).txt*0.015470
+train\new train\Loi song\LS_VNE_ (3).txt*0.018670
+train\new train\Loi song\LS_VNE_ (2).txt*0.014810
+train\new train\Loi song\LS_VNE_ (16).txt*0.021950
+train\new train\Loi song\LS_TT_ (98).txt*0.018870
+train\new train\Loi song\LS_TT_ (165).txt*0.038830
+train\new train\Loi song\LS_TT_ (160).txt*0.020410
+train\new train\Loi song\LS_TT_ (158).txt*0.014840
+train\new train\Loi song\LS_TT_ (156).txt*0.028850
+train\new train\Loi song\LS_TT_ (152).txt*0.044160
+train\new train\Loi song\LS_TT_ (143).txt*0.056650
+train\new train\Loi song\LS_TT_ (141).txt*0.047120
+train\new train\Loi song\LS_TT_ (129).txt*0.019610
+train\new train\Loi song\LS_TT_ (123).txt*0.030370
+train\new train\Loi song\LS_TT_ (120).txt*0.010150
+train\new train\Loi song\LS_TT_ (115).txt*0.010000
+train\new train\Loi song\LS_TT_ (114).txt*0.013640
+train\new train\Loi song\LS_TT_ (113).txt*0.011490
+train\new train\Loi song\LS_TT_ (110).txt*0.026570
+train\new train\Loi song\LS_TT_ (108).txt*0.049790
+train\new train\Loi song\LS_TT_ (107).txt*0.010080
+train\new train\Loi song\LS_TT_ (106).txt*0.042550
+train\new train\Loi song\LS_TT_ (101).txt*0.011810
+train\new train\Loi song\LS_NLD_ (222).txt*0.012120
+train\new train\Loi song\LS_NLD_ (221).txt*0.018720
+train\new train\Loi song\LS_NLD_ (216).txt*0.026620
+train\new train\Loi song\LS_NLD_ (202).txt*0.036140
+train\new train\Loi song\LS_NLD_ (200).txt*0.010990
+train\new train\Loi song\LS_NLD_ (198).txt*0.017130
+train\new train\Loi song\LS_NLD_ (183).txt*0.010180
+train\new train\Loi song\LS_NLD_ (172).txt*0.013890
+train\new train\Loi song\LS_NLD_ (171).txt*0.010000
+train\new train\Lam dep\LD_VNE_ (82).txt*0.025710
+train\new train\Lam dep\LD_VNE_ (8).txt*0.015150
+train\new train\Lam dep\LD_VNE_ (79).txt*0.014850
+train\new train\Lam dep\LD_VNE_ (77).txt*0.018460
+train\new train\Lam dep\LD_VNE_ (75).txt*0.014680
+train\new train\Lam dep\LD_VNE_ (74).txt*0.017860
+train\new train\Lam dep\LD_VNE_ (60).txt*0.011490
+train\new train\Lam dep\LD_VNE_ (596).txt*0.015460
+train\new train\Lam dep\LD_VNE_ (594).txt*0.021510
+train\new train\Lam dep\LD_VNE_ (575).txt*0.012990
+train\new train\Lam dep\LD_VNE_ (57).txt*0.022470
+train\new train\Lam dep\LD_VNE_ (533).txt*0.023810
+train\new train\Lam dep\LD_VNE_ (519).txt*0.020510
+train\new train\Lam dep\LD_VNE_ (484).txt*0.029600
+train\new train\Lam dep\LD_VNE_ (464).txt*0.019800
+train\new train\Lam dep\LD_VNE_ (451).txt*0.022220
+train\new train\Lam dep\LD_VNE_ (448).txt*0.010370
+train\new train\Lam dep\LD_VNE_ (441).txt*0.040820
+train\new train\Lam dep\LD_VNE_ (426).txt*0.016260
+train\new train\Lam dep\LD_VNE_ (418).txt*0.011900
+train\new train\Lam dep\LD_VNE_ (374).txt*0.012820
+train\new train\Lam dep\LD_VNE_ (373).txt*0.027210
+train\new train\Lam dep\LD_VNE_ (35).txt*0.010530
+train\new train\Lam dep\LD_VNE_ (343).txt*0.016530
+train\new train\Lam dep\LD_VNE_ (326).txt*0.015630
+train\new train\Lam dep\LD_VNE_ (310).txt*0.023530
+train\new train\Lam dep\LD_VNE_ (31).txt*0.011240
+train\new train\Lam dep\LD_VNE_ (296).txt*0.025210
+train\new train\Lam dep\LD_VNE_ (294).txt*0.015960
+train\new train\Lam dep\LD_VNE_ (283).txt*0.014290
+train\new train\Lam dep\LD_VNE_ (268).txt*0.024740
+train\new train\Lam dep\LD_VNE_ (26).txt*0.012270
+train\new train\Lam dep\LD_VNE_ (258).txt*0.011360
+train\new train\Lam dep\LD_VNE_ (257).txt*0.011050
+train\new train\Lam dep\LD_VNE_ (253).txt*0.010470
+train\new train\Lam dep\LD_VNE_ (247).txt*0.018100
+train\new train\Lam dep\LD_VNE_ (246).txt*0.022060
+train\new train\Lam dep\LD_VNE_ (240).txt*0.013330
+train\new train\Lam dep\LD_VNE_ (227).txt*0.012740
+train\new train\Lam dep\LD_VNE_ (221).txt*0.013390
+train\new train\Lam dep\LD_VNE_ (219).txt*0.010990
+train\new train\Lam dep\LD_VNE_ (213).txt*0.013300
+train\new train\Lam dep\LD_VNE_ (20).txt*0.018020
+train\new train\Lam dep\LD_VNE_ (195).txt*0.013790
+train\new train\Lam dep\LD_VNE_ (186).txt*0.017790
+train\new train\Lam dep\LD_VNE_ (160).txt*0.010530
+train\new train\Lam dep\LD_VNE_ (115).txt*0.012760
+train\new train\Lam dep\LD_TN_ (756).txt*0.013750
+train\new train\Lam dep\LD_TN_ (752).txt*0.017240
+train\new train\Lam dep\LD_TN_ (742).txt*0.025210
+train\new train\Lam dep\LD_TN_ (741).txt*0.010310
+train\new train\Lam dep\LD_TN_ (733).txt*0.010360
+train\new train\Lam dep\LD_TN_ (725).txt*0.010200
+train\new train\Lam dep\LD_TN_ (721).txt*0.011190
+train\new train\Lam dep\LD_TN_ (703).txt*0.014930
+train\new train\Lam dep\LD_TN_ (694).txt*0.017780
+train\new train\Lam dep\LD_TN_ (685).txt*0.024840
+train\new train\Lam dep\LD_TN_ (682).txt*0.028570
+train\new train\Lam dep\LD_TN_ (675).txt*0.013700
+train\new train\Lam dep\LD_TN_ (662).txt*0.016130
+train\new train\Lam dep\LD_TN_ (655).txt*0.021580
+train\new train\Lam dep\LD_TN_ (646).txt*0.011700
+train\new train\Lam dep\LD_TN_ (627).txt*0.016040
+train\new train\Lam dep\LD_TN_ (614).txt*0.011140
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (90).txt*0.013420
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (8).txt*0.024390
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (67).txt*0.011490
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (563).txt*0.014710
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (529).txt*0.010150
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (506).txt*0.042970
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (505).txt*0.013910
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (486).txt*0.055560
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (475).txt*0.017750
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (428).txt*0.029700
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (403).txt*0.012120
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (385).txt*0.011360
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (359).txt*0.010420
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (316).txt*0.028990
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (311).txt*0.014600
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (275).txt*0.026880
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (272).txt*0.013510
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (271).txt*0.012900
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (27).txt*0.010100
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (268).txt*0.026140
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (194).txt*0.011900
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (160).txt*0.011110
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (156).txt*0.010100
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (132).txt*0.020760
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (11).txt*0.016000
+train\new train\Kinh doanh quoc te\KDQT_VNE_ (10).txt*0.011360
+train\new train\Khong gian song\KGS_VNE_ (80).txt*0.035090
+train\new train\Khong gian song\KGS_VNE_ (78).txt*0.020130
+train\new train\Khong gian song\KGS_VNE_ (74).txt*0.049770
+train\new train\Khong gian song\KGS_VNE_ (7).txt*0.011900
+train\new train\Khong gian song\KGS_VNE_ (67).txt*0.010050
+train\new train\Khong gian song\KGS_VNE_ (63).txt*0.013820
+train\new train\Khong gian song\KGS_VNE_ (49).txt*0.025810
+train\new train\Khong gian song\KGS_VNE_ (41).txt*0.010870
+train\new train\Khong gian song\KGS_VNE_ (38).txt*0.026040
+train\new train\Khong gian song\KGS_VNE_ (36).txt*0.015870
+train\new train\Khong gian song\KGS_VNE_ (29).txt*0.032970
+train\new train\Khong gian song\KGS_VNE_ (18).txt*0.031010
+train\new train\Khong gian song\KGS_VNE_ (113).txt*0.010100
+train\new train\Khong gian song\KGS_VNE_ (101).txt*0.014290
+train\new train\Khong gian song\KGS_NLD_ (134).txt*0.012930
+train\new train\Khong gian song\KGS_NLD_ (126).txt*0.013160
+train\new train\Khong gian song\KGS_NLD_ (125).txt*0.014410
+train\new train\Hinh su\HS_VNE_ (99).txt*0.010200
+train\new train\Hinh su\HS_VNE_ (93).txt*0.010700
+train\new train\Hinh su\HS_VNE_ (92).txt*0.022220
+train\new train\Hinh su\HS_VNE_ (57).txt*0.016670
+train\new train\Hinh su\HS_VNE_ (37).txt*0.010270
+train\new train\Hinh su\HS_VNE_ (2).txt*0.038100
+train\new train\Hinh su\HS_VNE_ (19).txt*0.046200
+train\new train\Hinh su\HS_VNE_ (144).txt*0.032610
+train\new train\Hinh su\HS_VNE_ (143).txt*0.010100
+train\new train\Hinh su\HS_VNE_ (14).txt*0.014150
+train\new train\Hinh su\HS_VNE_ (125).txt*0.015630
+train\new train\Hinh su\HS_VNE_ (124).txt*0.013820
+train\new train\Hinh su\HS_VNE_ (12).txt*0.011240
+train\new train\Hinh su\HS_VNE_ (115).txt*0.010000
+train\new train\Hinh su\HS_VNE_ (114).txt*0.024460
+train\new train\Hinh su\HS_VNE_ (104).txt*0.015870
+train\new train\Hinh su\HS_VNE_ (102).txt*0.044120
+train\new train\Hackers va Virus\HV_VNE_ (99).txt*0.011630
+train\new train\Hackers va Virus\HV_VNE_ (94).txt*0.032260
+train\new train\Hackers va Virus\HV_VNE_ (9).txt*0.012990
+train\new train\Hackers va Virus\HV_VNE_ (88).txt*0.011630
+train\new train\Hackers va Virus\HV_VNE_ (87).txt*0.018780
+train\new train\Hackers va Virus\HV_VNE_ (84).txt*0.017010
+train\new train\Hackers va Virus\HV_VNE_ (79).txt*0.024690
+train\new train\Hackers va Virus\HV_VNE_ (75).txt*0.017440
+train\new train\Hackers va Virus\HV_VNE_ (72).txt*0.011490
+train\new train\Hackers va Virus\HV_VNE_ (69).txt*0.019350
+train\new train\Hackers va Virus\HV_VNE_ (63).txt*0.011170
+train\new train\Hackers va Virus\HV_VNE_ (53).txt*0.035970
+train\new train\Hackers va Virus\HV_VNE_ (43).txt*0.011900
+train\new train\Hackers va Virus\HV_VNE_ (36).txt*0.028780
+train\new train\Hackers va Virus\HV_VNE_ (331).txt*0.010200
+train\new train\Hackers va Virus\HV_VNE_ (329).txt*0.014930
+train\new train\Hackers va Virus\HV_VNE_ (316).txt*0.010700
+train\new train\Hackers va Virus\HV_VNE_ (308).txt*0.010310
+train\new train\Hackers va Virus\HV_VNE_ (302).txt*0.011410
+train\new train\Hackers va Virus\HV_VNE_ (290).txt*0.012660
+train\new train\Hackers va Virus\HV_VNE_ (29).txt*0.012820
+train\new train\Hackers va Virus\HV_VNE_ (284).txt*0.028850
+train\new train\Hackers va Virus\HV_VNE_ (28).txt*0.018870
+train\new train\Hackers va Virus\HV_VNE_ (275).txt*0.017440
+train\new train\Hackers va Virus\HV_VNE_ (262).txt*0.011900
+train\new train\Hackers va Virus\HV_VNE_ (261).txt*0.013510
+train\new train\Hackers va Virus\HV_VNE_ (253).txt*0.011430
+train\new train\Hackers va Virus\HV_VNE_ (251).txt*0.018870
+train\new train\Hackers va Virus\HV_VNE_ (25).txt*0.020920
+train\new train\Hackers va Virus\HV_VNE_ (248).txt*0.013950
+train\new train\Hackers va Virus\HV_VNE_ (237).txt*0.018020
+train\new train\Hackers va Virus\HV_VNE_ (236).txt*0.020690
+train\new train\Hackers va Virus\HV_VNE_ (225).txt*0.015270
+train\new train\Hackers va Virus\HV_VNE_ (209).txt*0.029850
+train\new train\Hackers va Virus\HV_VNE_ (205).txt*0.020830
+train\new train\Hackers va Virus\HV_VNE_ (195).txt*0.017240
+train\new train\Hackers va Virus\HV_VNE_ (194).txt*0.023670
+train\new train\Hackers va Virus\HV_VNE_ (191).txt*0.011490
+train\new train\Hackers va Virus\HV_VNE_ (181).txt*0.010990
+train\new train\Hackers va Virus\HV_VNE_ (179).txt*0.012350
+train\new train\Hackers va Virus\HV_VNE_ (169).txt*0.034190
+train\new train\Hackers va Virus\HV_VNE_ (166).txt*0.021130
+train\new train\Hackers va Virus\HV_VNE_ (158).txt*0.017940
+train\new train\Hackers va Virus\HV_VNE_ (155).txt*0.019010
+train\new train\Hackers va Virus\HV_VNE_ (152).txt*0.018870
+train\new train\Hackers va Virus\HV_VNE_ (151).txt*0.011560
+train\new train\Hackers va Virus\HV_VNE_ (150).txt*0.017440
+train\new train\Hackers va Virus\HV_VNE_ (129).txt*0.016130
+train\new train\Hackers va Virus\HV_VNE_ (120).txt*0.014930
+train\new train\Hackers va Virus\HV_VNE_ (12).txt*0.011490
+train\new train\Hackers va Virus\HV_VNE_ (117).txt*0.011540
+train\new train\Hackers va Virus\HV_VNE_ (116).txt*0.013390
+train\new train\Hackers va Virus\HV_VNE_ (114).txt*0.018400
+train\new train\Hackers va Virus\HV_VNE_ (113).txt*0.014130
+train\new train\Hackers va Virus\HV_VNE_ (110).txt*0.022730
+train\new train\Hackers va Virus\HV_TT_ (353).txt*0.010420
+train\new train\Hackers va Virus\HV_TT_ (351).txt*0.025640
+train\new train\Hackers va Virus\HV_TT_ (349).txt*0.012500
+train\new train\Hackers va Virus\HV_TT_ (348).txt*0.011360
+train\new train\Hackers va Virus\HV_TT_ (346).txt*0.015870
+train\new train\Hackers va Virus\HV_TT_ (340).txt*0.030120
+train\new train\Gioi tinh\GT_VNE_ (99).txt*0.010200
+train\new train\Gioi tinh\GT_VNE_ (89).txt*0.020000
+train\new train\Gioi tinh\GT_VNE_ (86).txt*0.015870
+train\new train\Gioi tinh\GT_VNE_ (80).txt*0.012790
+train\new train\Gioi tinh\GT_VNE_ (78).txt*0.011810
+train\new train\Gioi tinh\GT_VNE_ (70).txt*0.011660
+train\new train\Gioi tinh\GT_VNE_ (7).txt*0.015870
+train\new train\Gioi tinh\GT_VNE_ (64).txt*0.020510
+train\new train\Gioi tinh\GT_VNE_ (51).txt*0.010000
+train\new train\Gioi tinh\GT_VNE_ (43).txt*0.019390
+train\new train\Gioi tinh\GT_VNE_ (34).txt*0.020580
+train\new train\Gioi tinh\GT_VNE_ (33).txt*0.010380
+train\new train\Gioi tinh\GT_VNE_ (30).txt*0.010000
+train\new train\Gioi tinh\GT_VNE_ (266).txt*0.015150
+train\new train\Gioi tinh\GT_VNE_ (263).txt*0.013160
+train\new train\Gioi tinh\GT_VNE_ (253).txt*0.028850
+train\new train\Gioi tinh\GT_VNE_ (23).txt*0.025090
+train\new train\Gioi tinh\GT_VNE_ (229).txt*0.018290
+train\new train\Gioi tinh\GT_VNE_ (220).txt*0.016760
+train\new train\Gioi tinh\GT_VNE_ (216).txt*0.010050
+train\new train\Gioi tinh\GT_VNE_ (192).txt*0.013090
+train\new train\Gioi tinh\GT_VNE_ (187).txt*0.011050
+train\new train\Gioi tinh\GT_VNE_ (182).txt*0.016390
+train\new train\Gioi tinh\GT_VNE_ (172).txt*0.016330
+train\new train\Gioi tinh\GT_VNE_ (170).txt*0.012580
+train\new train\Gioi tinh\GT_VNE_ (162).txt*0.011020
+train\new train\Gioi tinh\GT_VNE_ (158).txt*0.010000
+train\new train\Gioi tinh\GT_VNE_ (156).txt*0.021130
+train\new train\Gioi tinh\GT_VNE_ (154).txt*0.034480
+train\new train\Gioi tinh\GT_VNE_ (153).txt*0.012350
+train\new train\Gioi tinh\GT_VNE_ (148).txt*0.027520
+train\new train\Gioi tinh\GT_VNE_ (140).txt*0.021130
+train\new train\Gioi tinh\GT_VNE_ (125).txt*0.013160
+train\new train\Gioi tinh\GT_VNE_ (12).txt*0.017340
+train\new train\Gioi tinh\GT_VNE_ (117).txt*0.045270
+train\new train\Gioi tinh\GT_VNE_ (103).txt*0.017750
+train\new train\Gioi tinh\GT_NLD_ (342).txt*0.014020
+train\new train\Gioi tinh\GT_NLD_ (331).txt*0.012000
+train\new train\Gioi tinh\GT_NLD_ (307).txt*0.014180
+train\new train\Gioi tinh\GT_NLD_ (296).txt*0.017190
+train\new train\Gioi tinh\GT_NLD_ (293).txt*0.010340
+train\new train\Giao duc\GDu_VNE_ (99).txt*0.015750
+train\new train\Giao duc\GDu_VNE_ (98).txt*0.043960
+train\new train\Giao duc\GDu_VNE_ (97).txt*0.011050
+train\new train\Giao duc\GDu_VNE_ (93).txt*0.014180
+train\new train\Giao duc\GDu_VNE_ (91).txt*0.027400
+train\new train\Giao duc\GDu_VNE_ (90).txt*0.049650
+train\new train\Giao duc\GDu_VNE_ (81).txt*0.014810
+train\new train\Giao duc\GDu_VNE_ (8).txt*0.027780
+train\new train\Giao duc\GDu_VNE_ (79).txt*0.050720
+train\new train\Giao duc\GDu_VNE_ (78).txt*0.024510
+train\new train\Giao duc\GDu_VNE_ (70).txt*0.051470
+train\new train\Giao duc\GDu_VNE_ (68).txt*0.045050
+train\new train\Giao duc\GDu_VNE_ (67).txt*0.024240
+train\new train\Giao duc\GDu_VNE_ (60).txt*0.029330
+train\new train\Giao duc\GDu_VNE_ (51).txt*0.036810
+train\new train\Giao duc\GDu_VNE_ (44).txt*0.011110
+train\new train\Giao duc\GDu_VNE_ (438).txt*0.016850
+train\new train\Giao duc\GDu_VNE_ (426).txt*0.018020
+train\new train\Giao duc\GDu_VNE_ (423).txt*0.086610
+train\new train\Giao duc\GDu_VNE_ (421).txt*0.020690
+train\new train\Giao duc\GDu_VNE_ (418).txt*0.010260
+train\new train\Giao duc\GDu_VNE_ (411).txt*0.020100
+train\new train\Giao duc\GDu_VNE_ (410).txt*0.011760
+train\new train\Giao duc\GDu_VNE_ (406).txt*0.052360
+train\new train\Giao duc\GDu_VNE_ (400).txt*0.012270
+train\new train\Giao duc\GDu_VNE_ (40).txt*0.055560
+train\new train\Giao duc\GDu_VNE_ (399).txt*0.056340
+train\new train\Giao duc\GDu_VNE_ (398).txt*0.019420
+train\new train\Giao duc\GDu_VNE_ (396).txt*0.011050
+train\new train\Giao duc\GDu_VNE_ (389).txt*0.012300
+train\new train\Giao duc\GDu_VNE_ (381).txt*0.013330
+train\new train\Giao duc\GDu_VNE_ (380).txt*0.034970
+train\new train\Giao duc\GDu_VNE_ (38).txt*0.018180
+train\new train\Giao duc\GDu_VNE_ (378).txt*0.025130
+train\new train\Giao duc\GDu_VNE_ (377).txt*0.012890
+train\new train\Giao duc\GDu_VNE_ (371).txt*0.031060
+train\new train\Giao duc\GDu_VNE_ (36).txt*0.059600
+train\new train\Giao duc\GDu_VNE_ (35).txt*0.049180
+train\new train\Giao duc\GDu_VNE_ (348).txt*0.029590
+train\new train\Giao duc\GDu_VNE_ (34).txt*0.017480
+train\new train\Giao duc\GDu_VNE_ (336).txt*0.025640
+train\new train\Giao duc\GDu_VNE_ (33).txt*0.036590
+train\new train\Giao duc\GDu_VNE_ (316).txt*0.012370
+train\new train\Giao duc\GDu_VNE_ (312).txt*0.015040
+train\new train\Giao duc\GDu_VNE_ (309).txt*0.010550
+train\new train\Giao duc\GDu_VNE_ (304).txt*0.012420
+train\new train\Giao duc\GDu_VNE_ (303).txt*0.019610
+train\new train\Giao duc\GDu_VNE_ (301).txt*0.015500
+train\new train\Giao duc\GDu_VNE_ (298).txt*0.010200
+train\new train\Giao duc\GDu_VNE_ (277).txt*0.013700
+train\new train\Giao duc\GDu_VNE_ (276).txt*0.019610
+train\new train\Giao duc\GDu_VNE_ (26).txt*0.011360
+train\new train\Giao duc\GDu_VNE_ (251).txt*0.013420
+train\new train\Giao duc\GDu_VNE_ (25).txt*0.018400
+train\new train\Giao duc\GDu_VNE_ (246).txt*0.093460
+train\new train\Giao duc\GDu_VNE_ (232).txt*0.044120
+train\new train\Giao duc\GDu_VNE_ (218).txt*0.015380
+train\new train\Giao duc\GDu_VNE_ (198).txt*0.029270
+train\new train\Giao duc\GDu_VNE_ (182).txt*0.015750
+train\new train\Giao duc\GDu_VNE_ (181).txt*0.013330
+train\new train\Giao duc\GDu_VNE_ (174).txt*0.020980
+train\new train\Giao duc\GDu_VNE_ (171).txt*0.012050
+train\new train\Giao duc\GDu_VNE_ (156).txt*0.030300
+train\new train\Giao duc\GDu_VNE_ (153).txt*0.022120
+train\new train\Giao duc\GDu_VNE_ (150).txt*0.013970
+train\new train\Giao duc\GDu_VNE_ (146).txt*0.024270
+train\new train\Giao duc\GDu_VNE_ (14).txt*0.058250
+train\new train\Giao duc\GDu_VNE_ (139).txt*0.071430
+train\new train\Giao duc\GDu_VNE_ (137).txt*0.020160
+train\new train\Giao duc\GDu_VNE_ (128).txt*0.015080
+train\new train\Giao duc\GDu_VNE_ (123).txt*0.039370
+train\new train\Giao duc\GDu_VNE_ (118).txt*0.018130
+train\new train\Giao duc\GDu_VNE_ (106).txt*0.036360
+train\new train\Giao duc\GDu_VNE_ (105).txt*0.060180
+train\new train\Giao duc\GDu_TT_ (578).txt*0.025160
+train\new train\Giao duc\GDu_TT_ (576).txt*0.026320
+train\new train\Giao duc\GDu_TT_ (574).txt*0.040940
+train\new train\Giao duc\GDu_TT_ (567).txt*0.014930
+train\new train\Giao duc\GDu_TT_ (551).txt*0.023530
+train\new train\Giao duc\GDu_TT_ (534).txt*0.012180
+train\new train\Giao duc\GDu_TN_ (520).txt*0.013420
+train\new train\Giao duc\GDu_TN_ (510).txt*0.010640
+train\new train\Giao duc\GDu_TN_ (503).txt*0.015420
+train\new train\Giao duc\GDu_TN_ (494).txt*0.010950
+train\new train\Giao duc\GDu_TN_ (490).txt*0.010360
+train\new train\Giao duc\GDu_TN_ (487).txt*0.017460
+train\new train\Giao duc\GDu_TN_ (486).txt*0.030020
+train\new train\Giao duc\GDu_TN_ (470).txt*0.063090
+train\new train\Giao duc\GDu_TN_ (468).txt*0.042170
+train\new train\Giao duc\GDu_TN_ (442).txt*0.019230
+train\new train\Giao duc\GDu_NLD_ (800).txt*0.013070
+train\new train\Giao duc\GDu_NLD_ (799).txt*0.017110
+train\new train\Giao duc\GDu_NLD_ (777).txt*0.026160
+train\new train\Giao duc\GDu_NLD_ (765).txt*0.018870
+train\new train\Giao duc\GDu_NLD_ (743).txt*0.012350
+train\new train\Giao duc\GDu_NLD_ (739).txt*0.016390
+train\new train\Giao duc\GDu_NLD_ (738).txt*0.050510
+train\new train\Giao duc\GDu_NLD_ (732).txt*0.010530
+train\new train\Giao duc\GDu_NLD_ (723).txt*0.017540
+train\new train\Giao duc\GDu_NLD_ (712).txt*0.036700
+train\new train\Giao duc\GDu_NLD_ (703).txt*0.025910
+train\new train\Giao duc\GDu_NLD_ (693).txt*0.048280
+train\new train\Giao duc\GDu_NLD_ (681).txt*0.016670
+train\new train\Giao duc\GDu_NLD_ (679).txt*0.015080
+train\new train\Giao duc\GDu_NLD_ (662).txt*0.023470
+train\new train\Giao duc\GDu_NLD_ (655).txt*0.024190
+train\new train\Giao duc\GDu_NLD_ (620).txt*0.020830
+train\new train\Giao duc\GDu_NLD_ (618).txt*0.010100
+train\new train\Giao duc\GDu_NLD_ (614).txt*0.018520
+train\new train\Giao duc\GDu_NLD_ (611).txt*0.040250
+train\new train\Giao duc\GDu_NLD_ (608).txt*0.036700
+train\new train\Giai tri tin hoc\GTTH_VNE_ (9).txt*0.012120
+train\new train\Giai tri tin hoc\GTTH_VNE_ (60).txt*0.016220
+train\new train\Giai tri tin hoc\GTTH_VNE_ (42).txt*0.014130
+train\new train\Giai tri tin hoc\GTTH_VNE_ (35).txt*0.014790
+train\new train\Giai tri tin hoc\GTTH_VNE_ (32).txt*0.024540
+train\new train\Giai tri tin hoc\GTTH_VNE_ (31).txt*0.010700
+train\new train\Giai tri tin hoc\GTTH_VNE_ (22).txt*0.010530
+train\new train\Giai tri tin hoc\GTTH_VNE_ (13).txt*0.040980
+train\new train\Giai tri tin hoc\GTTH_VNE_ (10).txt*0.010990
+train\new train\Giai tri tin hoc\GTTH_TT_ (824).txt*0.011240
+train\new train\Giai tri tin hoc\GTTH_TT_ (818).txt*0.019870
+train\new train\Giai tri tin hoc\GTTH_TT_ (816).txt*0.075880
+train\new train\Giai tri tin hoc\GTTH_TT_ (815).txt*0.010420
+train\new train\Giai tri tin hoc\GTTH_TT_ (805).txt*0.011490
+train\new train\Giai tri tin hoc\GTTH_TT_ (803).txt*0.016130
+train\new train\Giai tri tin hoc\GTTH_TT_ (799).txt*0.054550
+train\new train\Giai tri tin hoc\GTTH_TT_ (790).txt*0.010750
+train\new train\Giai tri tin hoc\GTTH_TT_ (775).txt*0.010870
+train\new train\Giai tri tin hoc\GTTH_TT_ (773).txt*0.015750
+train\new train\Giai tri tin hoc\GTTH_TT_ (764).txt*0.020410
+train\new train\Giai tri tin hoc\GTTH_TT_ (762).txt*0.011240
+train\new train\Giai tri tin hoc\GTTH_TT_ (758).txt*0.021140
+train\new train\Giai tri tin hoc\GTTH_TT_ (755).txt*0.014710
+train\new train\Giai tri tin hoc\GTTH_TT_ (750).txt*0.031580
+train\new train\Giai tri tin hoc\GTTH_TT_ (737).txt*0.036590
+train\new train\Giai tri tin hoc\GTTH_TT_ (731).txt*0.016560
+train\new train\Giai tri tin hoc\GTTH_TT_ (718).txt*0.013110
+train\new train\Giai tri tin hoc\GTTH_TT_ (709).txt*0.011900
+train\new train\Giai tri tin hoc\GTTH_TT_ (699).txt*0.015270
+train\new train\Giai tri tin hoc\GTTH_TT_ (689).txt*0.015630
+train\new train\Giai tri tin hoc\GTTH_TT_ (683).txt*0.019800
+train\new train\Giai tri tin hoc\GTTH_TT_ (670).txt*0.015040
+train\new train\Giai tri tin hoc\GTTH_TT_ (655).txt*0.036230
+train\new train\Giai tri tin hoc\GTTH_TT_ (647).txt*0.033980
+train\new train\Giai tri tin hoc\GTTH_TT_ (646).txt*0.022300
+train\new train\Giai tri tin hoc\GTTH_TT_ (635).txt*0.012820
+train\new train\Giai tri tin hoc\GTTH_TT_ (625).txt*0.014490
+train\new train\Giai tri tin hoc\GTTH_TT_ (613).txt*0.029200
+train\new train\Giai tri tin hoc\GTTH_TT_ (604).txt*0.015040
+train\new train\Giai tri tin hoc\GTTH_TT_ (591).txt*0.019610
+train\new train\Giai tri tin hoc\GTTH_TT_ (553).txt*0.033430
+train\new train\Giai tri tin hoc\GTTH_TT_ (552).txt*0.012660
+train\new train\Giai tri tin hoc\GTTH_TT_ (542).txt*0.042150
+train\new train\Giai tri tin hoc\GTTH_TT_ (541).txt*0.050000
+train\new train\Giai tri tin hoc\GTTH_TT_ (534).txt*0.026320
+train\new train\Giai tri tin hoc\GTTH_TT_ (514).txt*0.016300
+train\new train\Giai tri tin hoc\GTTH_TT_ (513).txt*0.038100
+train\new train\Giai tri tin hoc\GTTH_TT_ (505).txt*0.011630
+train\new train\Giai tri tin hoc\GTTH_TT_ (498).txt*0.011410
+train\new train\Giai tri tin hoc\GTTH_TT_ (473).txt*0.013890
+train\new train\Giai tri tin hoc\GTTH_TT_ (466).txt*0.015750
+train\new train\Giai tri tin hoc\GTTH_TT_ (446).txt*0.019050
+train\new train\Giai tri tin hoc\GTTH_TT_ (442).txt*0.012350
+train\new train\Giai tri tin hoc\GTTH_TT_ (427).txt*0.031180
+train\new train\Giai tri tin hoc\GTTH_TT_ (423).txt*0.013890
+train\new train\Giai tri tin hoc\GTTH_TT_ (420).txt*0.067800
+train\new train\Giai tri tin hoc\GTTH_TT_ (417).txt*0.016880
+train\new train\Giai tri tin hoc\GTTH_TT_ (413).txt*0.012990
+train\new train\Giai tri tin hoc\GTTH_TT_ (411).txt*0.018350
+train\new train\Giai tri tin hoc\GTTH_TT_ (390).txt*0.019040
+train\new train\Giai tri tin hoc\GTTH_TT_ (389).txt*0.038390
+train\new train\Giai tri tin hoc\GTTH_TT_ (385).txt*0.029080
+train\new train\Giai tri tin hoc\GTTH_TT_ (384).txt*0.010540
+train\new train\Giai tri tin hoc\GTTH_TT_ (367).txt*0.022120
+train\new train\Giai tri tin hoc\GTTH_TT_ (358).txt*0.014510
+train\new train\Giai tri tin hoc\GTTH_TT_ (354).txt*0.011240
+train\new train\Giai tri tin hoc\GTTH_TT_ (351).txt*0.022220
+train\new train\Giai tri tin hoc\GTTH_TT_ (347).txt*0.012290
+train\new train\Giai tri tin hoc\GTTH_TT_ (334).txt*0.047390
+train\new train\Giai tri tin hoc\GTTH_TT_ (325).txt*0.012740
+train\new train\Giai tri tin hoc\GTTH_TT_ (323).txt*0.020890
+train\new train\Giai tri tin hoc\GTTH_TT_ (317).txt*0.010810
+train\new train\Giai tri tin hoc\GTTH_TT_ (312).txt*0.025380
+train\new train\Giai tri tin hoc\GTTH_TT_ (299).txt*0.019230
+train\new train\Giai tri tin hoc\GTTH_TT_ (288).txt*0.015440
+train\new train\Giai tri tin hoc\GTTH_TT_ (278).txt*0.015270
+train\new train\Giai tri tin hoc\GTTH_TT_ (252).txt*0.012120
+train\new train\Giai tri tin hoc\GTTH_TT_ (251).txt*0.048190
+train\new train\Giai tri tin hoc\GTTH_TT_ (248).txt*0.012660
+train\new train\Giai tri tin hoc\GTTH_TT_ (236).txt*0.033330
+train\new train\Giai tri tin hoc\GTTH_TT_ (232).txt*0.020620
+train\new train\Giai tri tin hoc\GTTH_TT_ (227).txt*0.025810
+train\new train\Giai tri tin hoc\GTTH_TT_ (221).txt*0.011490
+train\new train\Giai tri tin hoc\GTTH_TT_ (210).txt*0.010930
+train\new train\Giai tri tin hoc\GTTH_TT_ (204).txt*0.014390
+train\new train\Giai tri tin hoc\GTTH_TT_ (203).txt*0.032260
+train\new train\Giai tri tin hoc\GTTH_TT_ (185).txt*0.017240
+train\new train\Giai tri tin hoc\GTTH_TT_ (177).txt*0.022220
+train\new train\Giai tri tin hoc\GTTH_TT_ (167).txt*0.028750
+train\new train\Giai tri tin hoc\GTTH_TT_ (157).txt*0.019050
+train\new train\Giai tri tin hoc\GTTH_TT_ (151).txt*0.010000
+train\new train\Giai tri tin hoc\GTTH_TT_ (130).txt*0.031250
+train\new train\Giai tri tin hoc\GTTH_TT_ (125).txt*0.021980
+train\new train\Gia dinh\GD_VNE_ (88).txt*0.013030
+train\new train\Gia dinh\GD_VNE_ (8).txt*0.018750
+train\new train\Gia dinh\GD_VNE_ (78).txt*0.017240
+train\new train\Gia dinh\GD_VNE_ (7).txt*0.011570
+train\new train\Gia dinh\GD_VNE_ (67).txt*0.017790
+train\new train\Gia dinh\GD_VNE_ (59).txt*0.015210
+train\new train\Gia dinh\GD_VNE_ (57).txt*0.015320
+train\new train\Gia dinh\GD_VNE_ (51).txt*0.022220
+train\new train\Gia dinh\GD_VNE_ (44).txt*0.010680
+train\new train\Gia dinh\GD_VNE_ (31).txt*0.011320
+train\new train\Gia dinh\GD_VNE_ (3).txt*0.017540
+train\new train\Gia dinh\GD_VNE_ (29).txt*0.024510
+train\new train\Gia dinh\GD_VNE_ (19).txt*0.015870
+train\new train\Gia dinh\GD_VNE_ (148).txt*0.018420
+train\new train\Gia dinh\GD_VNE_ (146).txt*0.022440
+train\new train\Gia dinh\GD_VNE_ (145).txt*0.010920
+train\new train\Gia dinh\GD_VNE_ (14).txt*0.012010
+train\new train\Gia dinh\GD_VNE_ (135).txt*0.022040
+train\new train\Gia dinh\GD_VNE_ (131).txt*0.010790
+train\new train\Gia dinh\GD_VNE_ (119).txt*0.013970
+train\new train\Gia dinh\GD_VNE_ (116).txt*0.015810
+train\new train\Gia dinh\GD_VNE_ (114).txt*0.014120
+train\new train\Gia dinh\GD_VNE_ (113).txt*0.011510
+train\new train\Gia dinh\GD_VNE_ (110).txt*0.015310
+train\new train\Gia dinh\GD_VNE_ (11).txt*0.017420
+train\new train\Gia dinh\GD_VNE_ (107).txt*0.011720
+train\new train\Gia dinh\GD_VNE_ (105).txt*0.010460
+train\new train\Gia dinh\GD_VNE_ (103).txt*0.018290
+train\new train\Gia dinh\GD_VNE_ (101).txt*0.032630
+train\new train\Gia dinh\GD_TN_ (187).txt*0.034150
+train\new train\Gia dinh\GD_TN_ (173).txt*0.014080
+train\new train\Gia dinh\GD_TN_ (165).txt*0.024880
+train\new train\Gia dinh\GD_TN_ (155).txt*0.026670
+train\new train\Gia dinh\GD_TN_ (154).txt*0.013300
+train\new train\Gia dinh\GD_NLD_ (191).txt*0.017130
+train\new train\Duong vao WTO\DVW_VNE_ (87).txt*0.013890
+train\new train\Duong vao WTO\DVW_VNE_ (53).txt*0.020410
+train\new train\Duong vao WTO\DVW_VNE_ (105).txt*0.013510
+train\new train\Du lich\DL_VNE_ (90).txt*0.014180
+train\new train\Du lich\DL_VNE_ (89).txt*0.012250
+train\new train\Du lich\DL_VNE_ (83).txt*0.010450
+train\new train\Du lich\DL_VNE_ (81).txt*0.011240
+train\new train\Du lich\DL_VNE_ (78).txt*0.012530
+train\new train\Du lich\DL_VNE_ (69).txt*0.011090
+train\new train\Du lich\DL_VNE_ (26).txt*0.024150
+train\new train\Du lich\DL_VNE_ (234).txt*0.056990
+train\new train\Du lich\DL_VNE_ (219).txt*0.029200
+train\new train\Du lich\DL_VNE_ (218).txt*0.010990
+train\new train\Du lich\DL_VNE_ (18).txt*0.010030
+train\new train\Du lich\DL_VNE_ (161).txt*0.011090
+train\new train\Du lich\DL_VNE_ (152).txt*0.024140
+train\new train\Du lich\DL_VNE_ (147).txt*0.011140
+train\new train\Du lich\DL_TT_T_ (558).txt*0.015150
+train\new train\Du lich\DL_TT_T_ (548).txt*0.014710
+train\new train\Du lich\DL_TT_T_ (537).txt*0.017860
+train\new train\Du lich\DL_TT_T_ (534).txt*0.010670
+train\new train\Du lich\DL_TT_T_ (503).txt*0.011240
+train\new train\Du lich\DL_TT_T_ (483).txt*0.015150
+train\new train\Du lich\DL_TT_T_ (474).txt*0.014040
+train\new train\Du lich\DL_TT_T_ (471).txt*0.018070
+train\new train\Du lich\DL_TT_T_ (460).txt*0.020690
+train\new train\Du lich\DL_TT_T_ (442).txt*0.010800
+train\new train\Du lich\DL_TT_T_ (439).txt*0.010970
+train\new train\Du lich\DL_TT_T_ (430).txt*0.027780
+train\new train\Du lich\DL_TT_T_ (414).txt*0.025160
+train\new train\Du lich\DL_TT_T_ (383).txt*0.025640
+train\new train\Du lich\DL_TT_T_ (375).txt*0.020830
+train\new train\Du lich\DL_TT_T_ (370).txt*0.034290
+train\new train\Du lich\DL_TT_T_ (369).txt*0.046510
+train\new train\Du lich\DL_TT_T_ (365).txt*0.025510
+train\new train\Du lich\DL_TT_T_ (363).txt*0.015150
+train\new train\Du lich\DL_TT_T_ (362).txt*0.012990
+train\new train\Du lich\DL_TT_T_ (348).txt*0.014490
+train\new train\Du lich\DL_TN_ (329).txt*0.048390
+train\new train\Du lich\DL_TN_ (316).txt*0.010420
+train\new train\Du lich\DL_TN_ (307).txt*0.014080
+train\new train\Du lich\DL_TN_ (271).txt*0.013040
+train\new train\Du lich\DL_NLD_ (578).txt*0.010260
+train\new train\Du hoc\DH_VNE_ (96).txt*0.025210
+train\new train\Du hoc\DH_VNE_ (93).txt*0.014780
+train\new train\Du hoc\DH_VNE_ (91).txt*0.029330
+train\new train\Du hoc\DH_VNE_ (87).txt*0.019110
+train\new train\Du hoc\DH_VNE_ (85).txt*0.029940
+train\new train\Du hoc\DH_VNE_ (84).txt*0.046670
+train\new train\Du hoc\DH_VNE_ (83).txt*0.013550
+train\new train\Du hoc\DH_VNE_ (81).txt*0.028410
+train\new train\Du hoc\DH_VNE_ (76).txt*0.022990
+train\new train\Du hoc\DH_VNE_ (73).txt*0.010580
+train\new train\Du hoc\DH_VNE_ (71).txt*0.016850
+train\new train\Du hoc\DH_VNE_ (70).txt*0.024390
+train\new train\Du hoc\DH_VNE_ (7).txt*0.040980
+train\new train\Du hoc\DH_VNE_ (69).txt*0.028170
+train\new train\Du hoc\DH_VNE_ (67).txt*0.011300
+train\new train\Du hoc\DH_VNE_ (65).txt*0.020660
+train\new train\Du hoc\DH_VNE_ (64).txt*0.035210
+train\new train\Du hoc\DH_VNE_ (60).txt*0.011430
+train\new train\Du hoc\DH_VNE_ (598).txt*0.026790
+train\new train\Du hoc\DH_VNE_ (597).txt*0.029290
+train\new train\Du hoc\DH_VNE_ (596).txt*0.013070
+train\new train\Du hoc\DH_VNE_ (595).txt*0.021860
+train\new train\Du hoc\DH_VNE_ (593).txt*0.027780
+train\new train\Du hoc\DH_VNE_ (59).txt*0.022990
+train\new train\Du hoc\DH_VNE_ (588).txt*0.017610
+train\new train\Du hoc\DH_VNE_ (587).txt*0.019540
+train\new train\Du hoc\DH_VNE_ (586).txt*0.016890
+train\new train\Du hoc\DH_VNE_ (58).txt*0.016480
+train\new train\Du hoc\DH_VNE_ (578).txt*0.029960
+train\new train\Du hoc\DH_VNE_ (577).txt*0.035460
+train\new train\Du hoc\DH_VNE_ (576).txt*0.028710
+train\new train\Du hoc\DH_VNE_ (575).txt*0.015630
+train\new train\Du hoc\DH_VNE_ (572).txt*0.032890
+train\new train\Du hoc\DH_VNE_ (570).txt*0.012580
+train\new train\Du hoc\DH_VNE_ (57).txt*0.014020
+train\new train\Du hoc\DH_VNE_ (569).txt*0.011980
+train\new train\Du hoc\DH_VNE_ (561).txt*0.012580
+train\new train\Du hoc\DH_VNE_ (559).txt*0.018120
+train\new train\Du hoc\DH_VNE_ (558).txt*0.011530
+train\new train\Du hoc\DH_VNE_ (555).txt*0.012960
+train\new train\Du hoc\DH_VNE_ (551).txt*0.013040
+train\new train\Du hoc\DH_VNE_ (547).txt*0.017540
+train\new train\Du hoc\DH_VNE_ (543).txt*0.020620
+train\new train\Du hoc\DH_VNE_ (542).txt*0.020650
+train\new train\Du hoc\DH_VNE_ (541).txt*0.010140
+train\new train\Du hoc\DH_VNE_ (537).txt*0.022600
+train\new train\Du hoc\DH_VNE_ (536).txt*0.030300
+train\new train\Du hoc\DH_VNE_ (535).txt*0.023470
+train\new train\Du hoc\DH_VNE_ (534).txt*0.012200
+train\new train\Du hoc\DH_VNE_ (532).txt*0.016190
+train\new train\Du hoc\DH_VNE_ (531).txt*0.012450
+train\new train\Du hoc\DH_VNE_ (528).txt*0.014080
+train\new train\Du hoc\DH_VNE_ (527).txt*0.017090
+train\new train\Du hoc\DH_VNE_ (519).txt*0.017750
+train\new train\Du hoc\DH_VNE_ (518).txt*0.020290
+train\new train\Du hoc\DH_VNE_ (517).txt*0.017200
+train\new train\Du hoc\DH_VNE_ (516).txt*0.029700
+train\new train\Du hoc\DH_VNE_ (514).txt*0.031960
+train\new train\Du hoc\DH_VNE_ (513).txt*0.020980
+train\new train\Du hoc\DH_VNE_ (512).txt*0.045870
+train\new train\Du hoc\DH_VNE_ (509).txt*0.011110
+train\new train\Du hoc\DH_VNE_ (507).txt*0.017810
+train\new train\Du hoc\DH_VNE_ (502).txt*0.037040
+train\new train\Du hoc\DH_VNE_ (500).txt*0.013270
+train\new train\Du hoc\DH_VNE_ (50).txt*0.010990
+train\new train\Du hoc\DH_VNE_ (499).txt*0.013040
+train\new train\Du hoc\DH_VNE_ (498).txt*0.012150
+train\new train\Du hoc\DH_VNE_ (497).txt*0.016340
+train\new train\Du hoc\DH_VNE_ (496).txt*0.023440
+train\new train\Du hoc\DH_VNE_ (495).txt*0.030610
+train\new train\Du hoc\DH_VNE_ (492).txt*0.017790
+train\new train\Du hoc\DH_VNE_ (490).txt*0.036230
+train\new train\Du hoc\DH_VNE_ (49).txt*0.016500
+train\new train\Du hoc\DH_VNE_ (489).txt*0.013510
+train\new train\Du hoc\DH_VNE_ (488).txt*0.010280
+train\new train\Du hoc\DH_VNE_ (484).txt*0.024290
+train\new train\Du hoc\DH_VNE_ (483).txt*0.010640
+train\new train\Du hoc\DH_VNE_ (482).txt*0.018320
+train\new train\Du hoc\DH_VNE_ (476).txt*0.018660
+train\new train\Du hoc\DH_VNE_ (475).txt*0.017390
+train\new train\Du hoc\DH_VNE_ (473).txt*0.012050
+train\new train\Du hoc\DH_VNE_ (472).txt*0.011460
+train\new train\Du hoc\DH_VNE_ (470).txt*0.013160
+train\new train\Du hoc\DH_VNE_ (47).txt*0.018870
+train\new train\Du hoc\DH_VNE_ (469).txt*0.017730
+train\new train\Du hoc\DH_VNE_ (466).txt*0.020410
+train\new train\Du hoc\DH_VNE_ (465).txt*0.022650
+train\new train\Du hoc\DH_VNE_ (460).txt*0.010230
+train\new train\Du hoc\DH_VNE_ (458).txt*0.010750
+train\new train\Du hoc\DH_VNE_ (457).txt*0.015380
+train\new train\Du hoc\DH_VNE_ (455).txt*0.038280
+train\new train\Du hoc\DH_VNE_ (45).txt*0.011150
+train\new train\Du hoc\DH_VNE_ (448).txt*0.016810
+train\new train\Du hoc\DH_VNE_ (447).txt*0.015230
+train\new train\Du hoc\DH_VNE_ (446).txt*0.015630
+train\new train\Du hoc\DH_VNE_ (445).txt*0.022860
+train\new train\Du hoc\DH_VNE_ (444).txt*0.014660
+train\new train\Du hoc\DH_VNE_ (441).txt*0.058330
+train\new train\Du hoc\DH_VNE_ (440).txt*0.033520
+train\new train\Du hoc\DH_VNE_ (44).txt*0.049180
+train\new train\Du hoc\DH_VNE_ (437).txt*0.021630
+train\new train\Du hoc\DH_VNE_ (436).txt*0.013330
+train\new train\Du hoc\DH_VNE_ (43).txt*0.021650
+train\new train\Du hoc\DH_VNE_ (429).txt*0.020230
+train\new train\Du hoc\DH_VNE_ (428).txt*0.025130
+train\new train\Du hoc\DH_VNE_ (421).txt*0.019230
+train\new train\Du hoc\DH_VNE_ (42).txt*0.018870
+train\new train\Du hoc\DH_VNE_ (419).txt*0.018400
+train\new train\Du hoc\DH_VNE_ (415).txt*0.013700
+train\new train\Du hoc\DH_VNE_ (412).txt*0.016180
+train\new train\Du hoc\DH_VNE_ (411).txt*0.017340
+train\new train\Du hoc\DH_VNE_ (41).txt*0.013820
+train\new train\Du hoc\DH_VNE_ (406).txt*0.020830
+train\new train\Du hoc\DH_VNE_ (405).txt*0.014810
+train\new train\Du hoc\DH_VNE_ (403).txt*0.020980
+train\new train\Du hoc\DH_VNE_ (402).txt*0.030300
+train\new train\Du hoc\DH_VNE_ (40).txt*0.010420
+train\new train\Du hoc\DH_VNE_ (397).txt*0.029070
+train\new train\Du hoc\DH_VNE_ (395).txt*0.034350
+train\new train\Du hoc\DH_VNE_ (393).txt*0.016950
+train\new train\Du hoc\DH_VNE_ (391).txt*0.013250
+train\new train\Du hoc\DH_VNE_ (39).txt*0.010870
+train\new train\Du hoc\DH_VNE_ (384).txt*0.030560
+train\new train\Du hoc\DH_VNE_ (383).txt*0.013930
+train\new train\Du hoc\DH_VNE_ (382).txt*0.018590
+train\new train\Du hoc\DH_VNE_ (377).txt*0.013160
+train\new train\Du hoc\DH_VNE_ (376).txt*0.011240
+train\new train\Du hoc\DH_VNE_ (370).txt*0.014490
+train\new train\Du hoc\DH_VNE_ (366).txt*0.045590
+train\new train\Du hoc\DH_VNE_ (365).txt*0.015380
+train\new train\Du hoc\DH_VNE_ (362).txt*0.016130
+train\new train\Du hoc\DH_VNE_ (361).txt*0.020620
+train\new train\Du hoc\DH_VNE_ (360).txt*0.019610
+train\new train\Du hoc\DH_VNE_ (36).txt*0.010000
+train\new train\Du hoc\DH_VNE_ (357).txt*0.015810
+train\new train\Du hoc\DH_VNE_ (356).txt*0.011450
+train\new train\Du hoc\DH_VNE_ (354).txt*0.010830
+train\new train\Du hoc\DH_VNE_ (352).txt*0.027270
+train\new train\Du hoc\DH_VNE_ (351).txt*0.022100
+train\new train\Du hoc\DH_VNE_ (350).txt*0.014150
+train\new train\Du hoc\DH_VNE_ (346).txt*0.020000
+train\new train\Du hoc\DH_VNE_ (344).txt*0.020910
+train\new train\Du hoc\DH_VNE_ (343).txt*0.011870
+train\new train\Du hoc\DH_VNE_ (336).txt*0.012660
+train\new train\Du hoc\DH_VNE_ (335).txt*0.023040
+train\new train\Du hoc\DH_VNE_ (333).txt*0.028570
+train\new train\Du hoc\DH_VNE_ (332).txt*0.015150
+train\new train\Du hoc\DH_VNE_ (331).txt*0.019530
+train\new train\Du hoc\DH_VNE_ (330).txt*0.016040
+train\new train\Du hoc\DH_VNE_ (33).txt*0.031110
+train\new train\Du hoc\DH_VNE_ (329).txt*0.012820
+train\new train\Du hoc\DH_VNE_ (326).txt*0.026220
+train\new train\Du hoc\DH_VNE_ (325).txt*0.013250
+train\new train\Du hoc\DH_VNE_ (323).txt*0.010560
+train\new train\Du hoc\DH_VNE_ (319).txt*0.019540
+train\new train\Du hoc\DH_VNE_ (317).txt*0.011070
+train\new train\Du hoc\DH_VNE_ (315).txt*0.013830
+train\new train\Du hoc\DH_VNE_ (311).txt*0.010790
+train\new train\Du hoc\DH_VNE_ (309).txt*0.011860
+train\new train\Du hoc\DH_VNE_ (304).txt*0.011540
+train\new train\Du hoc\DH_VNE_ (300).txt*0.017140
+train\new train\Du hoc\DH_VNE_ (299).txt*0.031530
+train\new train\Du hoc\DH_VNE_ (297).txt*0.027270
+train\new train\Du hoc\DH_VNE_ (294).txt*0.017860
+train\new train\Du hoc\DH_VNE_ (291).txt*0.039330
+train\new train\Du hoc\DH_VNE_ (288).txt*0.029630
+train\new train\Du hoc\DH_VNE_ (287).txt*0.014870
+train\new train\Du hoc\DH_VNE_ (284).txt*0.013220
+train\new train\Du hoc\DH_VNE_ (283).txt*0.012050
+train\new train\Du hoc\DH_VNE_ (280).txt*0.014960
+train\new train\Du hoc\DH_VNE_ (278).txt*0.025530
+train\new train\Du hoc\DH_VNE_ (273).txt*0.012200
+train\new train\Du hoc\DH_VNE_ (271).txt*0.012880
+train\new train\Du hoc\DH_VNE_ (270).txt*0.029410
+train\new train\Du hoc\DH_VNE_ (27).txt*0.010530
+train\new train\Du hoc\DH_VNE_ (269).txt*0.014350
+train\new train\Du hoc\DH_VNE_ (268).txt*0.033130
+train\new train\Du hoc\DH_VNE_ (267).txt*0.013510
+train\new train\Du hoc\DH_VNE_ (264).txt*0.014630
+train\new train\Du hoc\DH_VNE_ (263).txt*0.014330
+train\new train\Du hoc\DH_VNE_ (258).txt*0.012380
+train\new train\Du hoc\DH_VNE_ (256).txt*0.017700
+train\new train\Du hoc\DH_VNE_ (255).txt*0.024880
+train\new train\Du hoc\DH_VNE_ (252).txt*0.021600
+train\new train\Du hoc\DH_VNE_ (250).txt*0.039820
+train\new train\Du hoc\DH_VNE_ (25).txt*0.014650
+train\new train\Du hoc\DH_VNE_ (248).txt*0.030610
+train\new train\Du hoc\DH_VNE_ (247).txt*0.023810
+train\new train\Du hoc\DH_VNE_ (246).txt*0.021740
+train\new train\Du hoc\DH_VNE_ (243).txt*0.016130
+train\new train\Du hoc\DH_VNE_ (241).txt*0.010310
+train\new train\Du hoc\DH_VNE_ (240).txt*0.015000
+train\new train\Du hoc\DH_VNE_ (24).txt*0.039740
+train\new train\Du hoc\DH_VNE_ (235).txt*0.035350
+train\new train\Du hoc\DH_VNE_ (234).txt*0.011240
+train\new train\Du hoc\DH_VNE_ (232).txt*0.012240
+train\new train\Du hoc\DH_VNE_ (23).txt*0.021130
+train\new train\Du hoc\DH_VNE_ (229).txt*0.016060
+train\new train\Du hoc\DH_VNE_ (228).txt*0.025270
+train\new train\Du hoc\DH_VNE_ (227).txt*0.014340
+train\new train\Du hoc\DH_VNE_ (225).txt*0.014870
+train\new train\Du hoc\DH_VNE_ (224).txt*0.011760
+train\new train\Du hoc\DH_VNE_ (222).txt*0.024190
+train\new train\Du hoc\DH_VNE_ (221).txt*0.014290
+train\new train\Du hoc\DH_VNE_ (220).txt*0.010750
+train\new train\Du hoc\DH_VNE_ (22).txt*0.044940
+train\new train\Du hoc\DH_VNE_ (218).txt*0.018930
+train\new train\Du hoc\DH_VNE_ (215).txt*0.024690
+train\new train\Du hoc\DH_VNE_ (214).txt*0.027400
+train\new train\Du hoc\DH_VNE_ (213).txt*0.021410
+train\new train\Du hoc\DH_VNE_ (211).txt*0.013990
+train\new train\Du hoc\DH_VNE_ (208).txt*0.030820
+train\new train\Du hoc\DH_VNE_ (206).txt*0.010580
+train\new train\Du hoc\DH_VNE_ (204).txt*0.011240
+train\new train\Du hoc\DH_VNE_ (203).txt*0.013330
+train\new train\Du hoc\DH_VNE_ (202).txt*0.019310
+train\new train\Du hoc\DH_VNE_ (201).txt*0.011760
+train\new train\Du hoc\DH_VNE_ (2).txt*0.026740
+train\new train\Du hoc\DH_VNE_ (198).txt*0.012820
+train\new train\Du hoc\DH_VNE_ (195).txt*0.012560
+train\new train\Du hoc\DH_VNE_ (192).txt*0.028370
+train\new train\Du hoc\DH_VNE_ (190).txt*0.022860
+train\new train\Du hoc\DH_VNE_ (19).txt*0.019380
+train\new train\Du hoc\DH_VNE_ (189).txt*0.036360
+train\new train\Du hoc\DH_VNE_ (188).txt*0.038710
+train\new train\Du hoc\DH_VNE_ (187).txt*0.046300
+train\new train\Du hoc\DH_VNE_ (186).txt*0.017610
+train\new train\Du hoc\DH_VNE_ (185).txt*0.021740
+train\new train\Du hoc\DH_VNE_ (181).txt*0.017320
+train\new train\Du hoc\DH_VNE_ (173).txt*0.016950
+train\new train\Du hoc\DH_VNE_ (172).txt*0.014180
+train\new train\Du hoc\DH_VNE_ (171).txt*0.018750
+train\new train\Du hoc\DH_VNE_ (168).txt*0.032970
+train\new train\Du hoc\DH_VNE_ (166).txt*0.016260
+train\new train\Du hoc\DH_VNE_ (164).txt*0.035020
+train\new train\Du hoc\DH_VNE_ (163).txt*0.034190
+train\new train\Du hoc\DH_VNE_ (161).txt*0.018180
+train\new train\Du hoc\DH_VNE_ (160).txt*0.038670
+train\new train\Du hoc\DH_VNE_ (159).txt*0.014180
+train\new train\Du hoc\DH_VNE_ (158).txt*0.031850
+train\new train\Du hoc\DH_VNE_ (156).txt*0.010200
+train\new train\Du hoc\DH_VNE_ (155).txt*0.029130
+train\new train\Du hoc\DH_VNE_ (153).txt*0.027030
+train\new train\Du hoc\DH_VNE_ (152).txt*0.025000
+train\new train\Du hoc\DH_VNE_ (151).txt*0.022650
+train\new train\Du hoc\DH_VNE_ (150).txt*0.018870
+train\new train\Du hoc\DH_VNE_ (15).txt*0.019420
+train\new train\Du hoc\DH_VNE_ (149).txt*0.035180
+train\new train\Du hoc\DH_VNE_ (148).txt*0.036700
+train\new train\Du hoc\DH_VNE_ (147).txt*0.010200
+train\new train\Du hoc\DH_VNE_ (146).txt*0.043960
+train\new train\Du hoc\DH_VNE_ (145).txt*0.012900
+train\new train\Du hoc\DH_VNE_ (143).txt*0.015750
+train\new train\Du hoc\DH_VNE_ (141).txt*0.031250
+train\new train\Du hoc\DH_VNE_ (139).txt*0.025480
+train\new train\Du hoc\DH_VNE_ (138).txt*0.032680
+train\new train\Du hoc\DH_VNE_ (136).txt*0.018930
+train\new train\Du hoc\DH_VNE_ (131).txt*0.012400
+train\new train\Du hoc\DH_VNE_ (130).txt*0.029700
+train\new train\Du hoc\DH_VNE_ (129).txt*0.019320
+train\new train\Du hoc\DH_VNE_ (127).txt*0.016880
+train\new train\Du hoc\DH_VNE_ (121).txt*0.018870
+train\new train\Du hoc\DH_VNE_ (120).txt*0.029760
+train\new train\Du hoc\DH_VNE_ (12).txt*0.016130
+train\new train\Du hoc\DH_VNE_ (119).txt*0.010930
+train\new train\Du hoc\DH_VNE_ (118).txt*0.025210
+train\new train\Du hoc\DH_VNE_ (117).txt*0.011980
+train\new train\Du hoc\DH_VNE_ (116).txt*0.053850
+train\new train\Du hoc\DH_VNE_ (112).txt*0.029630
+train\new train\Du hoc\DH_VNE_ (111).txt*0.016880
+train\new train\Du hoc\DH_VNE_ (110).txt*0.013660
+train\new train\Du hoc\DH_VNE_ (109).txt*0.036780
+train\new train\Du hoc\DH_VNE_ (108).txt*0.026040
+train\new train\Du hoc\DH_VNE_ (105).txt*0.022390
+train\new train\Du hoc\DH_VNE_ (104).txt*0.051850
+train\new train\Du hoc\DH_VNE_ (103).txt*0.024240
+train\new train\Du hoc\DH_VNE_ (102).txt*0.028460
+train\new train\Du hoc\DH_VNE_ (1).txt*0.018630
+train\new train\Du hoc\DH_TN_ (678).txt*0.016810
+train\new train\Du hoc\DH_TN_ (673).txt*0.039570
+train\new train\Du hoc\DH_TN_ (670).txt*0.028570
+train\new train\Du hoc\DH_TN_ (669).txt*0.023810
+train\new train\Du hoc\DH_TN_ (667).txt*0.027970
+train\new train\Du hoc\DH_TN_ (665).txt*0.010420
+train\new train\Du hoc\DH_TN_ (664).txt*0.043480
+train\new train\Du hoc\DH_TN_ (663).txt*0.014870
+train\new train\Du hoc\DH_TN_ (662).txt*0.016850
+train\new train\Du hoc\DH_TN_ (660).txt*0.035870
+train\new train\Du hoc\DH_TN_ (659).txt*0.023040
+train\new train\Du hoc\DH_TN_ (658).txt*0.015080
+train\new train\Du hoc\DH_TN_ (655).txt*0.018660
+train\new train\Du hoc\DH_TN_ (654).txt*0.010420
+train\new train\Du hoc\DH_TN_ (653).txt*0.016130
+train\new train\Du hoc\DH_TN_ (651).txt*0.029590
+train\new train\Du hoc\DH_TN_ (650).txt*0.033710
+train\new train\Du hoc\DH_TN_ (645).txt*0.013950
+train\new train\Du hoc\DH_TN_ (643).txt*0.024590
+train\new train\Du hoc\DH_TN_ (642).txt*0.036760
+train\new train\Du hoc\DH_TN_ (641).txt*0.042810
+train\new train\Du hoc\DH_TN_ (640).txt*0.030170
+train\new train\Du hoc\DH_TN_ (639).txt*0.034090
+train\new train\Du hoc\DH_TN_ (636).txt*0.020130
+train\new train\Du hoc\DH_TN_ (634).txt*0.014600
+train\new train\Du hoc\DH_TN_ (630).txt*0.010810
+train\new train\Du hoc\DH_TN_ (629).txt*0.015870
+train\new train\Du hoc\DH_TN_ (623).txt*0.020940
+train\new train\Du hoc\DH_TN_ (622).txt*0.011050
+train\new train\Du hoc\DH_TN_ (617).txt*0.025740
+train\new train\Du hoc\DH_TN_ (615).txt*0.011760
+train\new train\Du hoc\DH_TN_ (614).txt*0.025000
+train\new train\Du hoc\DH_TN_ (610).txt*0.016880
+train\new train\Du hoc\DH_TN_ (609).txt*0.024540
+train\new train\Du hoc\DH_TN_ (608).txt*0.015960
+train\new train\Du hoc\DH_TN_ (607).txt*0.018180
+train\new train\Du hoc\DH_TN_ (606).txt*0.010420
+train\new train\Du hoc\DH_TN_ (603).txt*0.017060
+train\new train\Cuoc song do day\CSDD_VNE_ (99).txt*0.010440
+train\new train\Cuoc song do day\CSDD_VNE_ (93).txt*0.033330
+train\new train\Cuoc song do day\CSDD_VNE_ (89).txt*0.014290
+train\new train\Cuoc song do day\CSDD_VNE_ (87).txt*0.019230
+train\new train\Cuoc song do day\CSDD_VNE_ (82).txt*0.016300
+train\new train\Cuoc song do day\CSDD_VNE_ (8).txt*0.013070
+train\new train\Cuoc song do day\CSDD_VNE_ (77).txt*0.010840
+train\new train\Cuoc song do day\CSDD_VNE_ (719).txt*0.012850
+train\new train\Cuoc song do day\CSDD_VNE_ (715).txt*0.032470
+train\new train\Cuoc song do day\CSDD_VNE_ (708).txt*0.030670
+train\new train\Cuoc song do day\CSDD_VNE_ (704).txt*0.022040
+train\new train\Cuoc song do day\CSDD_VNE_ (695).txt*0.015230
+train\new train\Cuoc song do day\CSDD_VNE_ (693).txt*0.022730
+train\new train\Cuoc song do day\CSDD_VNE_ (691).txt*0.010150
+train\new train\Cuoc song do day\CSDD_VNE_ (687).txt*0.014790
+train\new train\Cuoc song do day\CSDD_VNE_ (683).txt*0.010420
+train\new train\Cuoc song do day\CSDD_VNE_ (677).txt*0.032470
+train\new train\Cuoc song do day\CSDD_VNE_ (675).txt*0.017090
+train\new train\Cuoc song do day\CSDD_VNE_ (670).txt*0.015790
+train\new train\Cuoc song do day\CSDD_VNE_ (655).txt*0.014490
+train\new train\Cuoc song do day\CSDD_VNE_ (653).txt*0.013890
+train\new train\Cuoc song do day\CSDD_VNE_ (651).txt*0.011430
+train\new train\Cuoc song do day\CSDD_VNE_ (643).txt*0.020000
+train\new train\Cuoc song do day\CSDD_VNE_ (640).txt*0.019110
+train\new train\Cuoc song do day\CSDD_VNE_ (630).txt*0.016260
+train\new train\Cuoc song do day\CSDD_VNE_ (63).txt*0.017960
+train\new train\Cuoc song do day\CSDD_VNE_ (624).txt*0.031250
+train\new train\Cuoc song do day\CSDD_VNE_ (614).txt*0.018870
+train\new train\Cuoc song do day\CSDD_VNE_ (61).txt*0.014930
+train\new train\Cuoc song do day\CSDD_VNE_ (605).txt*0.017750
+train\new train\Cuoc song do day\CSDD_VNE_ (604).txt*0.019610
+train\new train\Cuoc song do day\CSDD_VNE_ (592).txt*0.018400
+train\new train\Cuoc song do day\CSDD_VNE_ (583).txt*0.014930
+train\new train\Cuoc song do day\CSDD_VNE_ (582).txt*0.027780
+train\new train\Cuoc song do day\CSDD_VNE_ (578).txt*0.028570
+train\new train\Cuoc song do day\CSDD_VNE_ (568).txt*0.014180
+train\new train\Cuoc song do day\CSDD_VNE_ (546).txt*0.010640
+train\new train\Cuoc song do day\CSDD_VNE_ (54).txt*0.013700
+train\new train\Cuoc song do day\CSDD_VNE_ (525).txt*0.031450
+train\new train\Cuoc song do day\CSDD_VNE_ (523).txt*0.013160
+train\new train\Cuoc song do day\CSDD_VNE_ (516).txt*0.038830
+train\new train\Cuoc song do day\CSDD_VNE_ (503).txt*0.029240
+train\new train\Cuoc song do day\CSDD_VNE_ (502).txt*0.030930
+train\new train\Cuoc song do day\CSDD_VNE_ (501).txt*0.023950
+train\new train\Cuoc song do day\CSDD_VNE_ (500).txt*0.012300
+train\new train\Cuoc song do day\CSDD_VNE_ (497).txt*0.012820
+train\new train\Cuoc song do day\CSDD_VNE_ (493).txt*0.010930
+train\new train\Cuoc song do day\CSDD_VNE_ (489).txt*0.019110
+train\new train\Cuoc song do day\CSDD_VNE_ (488).txt*0.010930
+train\new train\Cuoc song do day\CSDD_VNE_ (478).txt*0.011700
+train\new train\Cuoc song do day\CSDD_VNE_ (47).txt*0.018630
+train\new train\Cuoc song do day\CSDD_VNE_ (467).txt*0.021430
+train\new train\Cuoc song do day\CSDD_VNE_ (447).txt*0.019890
+train\new train\Cuoc song do day\CSDD_VNE_ (444).txt*0.033900
+train\new train\Cuoc song do day\CSDD_VNE_ (441).txt*0.028790
+train\new train\Cuoc song do day\CSDD_VNE_ (44).txt*0.024750
+train\new train\Cuoc song do day\CSDD_VNE_ (435).txt*0.035090
+train\new train\Cuoc song do day\CSDD_VNE_ (43).txt*0.026240
+train\new train\Cuoc song do day\CSDD_VNE_ (429).txt*0.023420
+train\new train\Cuoc song do day\CSDD_VNE_ (418).txt*0.024880
+train\new train\Cuoc song do day\CSDD_VNE_ (415).txt*0.022390
+train\new train\Cuoc song do day\CSDD_VNE_ (414).txt*0.015560
+train\new train\Cuoc song do day\CSDD_VNE_ (411).txt*0.047390
+train\new train\Cuoc song do day\CSDD_VNE_ (40).txt*0.019420
+train\new train\Cuoc song do day\CSDD_VNE_ (397).txt*0.020830
+train\new train\Cuoc song do day\CSDD_VNE_ (383).txt*0.026320
+train\new train\Cuoc song do day\CSDD_VNE_ (381).txt*0.016190
+train\new train\Cuoc song do day\CSDD_VNE_ (375).txt*0.016530
+train\new train\Cuoc song do day\CSDD_VNE_ (368).txt*0.012350
+train\new train\Cuoc song do day\CSDD_VNE_ (362).txt*0.018180
+train\new train\Cuoc song do day\CSDD_VNE_ (34).txt*0.015790
+train\new train\Cuoc song do day\CSDD_VNE_ (331).txt*0.022220
+train\new train\Cuoc song do day\CSDD_VNE_ (319).txt*0.012420
+train\new train\Cuoc song do day\CSDD_VNE_ (313).txt*0.013250
+train\new train\Cuoc song do day\CSDD_VNE_ (303).txt*0.011490
+train\new train\Cuoc song do day\CSDD_VNE_ (286).txt*0.014710
+train\new train\Cuoc song do day\CSDD_VNE_ (28).txt*0.016390
+train\new train\Cuoc song do day\CSDD_VNE_ (279).txt*0.010560
+train\new train\Cuoc song do day\CSDD_VNE_ (271).txt*0.023260
+train\new train\Cuoc song do day\CSDD_VNE_ (268).txt*0.014930
+train\new train\Cuoc song do day\CSDD_VNE_ (26).txt*0.033780
+train\new train\Cuoc song do day\CSDD_VNE_ (252).txt*0.020130
+train\new train\Cuoc song do day\CSDD_VNE_ (248).txt*0.010640
+train\new train\Cuoc song do day\CSDD_VNE_ (233).txt*0.016220
+train\new train\Cuoc song do day\CSDD_VNE_ (226).txt*0.010310
+train\new train\Cuoc song do day\CSDD_VNE_ (225).txt*0.014150
+train\new train\Cuoc song do day\CSDD_VNE_ (217).txt*0.011630
+train\new train\Cuoc song do day\CSDD_VNE_ (212).txt*0.014390
+train\new train\Cuoc song do day\CSDD_VNE_ (210).txt*0.013700
+train\new train\Cuoc song do day\CSDD_VNE_ (191).txt*0.020830
+train\new train\Cuoc song do day\CSDD_VNE_ (190).txt*0.010530
+train\new train\Cuoc song do day\CSDD_VNE_ (184).txt*0.015870
+train\new train\Cuoc song do day\CSDD_VNE_ (181).txt*0.016430
+train\new train\Cuoc song do day\CSDD_VNE_ (18).txt*0.019350
+train\new train\Cuoc song do day\CSDD_VNE_ (179).txt*0.012820
+train\new train\Cuoc song do day\CSDD_VNE_ (17).txt*0.011490
+train\new train\Cuoc song do day\CSDD_VNE_ (167).txt*0.017390
+train\new train\Cuoc song do day\CSDD_VNE_ (162).txt*0.013260
+train\new train\Cuoc song do day\CSDD_VNE_ (159).txt*0.013330
+train\new train\Cuoc song do day\CSDD_VNE_ (157).txt*0.010420
+train\new train\Cuoc song do day\CSDD_VNE_ (155).txt*0.010200
+train\new train\Cuoc song do day\CSDD_VNE_ (154).txt*0.017440
+train\new train\Cuoc song do day\CSDD_VNE_ (153).txt*0.014490
+train\new train\Cuoc song do day\CSDD_VNE_ (150).txt*0.029130
+train\new train\Cuoc song do day\CSDD_VNE_ (147).txt*0.026180
+train\new train\Cuoc song do day\CSDD_VNE_ (144).txt*0.025210
+train\new train\Cuoc song do day\CSDD_VNE_ (133).txt*0.012790
+train\new train\Cuoc song do day\CSDD_VNE_ (126).txt*0.026090
+train\new train\Cuoc song do day\CSDD_VNE_ (118).txt*0.013990
+train\new train\Cuoc song do day\CSDD_VNE_ (117).txt*0.011260
+train\new train\Cuoc song do day\CSDD_VNE_ (115).txt*0.025810
+train\new train\Cuoc song do day\CSDD_VNE_ (114).txt*0.014930
+train\new train\Cuoc song do day\CSDD_VNE_ (106).txt*0.035210
+train\new train\Cuoc song do day\CSDD_VNE_ (102).txt*0.015750
+train\new train\Cuoc song do day\CSDD_VNE_ (100).txt*0.026490
+train\new train\Cuoc song do day\CSDD_VNE_ (10).txt*0.015500
+train\new train\Cum ga\CG_TH_ (483).txt*0.014290
+train\new train\Cum ga\CG_TH_ (474).txt*0.013510
+train\new train\Cum ga\CG_TH_ (458).txt*0.010990
+train\new train\Cum ga\CG_TH_ (439).txt*0.010000
+train\new train\Cum ga\CG_TH_ (427).txt*0.012890
+train\new train\Cum ga\CG_TH_ (418).txt*0.012990
+train\new train\Cum ga\CG_TH_ (353).txt*0.012110
+train\new train\Cum ga\CG_TH_ (338).txt*0.042330
+train\new train\Cum ga\CG_TH_ (327).txt*0.022470
+train\new train\Cum ga\CG_TH_ (310).txt*0.011140
+train\new train\Cum ga\CG_TH_ (274).txt*0.012660
+train\new train\Cum ga\CG_TH_ (273).txt*0.016530
+train\new train\Cum ga\CG_TH_ (261).txt*0.020130
+train\new train\Cum ga\CG_TH_ (237).txt*0.013330
+train\new train\Cum ga\CG_TH_ (236).txt*0.011560
+train\new train\Cum ga\CG_TH_ (124).txt*0.011490
+train\new train\Cum ga\CG_TH_ (108).txt*0.062500
+train\new train\Cum ga\CG_TH_ (107).txt*0.016530
+train\new train\Cum ga\CG_TH_ (1).txt*0.033610
+train\new train\Chung khoan\CK_VNE_ (190).txt*0.015100
+train\new train\Chung khoan\CK_VNE_ (182).txt*0.011630
+train\new train\Chung khoan\CK_VNE_ (156).txt*0.020410
+train\new train\Bong da\BD_VNE_ (992).txt*0.024750
+train\new train\Bong da\BD_VNE_ (991).txt*0.017240
+train\new train\Bong da\BD_VNE_ (985).txt*0.014250
+train\new train\Bong da\BD_VNE_ (980).txt*0.029760
+train\new train\Bong da\BD_VNE_ (98).txt*0.023260
+train\new train\Bong da\BD_VNE_ (975).txt*0.010470
+train\new train\Bong da\BD_VNE_ (973).txt*0.015660
+train\new train\Bong da\BD_VNE_ (970).txt*0.020890
+train\new train\Bong da\BD_VNE_ (967).txt*0.017520
+train\new train\Bong da\BD_VNE_ (960).txt*0.018520
+train\new train\Bong da\BD_VNE_ (958).txt*0.023950
+train\new train\Bong da\BD_VNE_ (956).txt*0.016570
+train\new train\Bong da\BD_VNE_ (951).txt*0.015480
+train\new train\Bong da\BD_VNE_ (940).txt*0.020620
+train\new train\Bong da\BD_VNE_ (932).txt*0.011880
+train\new train\Bong da\BD_VNE_ (923).txt*0.014780
+train\new train\Bong da\BD_VNE_ (921).txt*0.017540
+train\new train\Bong da\BD_VNE_ (889).txt*0.015460
+train\new train\Bong da\BD_VNE_ (885).txt*0.014710
+train\new train\Bong da\BD_VNE_ (880).txt*0.012460
+train\new train\Bong da\BD_VNE_ (878).txt*0.010810
+train\new train\Bong da\BD_VNE_ (877).txt*0.018450
+train\new train\Bong da\BD_VNE_ (871).txt*0.015580
+train\new train\Bong da\BD_VNE_ (860).txt*0.021740
+train\new train\Bong da\BD_VNE_ (854).txt*0.025250
+train\new train\Bong da\BD_VNE_ (843).txt*0.012930
+train\new train\Bong da\BD_VNE_ (839).txt*0.011350
+train\new train\Bong da\BD_VNE_ (833).txt*0.012100
+train\new train\Bong da\BD_VNE_ (826).txt*0.011630
+train\new train\Bong da\BD_VNE_ (820).txt*0.019740
+train\new train\Bong da\BD_VNE_ (819).txt*0.010530
+train\new train\Bong da\BD_VNE_ (813).txt*0.010930
+train\new train\Bong da\BD_VNE_ (806).txt*0.028440
+train\new train\Bong da\BD_VNE_ (80).txt*0.016010
+train\new train\Bong da\BD_VNE_ (791).txt*0.010260
+train\new train\Bong da\BD_VNE_ (79).txt*0.010040
+train\new train\Bong da\BD_VNE_ (771).txt*0.022060
+train\new train\Bong da\BD_VNE_ (755).txt*0.014440
+train\new train\Bong da\BD_VNE_ (754).txt*0.012420
+train\new train\Bong da\BD_VNE_ (740).txt*0.015600
+train\new train\Bong da\BD_VNE_ (725).txt*0.015810
+train\new train\Bong da\BD_VNE_ (724).txt*0.013790
+train\new train\Bong da\BD_VNE_ (719).txt*0.011050
+train\new train\Bong da\BD_VNE_ (708).txt*0.017920
+train\new train\Bong da\BD_VNE_ (702).txt*0.012550
+train\new train\Bong da\BD_VNE_ (689).txt*0.024650
+train\new train\Bong da\BD_VNE_ (683).txt*0.011830
+train\new train\Bong da\BD_VNE_ (679).txt*0.012270
+train\new train\Bong da\BD_VNE_ (660).txt*0.022030
+train\new train\Bong da\BD_VNE_ (657).txt*0.011490
+train\new train\Bong da\BD_VNE_ (655).txt*0.026320
+train\new train\Bong da\BD_VNE_ (647).txt*0.015900
+train\new train\Bong da\BD_VNE_ (645).txt*0.016280
+train\new train\Bong da\BD_VNE_ (644).txt*0.019280
+train\new train\Bong da\BD_VNE_ (63).txt*0.011580
+train\new train\Bong da\BD_VNE_ (612).txt*0.010360
+train\new train\Bong da\BD_VNE_ (608).txt*0.024440
+train\new train\Bong da\BD_VNE_ (604).txt*0.010660
+train\new train\Bong da\BD_VNE_ (600).txt*0.011050
+train\new train\Bong da\BD_VNE_ (6).txt*0.020000
+train\new train\Bong da\BD_VNE_ (597).txt*0.014650
+train\new train\Bong da\BD_VNE_ (590).txt*0.027730
+train\new train\Bong da\BD_VNE_ (583).txt*0.013230
+train\new train\Bong da\BD_VNE_ (577).txt*0.018750
+train\new train\Bong da\BD_VNE_ (571).txt*0.015270
+train\new train\Bong da\BD_VNE_ (550).txt*0.013190
+train\new train\Bong da\BD_VNE_ (538).txt*0.011790
+train\new train\Bong da\BD_VNE_ (52).txt*0.020300
+train\new train\Bong da\BD_VNE_ (516).txt*0.014810
+train\new train\Bong da\BD_VNE_ (510).txt*0.015210
+train\new train\Bong da\BD_VNE_ (508).txt*0.010380
+train\new train\Bong da\BD_VNE_ (496).txt*0.013700
+train\new train\Bong da\BD_VNE_ (492).txt*0.011170
+train\new train\Bong da\BD_VNE_ (486).txt*0.023620
+train\new train\Bong da\BD_VNE_ (479).txt*0.012500
+train\new train\Bong da\BD_VNE_ (474).txt*0.014710
+train\new train\Bong da\BD_VNE_ (47).txt*0.029240
+train\new train\Bong da\BD_VNE_ (465).txt*0.010260
+train\new train\Bong da\BD_VNE_ (454).txt*0.011450
+train\new train\Bong da\BD_VNE_ (426).txt*0.020690
+train\new train\Bong da\BD_VNE_ (402).txt*0.038630
+train\new train\Bong da\BD_VNE_ (394).txt*0.010260
+train\new train\Bong da\BD_VNE_ (391).txt*0.011900
+train\new train\Bong da\BD_VNE_ (370).txt*0.015870
+train\new train\Bong da\BD_VNE_ (363).txt*0.012920
+train\new train\Bong da\BD_VNE_ (353).txt*0.026850
+train\new train\Bong da\BD_VNE_ (348).txt*0.018020
+train\new train\Bong da\BD_VNE_ (345).txt*0.014910
+train\new train\Bong da\BD_VNE_ (341).txt*0.020920
+train\new train\Bong da\BD_VNE_ (340).txt*0.029720
+train\new train\Bong da\BD_VNE_ (334).txt*0.010380
+train\new train\Bong da\BD_VNE_ (327).txt*0.010260
+train\new train\Bong da\BD_VNE_ (325).txt*0.014490
+train\new train\Bong da\BD_VNE_ (322).txt*0.012450
+train\new train\Bong da\BD_VNE_ (278).txt*0.020830
+train\new train\Bong da\BD_VNE_ (267).txt*0.015380
+train\new train\Bong da\BD_VNE_ (255).txt*0.021390
+train\new train\Bong da\BD_VNE_ (246).txt*0.022750
+train\new train\Bong da\BD_VNE_ (244).txt*0.017140
+train\new train\Bong da\BD_VNE_ (238).txt*0.013250
+train\new train\Bong da\BD_VNE_ (234).txt*0.015710
+train\new train\Bong da\BD_VNE_ (214).txt*0.014490
+train\new train\Bong da\BD_VNE_ (182).txt*0.010270
+train\new train\Bong da\BD_VNE_ (161).txt*0.010700
+train\new train\Bong da\BD_VNE_ (16).txt*0.010930
+train\new train\Bong da\BD_VNE_ (1582).txt*0.017860
+train\new train\Bong da\BD_VNE_ (1578).txt*0.016670
+train\new train\Bong da\BD_VNE_ (1570).txt*0.012450
+train\new train\Bong da\BD_VNE_ (1567).txt*0.016100
+train\new train\Bong da\BD_VNE_ (1564).txt*0.017120
+train\new train\Bong da\BD_VNE_ (1563).txt*0.010260
+train\new train\Bong da\BD_VNE_ (1561).txt*0.014460
+train\new train\Bong da\BD_VNE_ (1558).txt*0.021280
+train\new train\Bong da\BD_VNE_ (1545).txt*0.010670
+train\new train\Bong da\BD_VNE_ (1539).txt*0.035420
+train\new train\Bong da\BD_VNE_ (1534).txt*0.013450
+train\new train\Bong da\BD_VNE_ (1532).txt*0.017340
+train\new train\Bong da\BD_VNE_ (1530).txt*0.018520
+train\new train\Bong da\BD_VNE_ (1529).txt*0.021130
+train\new train\Bong da\BD_VNE_ (1490).txt*0.010850
+train\new train\Bong da\BD_VNE_ (1486).txt*0.013890
+train\new train\Bong da\BD_VNE_ (1472).txt*0.010530
+train\new train\Bong da\BD_VNE_ (1467).txt*0.013330
+train\new train\Bong da\BD_VNE_ (1465).txt*0.022440
+train\new train\Bong da\BD_VNE_ (1462).txt*0.018450
+train\new train\Bong da\BD_VNE_ (1458).txt*0.020410
+train\new train\Bong da\BD_VNE_ (1452).txt*0.010800
+train\new train\Bong da\BD_VNE_ (1449).txt*0.014490
+train\new train\Bong da\BD_VNE_ (1443).txt*0.011700
+train\new train\Bong da\BD_VNE_ (1432).txt*0.013890
+train\new train\Bong da\BD_VNE_ (1431).txt*0.019610
+train\new train\Bong da\BD_VNE_ (1412).txt*0.016270
+train\new train\Bong da\BD_VNE_ (1392).txt*0.019230
+train\new train\Bong da\BD_VNE_ (1381).txt*0.015080
+train\new train\Bong da\BD_VNE_ (1379).txt*0.012420
+train\new train\Bong da\BD_VNE_ (1374).txt*0.026700
+train\new train\Bong da\BD_VNE_ (1373).txt*0.037740
+train\new train\Bong da\BD_VNE_ (1369).txt*0.018850
+train\new train\Bong da\BD_VNE_ (1367).txt*0.032000
+train\new train\Bong da\BD_VNE_ (1365).txt*0.010050
+train\new train\Bong da\BD_VNE_ (1363).txt*0.021050
+train\new train\Bong da\BD_VNE_ (1360).txt*0.011430
+train\new train\Bong da\BD_VNE_ (136).txt*0.010680
+train\new train\Bong da\BD_VNE_ (1356).txt*0.015040
+train\new train\Bong da\BD_VNE_ (1352).txt*0.014930
+train\new train\Bong da\BD_VNE_ (1350).txt*0.010580
+train\new train\Bong da\BD_VNE_ (1349).txt*0.018970
+train\new train\Bong da\BD_VNE_ (1337).txt*0.025530
+train\new train\Bong da\BD_VNE_ (1335).txt*0.011540
+train\new train\Bong da\BD_VNE_ (1321).txt*0.013420
+train\new train\Bong da\BD_VNE_ (1320).txt*0.023810
+train\new train\Bong da\BD_VNE_ (1306).txt*0.011170
+train\new train\Bong da\BD_VNE_ (1302).txt*0.030380
+train\new train\Bong da\BD_VNE_ (1301).txt*0.011580
+train\new train\Bong da\BD_VNE_ (1290).txt*0.010560
+train\new train\Bong da\BD_VNE_ (1250).txt*0.018020
+train\new train\Bong da\BD_VNE_ (1247).txt*0.013910
+train\new train\Bong da\BD_VNE_ (1244).txt*0.010200
+train\new train\Bong da\BD_VNE_ (1240).txt*0.012050
+train\new train\Bong da\BD_VNE_ (1238).txt*0.013250
+train\new train\Bong da\BD_VNE_ (1235).txt*0.018960
+train\new train\Bong da\BD_VNE_ (1234).txt*0.027030
+train\new train\Bong da\BD_VNE_ (1231).txt*0.013330
+train\new train\Bong da\BD_VNE_ (1227).txt*0.012510
+train\new train\Bong da\BD_VNE_ (1224).txt*0.010670
+train\new train\Bong da\BD_VNE_ (1222).txt*0.018230
+train\new train\Bong da\BD_VNE_ (1214).txt*0.010160
+train\new train\Bong da\BD_VNE_ (1211).txt*0.016130
+train\new train\Bong da\BD_VNE_ (1206).txt*0.011900
+train\new train\Bong da\BD_VNE_ (1197).txt*0.011070
+train\new train\Bong da\BD_VNE_ (1185).txt*0.011760
+train\new train\Bong da\BD_VNE_ (1181).txt*0.014840
+train\new train\Bong da\BD_VNE_ (1168).txt*0.011900
+train\new train\Bong da\BD_VNE_ (1167).txt*0.025970
+train\new train\Bong da\BD_VNE_ (1156).txt*0.010050
+train\new train\Bong da\BD_VNE_ (1151).txt*0.023260
+train\new train\Bong da\BD_VNE_ (115).txt*0.015270
+train\new train\Bong da\BD_VNE_ (1140).txt*0.035240
+train\new train\Bong da\BD_VNE_ (1139).txt*0.024890
+train\new train\Bong da\BD_VNE_ (1112).txt*0.010530
+train\new train\Bong da\BD_VNE_ (1079).txt*0.032790
+train\new train\Bong da\BD_VNE_ (1078).txt*0.021740
+train\new train\Bong da\BD_VNE_ (1077).txt*0.019610
+train\new train\Bong da\BD_VNE_ (1075).txt*0.028570
+train\new train\Bong da\BD_VNE_ (1072).txt*0.036900
+train\new train\Bong da\BD_VNE_ (1070).txt*0.010570
+train\new train\Bong da\BD_VNE_ (107).txt*0.010990
+train\new train\Bong da\BD_VNE_ (1061).txt*0.012350
+train\new train\Bong da\BD_VNE_ (1056).txt*0.013570
+train\new train\Bong da\BD_VNE_ (1053).txt*0.014910
+train\new train\Bong da\BD_VNE_ (1045).txt*0.011170
+train\new train\Bong da\BD_VNE_ (1043).txt*0.026830
+train\new train\Bong da\BD_VNE_ (1041).txt*0.018520
+train\new train\Bong da\BD_VNE_ (1040).txt*0.012540
+train\new train\Bong da\BD_VNE_ (102).txt*0.012250
+train\new train\Bong da\BD_VNE_ (1016).txt*0.019050
+train\new train\Bong da\BD_VNE_ (1010).txt*0.021550
+train\new train\Bong da\BD_VNE_ (1002).txt*0.010100
+train\new train\Bong da\BD_VNE_ (1).txt*0.023810
+train\new train\Bong da\BD_TT_T_ (1851).txt*0.013160
+train\new train\Bong da\BD_TT_T_ (1850).txt*0.017860
+train\new train\Bong da\BD_TT_T_ (1848).txt*0.011280
+train\new train\Bong da\BD_TT_T_ (1762).txt*0.017240
+train\new train\Bong da\BD_TT_T_ (1761).txt*0.014620
+train\new train\Bong da\BD_TT_T_ (1756).txt*0.012350
+train\new train\Bong da\BD_TT_T_ (1746).txt*0.013790
+train\new train\Bong da\BD_TT_T_ (1719).txt*0.015040
+train\new train\Bong da\BD_TT_T_ (1718).txt*0.013510
+train\new train\Bong da\BD_TT_T_ (1717).txt*0.032680
+train\new train\Bong da\BD_TT_T_ (1712).txt*0.046510
+train\new train\Bong da\BD_TT_T_ (1707).txt*0.031250
+train\new train\Bong da\BD_TT_T_ (1704).txt*0.026550
+train\new train\Bong da\BD_TT_T_ (1675).txt*0.021580
+train\new train\Bong da\BD_TT_T_ (1673).txt*0.011540
+train\new train\Bong da\BD_TT_T_ (1649).txt*0.011830
+train\new train\Bong da\BD_TT_T_ (1633).txt*0.015040
+train\new train\Bong da\BD_TT_T_ (1626).txt*0.020410
+train\new train\Bong da\BD_TN_ (1613).txt*0.011490
+train\new train\Bong da\BD_TN_ (1612).txt*0.046880
+train\new train\Bong da\BD_TN_ (1605).txt*0.014810
+train\new train\Bong da\BD_TN_ (1602).txt*0.022220
+train\new train\Bong da\BD_TN_ (1597).txt*0.048280
+train\new train\Bong da\BD_TN_ (1594).txt*0.011490
+train\new train\Bong da\BD_TN_ (1587).txt*0.015150
+train\new train\Bong da\BD_TN_ (1586).txt*0.057350
+train\new train\Bat dong san\BDS_VNE_ (28).txt*0.010990
+train\new train\Bat dong san\BDS_VNE_ (173).txt*0.010140
+train\new train\Bat dong san\BDS_TN_ (238).txt*0.011110
+train\new train\Am thuc\AT_VNE_ (78).txt*0.012990
+train\new train\Am thuc\AT_TT_ (254).txt*0.013990
+train\new train\Am thuc\AT_TN_ (229).txt*0.036450
+train\new train\Am nhac\AN_VNE_ (876).txt*0.016600
+train\new train\Am nhac\AN_VNE_ (873).txt*0.014670
+train\new train\Am nhac\AN_VNE_ (871).txt*0.024440
+train\new train\Am nhac\AN_VNE_ (869).txt*0.014290
+train\new train\Am nhac\AN_VNE_ (867).txt*0.047620
+train\new train\Am nhac\AN_VNE_ (862).txt*0.012350
+train\new train\Am nhac\AN_VNE_ (861).txt*0.017420
+train\new train\Am nhac\AN_VNE_ (860).txt*0.015940
+train\new train\Am nhac\AN_VNE_ (86).txt*0.019050
+train\new train\Am nhac\AN_VNE_ (859).txt*0.016810
+train\new train\Am nhac\AN_VNE_ (858).txt*0.019260
+train\new train\Am nhac\AN_VNE_ (857).txt*0.019420
+train\new train\Am nhac\AN_VNE_ (85).txt*0.018760
+train\new train\Am nhac\AN_VNE_ (849).txt*0.012680
+train\new train\Am nhac\AN_VNE_ (848).txt*0.015840
+train\new train\Am nhac\AN_VNE_ (847).txt*0.022810
+train\new train\Am nhac\AN_VNE_ (845).txt*0.015270
+train\new train\Am nhac\AN_VNE_ (844).txt*0.013480
+train\new train\Am nhac\AN_VNE_ (843).txt*0.010450
+train\new train\Am nhac\AN_VNE_ (841).txt*0.021400
+train\new train\Am nhac\AN_VNE_ (836).txt*0.025640
+train\new train\Am nhac\AN_VNE_ (834).txt*0.020510
+train\new train\Am nhac\AN_VNE_ (833).txt*0.010670
+train\new train\Am nhac\AN_VNE_ (832).txt*0.012690
+train\new train\Am nhac\AN_VNE_ (831).txt*0.016630
+train\new train\Am nhac\AN_VNE_ (828).txt*0.023260
+train\new train\Am nhac\AN_VNE_ (827).txt*0.012150
+train\new train\Am nhac\AN_VNE_ (826).txt*0.010700
+train\new train\Am nhac\AN_VNE_ (825).txt*0.011540
+train\new train\Am nhac\AN_VNE_ (822).txt*0.015540
+train\new train\Am nhac\AN_VNE_ (821).txt*0.039370
+train\new train\Am nhac\AN_VNE_ (820).txt*0.040370
+train\new train\Am nhac\AN_VNE_ (818).txt*0.040280
+train\new train\Am nhac\AN_VNE_ (816).txt*0.014850
+train\new train\Am nhac\AN_VNE_ (813).txt*0.013440
+train\new train\Am nhac\AN_VNE_ (808).txt*0.012500
+train\new train\Am nhac\AN_VNE_ (805).txt*0.012990
+train\new train\Am nhac\AN_VNE_ (802).txt*0.038400
+train\new train\Am nhac\AN_VNE_ (801).txt*0.010130
+train\new train\Am nhac\AN_VNE_ (800).txt*0.035520
+train\new train\Am nhac\AN_VNE_ (8).txt*0.019870
+train\new train\Am nhac\AN_VNE_ (796).txt*0.014170
+train\new train\Am nhac\AN_VNE_ (795).txt*0.022940
+train\new train\Am nhac\AN_VNE_ (79).txt*0.010750
+train\new train\Am nhac\AN_VNE_ (788).txt*0.011430
+train\new train\Am nhac\AN_VNE_ (785).txt*0.011760
+train\new train\Am nhac\AN_VNE_ (784).txt*0.017580
+train\new train\Am nhac\AN_VNE_ (783).txt*0.013030
+train\new train\Am nhac\AN_VNE_ (782).txt*0.012550
+train\new train\Am nhac\AN_VNE_ (780).txt*0.017480
+train\new train\Am nhac\AN_VNE_ (779).txt*0.021370
+train\new train\Am nhac\AN_VNE_ (770).txt*0.016370
+train\new train\Am nhac\AN_VNE_ (767).txt*0.023120
+train\new train\Am nhac\AN_VNE_ (764).txt*0.020660
+train\new train\Am nhac\AN_VNE_ (760).txt*0.020570
+train\new train\Am nhac\AN_VNE_ (76).txt*0.014950
+train\new train\Am nhac\AN_VNE_ (752).txt*0.026600
+train\new train\Am nhac\AN_VNE_ (750).txt*0.014410
+train\new train\Am nhac\AN_VNE_ (746).txt*0.010990
+train\new train\Am nhac\AN_VNE_ (745).txt*0.026010
+train\new train\Am nhac\AN_VNE_ (738).txt*0.010570
+train\new train\Am nhac\AN_VNE_ (734).txt*0.027890
+train\new train\Am nhac\AN_VNE_ (733).txt*0.024340
+train\new train\Am nhac\AN_VNE_ (731).txt*0.010270
+train\new train\Am nhac\AN_VNE_ (725).txt*0.011160
+train\new train\Am nhac\AN_VNE_ (722).txt*0.023500
+train\new train\Am nhac\AN_VNE_ (721).txt*0.010470
+train\new train\Am nhac\AN_VNE_ (72).txt*0.029630
+train\new train\Am nhac\AN_VNE_ (719).txt*0.016730
+train\new train\Am nhac\AN_VNE_ (717).txt*0.018060
+train\new train\Am nhac\AN_VNE_ (716).txt*0.013080
+train\new train\Am nhac\AN_VNE_ (715).txt*0.011160
+train\new train\Am nhac\AN_VNE_ (714).txt*0.015960
+train\new train\Am nhac\AN_VNE_ (710).txt*0.016230
+train\new train\Am nhac\AN_VNE_ (71).txt*0.018900
+train\new train\Am nhac\AN_VNE_ (708).txt*0.021740
+train\new train\Am nhac\AN_VNE_ (707).txt*0.015800
+train\new train\Am nhac\AN_VNE_ (704).txt*0.028350
+train\new train\Am nhac\AN_VNE_ (701).txt*0.020300
+train\new train\Am nhac\AN_VNE_ (700).txt*0.028440
+train\new train\Am nhac\AN_VNE_ (7).txt*0.018350
+train\new train\Am nhac\AN_VNE_ (698).txt*0.016130
+train\new train\Am nhac\AN_VNE_ (693).txt*0.010850
+train\new train\Am nhac\AN_VNE_ (691).txt*0.018480
+train\new train\Am nhac\AN_VNE_ (686).txt*0.012080
+train\new train\Am nhac\AN_VNE_ (685).txt*0.013220
+train\new train\Am nhac\AN_VNE_ (684).txt*0.017860
+train\new train\Am nhac\AN_VNE_ (683).txt*0.017180
+train\new train\Am nhac\AN_VNE_ (682).txt*0.019800
+train\new train\Am nhac\AN_VNE_ (678).txt*0.020460
+train\new train\Am nhac\AN_VNE_ (677).txt*0.011590
+train\new train\Am nhac\AN_VNE_ (674).txt*0.022420
+train\new train\Am nhac\AN_VNE_ (670).txt*0.029940
+train\new train\Am nhac\AN_VNE_ (666).txt*0.013160
+train\new train\Am nhac\AN_VNE_ (664).txt*0.019330
+train\new train\Am nhac\AN_VNE_ (662).txt*0.013330
+train\new train\Am nhac\AN_VNE_ (660).txt*0.020690
+train\new train\Am nhac\AN_VNE_ (657).txt*0.014310
+train\new train\Am nhac\AN_VNE_ (653).txt*0.013420
+train\new train\Am nhac\AN_VNE_ (651).txt*0.020920
+train\new train\Am nhac\AN_VNE_ (65).txt*0.013890
+train\new train\Am nhac\AN_VNE_ (649).txt*0.010100
+train\new train\Am nhac\AN_VNE_ (645).txt*0.010960
+train\new train\Am nhac\AN_VNE_ (643).txt*0.020730
+train\new train\Am nhac\AN_VNE_ (637).txt*0.020790
+train\new train\Am nhac\AN_VNE_ (636).txt*0.051020
+train\new train\Am nhac\AN_VNE_ (633).txt*0.015530
+train\new train\Am nhac\AN_VNE_ (631).txt*0.013870
+train\new train\Am nhac\AN_VNE_ (630).txt*0.030810
+train\new train\Am nhac\AN_VNE_ (628).txt*0.012530
+train\new train\Am nhac\AN_VNE_ (626).txt*0.016300
+train\new train\Am nhac\AN_VNE_ (625).txt*0.010270
+train\new train\Am nhac\AN_VNE_ (623).txt*0.010940
+train\new train\Am nhac\AN_VNE_ (619).txt*0.038650
+train\new train\Am nhac\AN_VNE_ (613).txt*0.031830
+train\new train\Am nhac\AN_VNE_ (611).txt*0.014180
+train\new train\Am nhac\AN_VNE_ (607).txt*0.014180
+train\new train\Am nhac\AN_VNE_ (605).txt*0.010470
+train\new train\Am nhac\AN_VNE_ (601).txt*0.010000
+train\new train\Am nhac\AN_VNE_ (60).txt*0.017540
+train\new train\Am nhac\AN_VNE_ (599).txt*0.018390
+train\new train\Am nhac\AN_VNE_ (597).txt*0.014320
+train\new train\Am nhac\AN_VNE_ (589).txt*0.014080
+train\new train\Am nhac\AN_VNE_ (588).txt*0.015090
+train\new train\Am nhac\AN_VNE_ (587).txt*0.014130
+train\new train\Am nhac\AN_VNE_ (586).txt*0.017160
+train\new train\Am nhac\AN_VNE_ (584).txt*0.011050
+train\new train\Am nhac\AN_VNE_ (579).txt*0.022620
+train\new train\Am nhac\AN_VNE_ (576).txt*0.019870
+train\new train\Am nhac\AN_VNE_ (571).txt*0.029170
+train\new train\Am nhac\AN_VNE_ (569).txt*0.013330
+train\new train\Am nhac\AN_VNE_ (565).txt*0.010150
+train\new train\Am nhac\AN_VNE_ (562).txt*0.014930
+train\new train\Am nhac\AN_VNE_ (560).txt*0.012960
+train\new train\Am nhac\AN_VNE_ (554).txt*0.010150
+train\new train\Am nhac\AN_VNE_ (553).txt*0.010810
+train\new train\Am nhac\AN_VNE_ (550).txt*0.014450
+train\new train\Am nhac\AN_VNE_ (55).txt*0.014650
+train\new train\Am nhac\AN_VNE_ (547).txt*0.010390
+train\new train\Am nhac\AN_VNE_ (546).txt*0.020550
+train\new train\Am nhac\AN_VNE_ (544).txt*0.010220
+train\new train\Am nhac\AN_VNE_ (543).txt*0.012400
+train\new train\Am nhac\AN_VNE_ (541).txt*0.011780
+train\new train\Am nhac\AN_VNE_ (538).txt*0.030670
+train\new train\Am nhac\AN_VNE_ (530).txt*0.014180
+train\new train\Am nhac\AN_VNE_ (53).txt*0.014550
+train\new train\Am nhac\AN_VNE_ (515).txt*0.011760
+train\new train\Am nhac\AN_VNE_ (508).txt*0.011130
+train\new train\Am nhac\AN_VNE_ (505).txt*0.021330
+train\new train\Am nhac\AN_VNE_ (503).txt*0.024390
+train\new train\Am nhac\AN_VNE_ (502).txt*0.018260
+train\new train\Am nhac\AN_VNE_ (501).txt*0.010990
+train\new train\Am nhac\AN_VNE_ (50).txt*0.014710
+train\new train\Am nhac\AN_VNE_ (5).txt*0.010990
+train\new train\Am nhac\AN_VNE_ (495).txt*0.014040
+train\new train\Am nhac\AN_VNE_ (494).txt*0.010700
+train\new train\Am nhac\AN_VNE_ (493).txt*0.027910
+train\new train\Am nhac\AN_VNE_ (492).txt*0.010350
+train\new train\Am nhac\AN_VNE_ (485).txt*0.013330
+train\new train\Am nhac\AN_VNE_ (48).txt*0.027270
+train\new train\Am nhac\AN_VNE_ (475).txt*0.017240
+train\new train\Am nhac\AN_VNE_ (472).txt*0.013470
+train\new train\Am nhac\AN_VNE_ (471).txt*0.023450
+train\new train\Am nhac\AN_VNE_ (47).txt*0.013650
+train\new train\Am nhac\AN_VNE_ (466).txt*0.011780
+train\new train\Am nhac\AN_VNE_ (465).txt*0.027780
+train\new train\Am nhac\AN_VNE_ (458).txt*0.014050
+train\new train\Am nhac\AN_VNE_ (455).txt*0.011360
+train\new train\Am nhac\AN_VNE_ (451).txt*0.025790
+train\new train\Am nhac\AN_VNE_ (450).txt*0.019420
+train\new train\Am nhac\AN_VNE_ (449).txt*0.025000
+train\new train\Am nhac\AN_VNE_ (446).txt*0.023920
+train\new train\Am nhac\AN_VNE_ (445).txt*0.036140
+train\new train\Am nhac\AN_VNE_ (443).txt*0.010100
+train\new train\Am nhac\AN_VNE_ (442).txt*0.020470
+train\new train\Am nhac\AN_VNE_ (439).txt*0.020830
+train\new train\Am nhac\AN_VNE_ (436).txt*0.010570
+train\new train\Am nhac\AN_VNE_ (435).txt*0.014600
+train\new train\Am nhac\AN_VNE_ (432).txt*0.018590
+train\new train\Am nhac\AN_VNE_ (428).txt*0.019530
+train\new train\Am nhac\AN_VNE_ (427).txt*0.013250
+train\new train\Am nhac\AN_VNE_ (423).txt*0.027830
+train\new train\Am nhac\AN_VNE_ (417).txt*0.011850
+train\new train\Am nhac\AN_VNE_ (415).txt*0.010130
+train\new train\Am nhac\AN_VNE_ (414).txt*0.011490
+train\new train\Am nhac\AN_VNE_ (408).txt*0.022600
+train\new train\Am nhac\AN_VNE_ (406).txt*0.011880
+train\new train\Am nhac\AN_VNE_ (403).txt*0.013990
+train\new train\Am nhac\AN_VNE_ (400).txt*0.039160
+train\new train\Am nhac\AN_VNE_ (4).txt*0.032790
+train\new train\Am nhac\AN_VNE_ (399).txt*0.045070
+train\new train\Am nhac\AN_VNE_ (394).txt*0.021670
+train\new train\Am nhac\AN_VNE_ (392).txt*0.014810
+train\new train\Am nhac\AN_VNE_ (390).txt*0.011110
+train\new train\Am nhac\AN_VNE_ (381).txt*0.012000
+train\new train\Am nhac\AN_VNE_ (376).txt*0.010780
+train\new train\Am nhac\AN_VNE_ (375).txt*0.010750
+train\new train\Am nhac\AN_VNE_ (365).txt*0.037770
+train\new train\Am nhac\AN_VNE_ (358).txt*0.020900
+train\new train\Am nhac\AN_VNE_ (357).txt*0.011850
+train\new train\Am nhac\AN_VNE_ (355).txt*0.017280
+train\new train\Am nhac\AN_VNE_ (351).txt*0.027610
+train\new train\Am nhac\AN_VNE_ (348).txt*0.016460
+train\new train\Am nhac\AN_VNE_ (344).txt*0.010050
+train\new train\Am nhac\AN_VNE_ (343).txt*0.010530
+train\new train\Am nhac\AN_VNE_ (342).txt*0.012990
+train\new train\Am nhac\AN_VNE_ (341).txt*0.010000
+train\new train\Am nhac\AN_VNE_ (339).txt*0.021740
+train\new train\Am nhac\AN_VNE_ (337).txt*0.016600
+train\new train\Am nhac\AN_VNE_ (335).txt*0.015280
+train\new train\Am nhac\AN_VNE_ (334).txt*0.010000
+train\new train\Am nhac\AN_VNE_ (331).txt*0.010000
+train\new train\Am nhac\AN_VNE_ (329).txt*0.021280
+train\new train\Am nhac\AN_VNE_ (326).txt*0.023600
+train\new train\Am nhac\AN_VNE_ (320).txt*0.011240
+train\new train\Am nhac\AN_VNE_ (315).txt*0.011460
+train\new train\Am nhac\AN_VNE_ (311).txt*0.039600
+train\new train\Am nhac\AN_VNE_ (308).txt*0.012740
+train\new train\Am nhac\AN_VNE_ (307).txt*0.017650
+train\new train\Am nhac\AN_VNE_ (300).txt*0.044720
+train\new train\Am nhac\AN_VNE_ (30).txt*0.017990
+train\new train\Am nhac\AN_VNE_ (298).txt*0.016090
+train\new train\Am nhac\AN_VNE_ (297).txt*0.020000
+train\new train\Am nhac\AN_VNE_ (296).txt*0.013070
+train\new train\Am nhac\AN_VNE_ (290).txt*0.010640
+train\new train\Am nhac\AN_VNE_ (288).txt*0.012820
+train\new train\Am nhac\AN_VNE_ (287).txt*0.010840
+train\new train\Am nhac\AN_VNE_ (283).txt*0.017060
+train\new train\Am nhac\AN_VNE_ (281).txt*0.025210
+train\new train\Am nhac\AN_VNE_ (28).txt*0.015750
+train\new train\Am nhac\AN_VNE_ (277).txt*0.038020
+train\new train\Am nhac\AN_VNE_ (270).txt*0.012080
+train\new train\Am nhac\AN_VNE_ (27).txt*0.018690
+train\new train\Am nhac\AN_VNE_ (259).txt*0.026430
+train\new train\Am nhac\AN_VNE_ (252).txt*0.012660
+train\new train\Am nhac\AN_VNE_ (250).txt*0.011590
+train\new train\Am nhac\AN_VNE_ (249).txt*0.010390
+train\new train\Am nhac\AN_VNE_ (248).txt*0.019610
+train\new train\Am nhac\AN_VNE_ (247).txt*0.013270
+train\new train\Am nhac\AN_VNE_ (246).txt*0.012400
+train\new train\Am nhac\AN_VNE_ (244).txt*0.018260
+train\new train\Am nhac\AN_VNE_ (243).txt*0.011020
+train\new train\Am nhac\AN_VNE_ (235).txt*0.018870
+train\new train\Am nhac\AN_VNE_ (234).txt*0.012140
+train\new train\Am nhac\AN_VNE_ (231).txt*0.043170
+train\new train\Am nhac\AN_VNE_ (230).txt*0.013330
+train\new train\Am nhac\AN_VNE_ (219).txt*0.016390
+train\new train\Am nhac\AN_VNE_ (216).txt*0.011070
+train\new train\Am nhac\AN_VNE_ (211).txt*0.016980
+train\new train\Am nhac\AN_VNE_ (210).txt*0.019480
+train\new train\Am nhac\AN_VNE_ (209).txt*0.011860
+train\new train\Am nhac\AN_VNE_ (207).txt*0.020410
+train\new train\Am nhac\AN_VNE_ (205).txt*0.011900
+train\new train\Am nhac\AN_VNE_ (20).txt*0.010810
+train\new train\Am nhac\AN_VNE_ (2).txt*0.026820
+train\new train\Am nhac\AN_VNE_ (198).txt*0.015230
+train\new train\Am nhac\AN_VNE_ (197).txt*0.014400
+train\new train\Am nhac\AN_VNE_ (193).txt*0.034090
+train\new train\Am nhac\AN_VNE_ (188).txt*0.020870
+train\new train\Am nhac\AN_VNE_ (186).txt*0.025090
+train\new train\Am nhac\AN_VNE_ (184).txt*0.018630
+train\new train\Am nhac\AN_VNE_ (183).txt*0.015020
+train\new train\Am nhac\AN_VNE_ (182).txt*0.016480
+train\new train\Am nhac\AN_VNE_ (180).txt*0.018750
+train\new train\Am nhac\AN_VNE_ (178).txt*0.010360
+train\new train\Am nhac\AN_VNE_ (177).txt*0.013890
+train\new train\Am nhac\AN_VNE_ (176).txt*0.014780
+train\new train\Am nhac\AN_VNE_ (168).txt*0.011300
+train\new train\Am nhac\AN_VNE_ (167).txt*0.014710
+train\new train\Am nhac\AN_VNE_ (163).txt*0.016000
+train\new train\Am nhac\AN_VNE_ (16).txt*0.016200
+train\new train\Am nhac\AN_VNE_ (155).txt*0.011070
+train\new train\Am nhac\AN_VNE_ (15).txt*0.010280
+train\new train\Am nhac\AN_VNE_ (149).txt*0.014930
+train\new train\Am nhac\AN_VNE_ (135).txt*0.016700
+train\new train\Am nhac\AN_VNE_ (132).txt*0.013970
+train\new train\Am nhac\AN_VNE_ (130).txt*0.025160
+train\new train\Am nhac\AN_VNE_ (126).txt*0.015270
+train\new train\Am nhac\AN_VNE_ (125).txt*0.010770
+train\new train\Am nhac\AN_VNE_ (122).txt*0.016970
+train\new train\Am nhac\AN_VNE_ (120).txt*0.011840
+train\new train\Am nhac\AN_VNE_ (117).txt*0.012530
+train\new train\Am nhac\AN_VNE_ (114).txt*0.012110
+train\new train\Am nhac\AN_VNE_ (110).txt*0.015500
+train\new train\Am nhac\AN_VNE_ (107).txt*0.023390
+train\new train\Am nhac\AN_VNE_ (103).txt*0.010930
+train\new train\Am nhac\AN_TT_ (898).txt*0.015630
+train\new train\Am nhac\AN_TT_ (894).txt*0.010190
+train\new train\Am nhac\AN_TN_ (887).txt*0.013420
+train\new train\Am nhac\AN_TN_ (886).txt*0.014290
+train\new train\Am nhac\AN_TN_ (882).txt*0.012660
+train\new train\Am nhac\AN_TN_ (881).txt*0.014930
+train\new train\Am nhac\AN_TN_ (878).txt*0.026320

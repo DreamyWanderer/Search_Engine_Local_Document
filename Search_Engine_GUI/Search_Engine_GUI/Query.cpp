@@ -5,81 +5,87 @@
 #include "QuickSort.h"
 using namespace std;
 
-const float eps = 0.005;
+const float eps = 0.01;
 
 extern SLL curList;
 
-void addFIle (const wstring path){
-    wstring meta = L"Crawl\\metadata\\";
-    wstring index = L"Crawl\\index.txt";
-    FILE* fileIndex = _wfopen(index.c_str(), L"a");
-    fwprintf(fileIndex, L"%s\n", path.c_str());
-    fclose(fileIndex);
-    wstring cur = meta + magicString(path);
-    FILE* fileMeta = _wfopen(cur.c_str(), L"w,ccs=UTF-8");
-    FILE* curPath = _wfopen(path.c_str(), L"r,ccs=UTF-8");
+
+
+void addFile(const wstring path) {
+    FILE* curFile = _wfopen(path.c_str(), L"r,ccs=UTF-8");
+    string p = string(path.begin(), path.end());
+    FILE* index = fopen("Crawl\\index.txt", "a");
+    fprintf(index, "%s\n", p.c_str()); fclose(index);
     wstring s = L"";
-    while (true){
-        if (feof(curPath)){
+    while (true) {
+        if (feof(curFile)) {
             break;
         }
-        s += fgetwc(curPath);
+        s += fgetwc(curFile);
     }
     s.erase(s.size() - 1, 1);
     removeStopwords(s); unsignedDocument(s);
-    int numWords = countInitialWords(s);
-    wstring* words = new wstring[numWords]; 
-    int cntWords = 0;
-    wstring curWord = L"";
-    for (int i = 0; i < s.length(); i++){
-        if (s[i] == L' ' || s[i] == L'\n'){
-            standardized(curWord);
-            if (curWord.length() != 0 && curWord.length() <= 50){
-                words[cntWords++] = curWord;
+    string t = string(s.begin(), s.end());
+    int total = countInitialWords(t);
+    string* tmp = new string[total];
+    string* words = new string[total * 2];
+    wstring x = L""; s += L' ';
+    int cur = 0;
+    for (int i = 0; i < s.length(); i++) {
+        if (s[i] == L' ' || s[i] == L'\n') {
+            standardized(x);
+            if (x.length() != 0 && x.length() < 50) {
+                tmp[cur++] = string(x.begin(), x.end());
             }
-            curWord = L"";
+            x = L"";
         }
-        else curWord += s[i];
+        else x += s[i];
     }
-    standardized(curWord);
-    if (curWord.length() != 0 && curWord.length() <= 50) words[cntWords++] = curWord;
-    quickSort(words, 0, cntWords - 1);
-    fwprintf(fileMeta, L"%d\n", countWords(words, cntWords));
-    curWord = words[0];
-    int curNum = 1;
-    for (int i = 1; i < cntWords; i++){
-        if (words[i] != words[i - 1]){
-            float weight = 1.00 * curNum / cntWords;
-            if (weight >= eps && curWord.length() != 0){
-                fwprintf(fileMeta, L"%s %f\n", curWord.c_str(), weight);
+    int numWords = 0;
+    for (int i = 0; i < cur; i++) {
+        words[numWords++] = tmp[i];
+        if (i + 1 < cur) {
+            words[numWords++] = tmp[i] + " " + tmp[i + 1];
+        }
+    }
+    quickSort(words, 0, numWords - 1);
+    int distincs = countNeedWords(words, numWords, total);
+    int cnt = 1;
+    string metaPath = "Crawl\\metadata\\" + magicString(p);
+    FILE* meta = fopen(metaPath.c_str(), "w");
+    fprintf(meta, "%d\n", distincs);
+    for (int i = 1; i < numWords; i++) {
+        if (words[i] == words[i - 1]) cnt++;
+        else {
+            float weight = 1.00 * cnt * countInitialWords(words[i - 1]) / total;
+            if (weight >= eps) {
+                fprintf(meta, "%.5f %s\n", weight, words[i - 1].c_str());
             }
-            curWord = words[i];
-            curNum = 1;
+            cnt = 1;
         }
-        else curNum++;
     }
-    float weight = 1.00 * curNum / cntWords;
-    if (weight >= eps && curWord.size() != 0){
-        fwprintf(fileMeta, L"%s %f\n", curWord.c_str(), weight);
+    float weight = 1.00 * cnt * countInitialWords(words[numWords - 1]) / total;
+    if (weight >= eps) {
+        fprintf(meta, "%.5f %s\n", weight, words[numWords - 1].c_str());
     }
-    delete[] words;
-    fclose(fileMeta); fclose(curPath);
-    addData(path, curList);
+    delete[] tmp, words;
+    fclose(meta); fclose(curFile);
+    addData(p, curList);
 }
 
-void removeFile(const wstring path) {
-    wstring p = L"Crawl\\metadata\\" + magicString(path);
+void removeFile(const string path) {
+    string p = "Crawl\\metadata\\" + magicString(path);
     if (removePath(path, curList)) {
 
-        FILE* index = _wfopen(L"Crawl\\index.txt", L"w,ccs=UTF-8");
+        FILE* index = fopen("Crawl\\index.txt", "w");
         
         Node* cur = curList.head;
         while (cur != NULL) {
-            fwprintf(index, L"%s\n", cur->path.c_str());
+            fprintf(index, "%s\n", cur->path.c_str());
             cur = cur->nxt;
         }
         fclose(index);
-        int status = _wremove(p.c_str());
+        int status = remove(p.c_str());
         if (status == 0) {
             cerr << "Remove successfully !!!\n";
         }
@@ -87,7 +93,7 @@ void removeFile(const wstring path) {
 }
 
 
-int binSearch(pack* a, int lo, int hi, wstring &key){
+int binSearch(pack* a, int lo, int hi, string &key){
     int pos = -1;
     while (lo <= hi){
         int mi = (lo + hi) / 2;
@@ -104,51 +110,58 @@ int binSearch(pack* a, int lo, int hi, wstring &key){
 
 void searchData(SLL &curList, wstring s){
     unsignedDocument(s);
-    int numWords = countInitialWords(s);
-    wstring* words = new wstring[numWords]; 
+    string t = string(s.begin(), s.end());
+    int numWords = countInitialWords(t);
+    string* words = new string[numWords]; 
     int cntWords = 0;
-    wstring curWord = L"";
+    wstring curWord = L""; s += L' ';
     for (int i = 0; i < s.length(); i++){
         if (s[i] == L' ' || s[i] == L'\n'){
             standardized(curWord);
             if (curWord.length() != 0 && curWord.length() <= 50){
-                words[cntWords++] = curWord;
+                words[cntWords++] = string(curWord.begin(), curWord.end());
             }
             curWord = L"";
         }
         else curWord += s[i];
     }
-    standardized(curWord);
-    if (curWord.length() != 0 && curWord.length() <= 50) words[cntWords++] = curWord;
+ 
 
-    FILE* ans = _wfopen(L"out.txt", L"w,ccs=UTF-8");
+    FILE* ans = fopen("out.txt", "w");
     Node* cur = curList.head;
     while (cur != NULL){
         float totalWeight = 0.00;
         for (int i = 0; i < cntWords; i++){
-            wstring key = words[i];
+            string key = words[i];
             int id = binSearch(cur->listWord, 0, cur->nWords - 1, key);
             if (id != -1){
                 totalWeight += cur->listWord[id].weight;
-                //wcout << cur->path << L' ' << totalWeight << L'\n';
             }
         }
-        if (totalWeight != 0.0) fwprintf(ans, L"%s*%f\n", cur->path.c_str(), totalWeight);
+        for (int i = 0; i + 1 < cntWords; i++) {
+            string key = words[i] + " " + words[i + 1];
+            int id = binSearch(cur->listWord, 0, cur->nWords - 1, key);
+            if (id != -1) {
+                totalWeight += cur->listWord[id].weight * 10;
+            }
+        }
+        if (totalWeight != 0.0) fprintf(ans, "%s*%f\n", cur->path.c_str(), totalWeight);
         cur = cur->nxt;
     }
-
     fclose(ans);
+
 }
 
 
 void loadFileMeta(SLL &cur){
-    FILE* fileIndex = _wfopen(L"Crawl\\index.txt", L"r,ccs=UTF-8");
+    FILE* fileIndex = fopen("Crawl\\index.txt", "r");
     if (fileIndex == nullptr) return;
-    wchar_t buffer[1000];
+    char buffer[1000];
     int cnt = 0;
-    while (fgetws(buffer, 1000, fileIndex)){
-        wstring path(buffer);
-        if (path[path.size() - 1] == L'\n'){
+    while (fgets(buffer, 1000, fileIndex)){
+        string path(buffer);
+        if (path[path.size() - 1] == '\n')
+        {
             path.erase(path.size() - 1, 1);
         }
         cnt++;

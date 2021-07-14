@@ -14,7 +14,6 @@
 #include "WaitingDialog.h"
 #include "lib.h"
 #include "PreprocessFIle.h"
-#include "QuickSort.h"
 #include "SLL.h"
 #include "Query.h"
 #include "TextNormalizationOperators.h"

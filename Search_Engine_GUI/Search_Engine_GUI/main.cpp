@@ -4,8 +4,8 @@
 wstring discards[1942];
 int nStopwords = 1942;
 int convert[1 << 16];
-wstring tokens = L"`~!@#$%^&*()–-_=+[]{}\\|;:'\",<.>/?“”•";
-const float eps = 0.005;
+wstring stupidChar = L"`~!@#$%^&*()–-_=+[]{}\\|;:'\",<.>/?“”•";
+const float eps = 0.01;
 
 SLL curList;
 

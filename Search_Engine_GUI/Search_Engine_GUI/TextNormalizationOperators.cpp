@@ -4,37 +4,40 @@ using namespace std;
 extern int nStopwords;
 extern wstring discards[1942];
 extern int convert[1 << 16];
-extern wstring tokens;
+extern wstring stupidChar;
 
-const float eps = 0.005;
+const float eps = 0.01;
 
-int countWords(wstring* &cur, int n){
+
+
+
+int countNeedWords(string*& cur, int n, int total) {
     if (n == 0) return 0;
     int cnt = 1, ans = 0;
-    for (int i = 1; i < n; i++){
+    for (int i = 1; i < n; i++) {
         if (cur[i] == cur[i - 1]) cnt++;
-        else{
-            if (1.00 * cnt / n >= eps && cur[i - 1].length() != 0) ans++;
+        else {
+            if (1.00 * cnt * countInitialWords(cur[i - 1]) / total >= eps) ans++;
             cnt = 1;
         }
     }
-    if (1.00 * cnt / n >= eps && cur[n - 1].length() != 0) ans++;
+    if (1.00 * cnt * countInitialWords(cur[n - 1]) / total >= eps) ans++;
     return ans;
 }
 
-int countInitialWords(wstring &s){
+int countInitialWords(string& s) {
     int ans = 0;
-    for (int i = 0; i < s.length(); i++){
-        if (s[i] == L' ' || s[i] == L'\n') ans++;
+    for (int i = 0; i < s.length(); i++) {
+        if (s[i] == ' ' || s[i] == '\n') ans++;
     }
     return ans + 1;
 }
 
-void removeStopwords(wstring &s){
-    for (int i = 0; i < nStopwords; i++){
-        while (true){
+void removeStopwords(wstring& s) {
+    for (int i = 0; i < nStopwords; i++) {
+        while (true) {
             int pos = s.find(L" " + discards[i] + L" ");
-            if (pos != -1){
+            if (pos != -1) {
                 s.erase(pos, discards[i].length() + 1);
             }
             else break;
@@ -42,29 +45,30 @@ void removeStopwords(wstring &s){
     }
 }
 
-void unsignedDocument(wstring &s){
-    for (int i = 0; i < s.length(); i++){
-        if (convert[s[i]] != -1){
+void unsignedDocument(wstring& s) {
+    for (int i = 0; i < s.length(); i++) {
+        if (convert[s[i]] != -1) {
             s[i] = convert[s[i]];
         }
-        if ('A' <= s[i] && s[i] <= 'Z'){
-            s[i] = (s[i] - 'A' + 'a');
+        if (L'A' <= s[i] && s[i] <= L'Z') {
+            s[i] = (s[i] - L'A' + L'a');
         }
     }
 }
 
-bool isToken(wchar_t c){
-    for (int i = 0; i < tokens.length(); i++){
-        if (c == tokens[i]) return true;
+bool isTrash(wchar_t c) {
+    for (int i = 0; i < stupidChar.length(); i++) {
+        if (c == stupidChar[i]) return true;
     }
     return false;
 }
 
-void standardized(wstring &word){
-    while (word.length() && isToken(word[0])){
+void standardized(wstring& word) {
+    while (word.length() && isTrash(word[0])) {
         word.erase(0, 1);
-    }    
-    while (word.length() && isToken(word[word.length() - 1])){
+    }
+    while (word.length() && isTrash(word[word.length() - 1])) {
         word.erase(word.length() - 1, 1);
     }
 }
+

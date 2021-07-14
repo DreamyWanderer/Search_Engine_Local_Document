@@ -12,10 +12,10 @@ using namespace std;
 #define _LIB_H_
 
 struct pack {
-    wstring word;
+    string word;
     double weight;
     pack() {};
-    pack(wstring word, double weight) : word(word), weight(weight) {};
+    pack(string word, double weight) : word(word), weight(weight) {};
     bool operator < (const pack& other) const {
         return weight > other.weight;
     }

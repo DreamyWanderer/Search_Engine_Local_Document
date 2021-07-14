@@ -94,15 +94,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PreprocessFile.cpp" />
+    <ClCompile Include="Query.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="SLL.cpp" />
     <ClCompile Include="TextNormalizationOperators.cpp" />
     <ClCompile Include="WaitingDialog.cpp" />
     <ClCompile Include="WarningDialog.cpp" />
     <QtRcc Include="Search_Engine_GUI.qrc" />
     <QtMoc Include="Search_Engine_GUI.h" />
-    <ClCompile Include="PreprocessFile.cpp" />
-    <ClCompile Include="Query.cpp" />
-    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="Search_Engine_GUI.cpp" />
     <ClCompile Include="main.cpp" />
     <QtUic Include="Search_Engine_GUI.ui" />

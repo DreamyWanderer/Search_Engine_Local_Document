@@ -5,8 +5,8 @@
 
 void loadFileMeta(SLL& cur);
 void searchData(SLL& curList, wstring s);
-int binSearch(pack* a, int lo, int hi, wstring& key);
-void removeFile(const wstring path);
-void addFIle(const wstring path);
+int binSearch(pack* a, int lo, int hi, string& key);
+void removeFile(const string path);
+void addFile(const wstring path);
 
 #endif

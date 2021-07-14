@@ -60,7 +60,6 @@ void Search_Engine_GUI::displayFiles(const QString& mPath)
     {
         it.next();
         listFile.append(it.fileName());
-        //QString name = it.fileName();
     }
 
     if (!listFile.isEmpty())
@@ -104,8 +103,7 @@ void Search_Engine_GUI::on_LoadDir_clicked()
             ShowWarning();
             break;
         }
-        addFIle(it.filePath().toStdWString());
-        //out << it.next() << '\n';
+        addFile(it.filePath().toStdWString());
         listFileQuery.append(it.filePath());
         numFileQuery++;
     }
@@ -135,9 +133,8 @@ void Search_Engine_GUI::on_AddFile_clicked()
         }
         path = prefix + '/' + index.data().toString();
         wstring newPath = path.toStdWString();
-        addFIle(newPath);
+        addFile(newPath);
         //addFIle(std::path.toLocal8Bit().constData());
-        //in << path << '\n';
         listFileQuery.append(path);
         numFileQuery++;
     }
@@ -215,6 +212,8 @@ void Search_Engine_GUI::on_tableWidget_cellDoubleClicked(int r, int c)
             ui.textBrowser->append(displayLine);
     }
 
+    ui.tabWidget_2->setCurrentIndex(0);
+
     file.close();
 }
 
@@ -270,7 +269,7 @@ void Search_Engine_GUI::on_DelFile_clicked()
     foreach(const QModelIndex & index, listSelected)
     {
         index.data().toString();
-        removeFile(index.data().toString().toStdWString());
+        removeFile(index.data().toString().toStdString());
         numFileQuery--;
     }
 
@@ -298,12 +297,14 @@ void Search_Engine_GUI::addResult(QString name, QString score, int cnt)
 
 void Search_Engine_GUI::on_searchBox_returnPressed()
 {
+    ui.resultInfo->setText(QString::fromWCharArray(L"Đang tìm kiếm..."));
     QString searchText = ui.searchBox->text();
     Searching(searchText);
 }
 
 void Search_Engine_GUI::on_searchButton_clicked()
 {
+    ui.resultInfo->setText(QString::fromWCharArray(L"Đang tìm kiếm..."));
     QString searchText = ui.searchBox->text();
     Searching(searchText);
 }
