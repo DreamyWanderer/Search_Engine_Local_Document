@@ -1,4 +1,4 @@
-# KTLT_FiLoPa_Project - Đồ án Kỹ thuật lập trình - HCMUS - Search Engine Local Papers
+# Search Engine Local Document (SENLoDo) - Đồ án Kỹ thuật lập trình - HCMUS 
 
 **Note: The project is currently under reviewing and may be upgraded performance in the future**
 
